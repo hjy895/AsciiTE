@@ -10,15 +10,15 @@ The AsciiTE.csv file contains the complete AsciiTE dataset with five columns:
 * **Compositional_strategy**: The compositional strategy used (Direct, Metaphorical, Semantic List, Reduplication, Single)
 * **Attribute**: The semantic attribute (EMOTION, ACTION, OBJECT, STATE, QUALITY)
 
-## Preview of First 5 Rows
+## Preview of AsciiTE Dataset
 
 | EN | ASCII | Description | Compositional_strategy | Attribute |
 |----|-------|-------------|----------------------|-----------|
-| money symbols | $$$ $ $ | ASCII art '$$$ $ $' representing money symbols | Semantic List | OBJECT |
-| creepy reach | (つ ͡° ͜ʖ ͡°)つ | ASCII art '(つ ͡° ͜ʖ ͡°)つ' representing creepy reach | Metaphorical | ACTION |
-| curly brackets | {} | ASCII art '{}' representing curly brackets | Direct | OBJECT |
-| concerned look | (ㆆ_ㆆ) | ASCII art '(ㆆ_ㆆ)' representing concerned look | Metaphorical | EMOTION |
-| happy face | :) | ASCII art ':)' representing happy face | Direct | EMOTION |
+| determined spirit | (๑•̀ㅂ•́)و✧ | ASCII art '(๑•̀ㅂ•́)و✧' representing determined spirit | Metaphorical | QUALITY |
+| joyful celebration | ╰(*°▽°*)╯ | ASCII art '╰(*°▽°*)╯' representing joyful celebration | Metaphorical | EMOTION |
+| happy walking | ♪~ ᕕ(ᐛ)ᕗ | ASCII art '♪~ ᕕ(ᐛ)ᕗ' representing happy walking | Metaphorical | ACTION |
+| gentle smile | (✿◠‿◠) | ASCII art '(✿◠‿◠)' representing gentle smile | Metaphorical | EMOTION |
+| cool dancing | ヾ(⌐■_■)ノ♪ | ASCII art 'ヾ(⌐■_■)ノ♪' representing cool dancing | Metaphorical | ACTION |
 
 ## Dataset Statistics
 
