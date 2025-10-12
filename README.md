@@ -2,51 +2,51 @@
 
 This repo provides the dataset and official implementations for our paper **"The AsciiTE Dataset: ASCII Art and Lexical Composition for Textual Entailment"**.
 
-The AsciiTE.csv file encompasses the complete AsciiTE dataset, which is segmented into six distinctive columns:
+The AsciiTE.csv file encompasses the complete AsciiTE dataset, which is segmented into five distinctive columns:
 
 * **EN**: The English phrase;
 * **ASCII**: The ASCII art sequence corresponding to the English phrase;
 * **Description**: The description for the ASCII art;
 * **Compositional_strategy**: The strategy used to compose the ASCII art, as identified in our corpus study. It includes direct representation, metaphorical representation, semantic list, reduplication, and single ASCII symbols.
 * **Attribute**: The attribute of the English phrase (EMOTION, ACTION, OBJECT, STATE, QUALITY).
-* **Label**: Binary label indicating entailment (1) or no entailment (0).
+
+**Note**: Like ELCo, this dataset contains only **correct ASCII-phrase mappings**. Negative examples (non-entailment pairs) are generated during the textual entailment experiments, not stored in the main CSV file.
 
 ## Preview of First 5 Rows in AsciiTE.csv
 
-| EN | ASCII | Description | Compositional_strategy | Attribute | Label |
-|----|-------|-------------|----------------------|-----------|-------|
-| money symbols | $$$ $ $ | ASCII '$$$ $ $' represents 'money symbols' | Semantic List | OBJECT | 1 |
-| many ats | ###### | ASCII '######' does NOT represent 'many ats' | Reduplication | OBJECT | 0 |
-| creepy reach | (つ ͡° ͜ʖ ͡°)つ | ASCII '(つ ͡° ͜ʖ ͡°)つ' represents 'creepy reach' | Metaphorical | ACTION | 1 |
-| curly brackets | {} | ASCII '{}' represents 'curly brackets' | Direct | OBJECT | 1 |
-| concerned look | (ㆆ_ㆆ) | ASCII '(ㆆ_ㆆ)' represents 'concerned look' | Metaphorical | EMOTION | 1 |
+| EN | ASCII | Description | Compositional_strategy | Attribute |
+|----|-------|-------------|----------------------|-----------|
+| money symbols | $$$ $ $ | ['$$$ $ $'] | Semantic List | OBJECT |
+| creepy reach | (つ ͡° ͜ʖ ͡°)つ | ['(つ ͡° ͜ʖ ͡°)つ'] | Metaphorical | ACTION |
+| curly brackets | {} | ['{}'] | Direct | OBJECT |
+| concerned look | (ㆆ_ㆆ) | ['(ㆆ_ㆆ)'] | Metaphorical | EMOTION |
+| putting table back | ┬─┬ノ( º _ ºノ) | ['┬─┬ノ( º _ ºノ)'] | Metaphorical | ACTION |
 
 ## Dataset Statistics
 
-- **Total instances**: 1,500 ASCII-phrase pairs
-- **Positive (Entailment)**: 769 (51.3%)
-- **Negative (No Entailment)**: 731 (48.7%)
-- **Unique ASCII arts**: 167
-- **Unique phrases**: 169
+- **Total instances**: 748 correct ASCII-phrase mappings
+- **Unique ASCII arts**: ~150
+- **Unique phrases**: ~150
+- **Note**: Negative examples generated during experiments (following ELCo methodology)
 
 ### Compositional Strategy Distribution:
-- **Direct**: 368 instances (24.5%) - Simple, clear mappings like `:)` → "happy face"
-- **Metaphorical**: 611 instances (40.7%) - Abstract representations like `(╯°□°）╯︵ ┻━┻` → "extreme frustration"
-- **Semantic List**: 307 instances (20.5%) - Multiple ASCII elements like `<3 <3 <3` → "multiple hearts"
-- **Reduplication**: 145 instances (9.7%) - Repeated elements like `XDXDXD` → "extreme laughter"
-- **Single**: 69 instances (4.6%) - Single ASCII symbols like `♥` → "love symbol"
+- **Metaphorical**: 290 instances (38.8%) - Abstract representations like `(╯°□°）╯︵ ┻━┻` → "extreme frustration"
+- **Direct**: 203 instances (27.1%) - Simple, clear mappings like `:)` → "happy face"
+- **Semantic List**: 148 instances (19.8%) - Multiple ASCII elements like `<3 <3 <3` → "multiple hearts"
+- **Reduplication**: 72 instances (9.6%) - Repeated elements like `XDXDXD` → "extreme laughter"
+- **Single**: 35 instances (4.7%) - Single ASCII symbols like `♥` → "love symbol"
 
 ### Attribute Distribution:
-- **ACTION**: 500 instances (33.3%) - Action-related ASCII like `o/` → "waving hand"
-- **OBJECT**: 408 instances (27.2%) - Object representations like `<3` → "heart shape"
-- **EMOTION**: 393 instances (26.2%) - Emotional expressions like `:)` → "happy face"
-- **STATE**: 134 instances (8.9%) - State descriptions like `zzzzzz` → "deep sleep"
-- **QUALITY**: 65 instances (4.3%) - Quality attributes like `✓` → "check mark"
+- **EMOTION**: 222 instances (29.7%) - Emotional expressions like `:)` → "happy face"
+- **OBJECT**: 216 instances (28.9%) - Object representations like `<3` → "heart shape"
+- **ACTION**: 212 instances (28.3%) - Action-related ASCII like `o/` → "waving hand"
+- **STATE**: 63 instances (8.4%) - State descriptions like `zzzzzz` → "deep sleep"
+- **QUALITY**: 35 instances (4.7%) - Quality attributes like `✓` → "check mark"
 
 ## Installation 📀💻
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/AsciiTE.git
+git clone https://github.com/hjy895/AsciiTE.git
 cd AsciiTE
 cd scripts
 pip install -r requirements.txt
