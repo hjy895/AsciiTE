@@ -94,7 +94,7 @@ bash scripts/scaling.sh
 
 ```
 benchmark_data/
-└── exp-entailment/
+└── ascii-textual-entailment/
     ├── train.csv     # Training set (1,052 instances)
     ├── val.csv       # Validation set (225 instances)
     └── test.csv      # Test set (226 instances)
@@ -108,7 +108,7 @@ AsciiTE/
 ├── README.md                   # This file
 ├── requirements.txt            # Python dependencies
 ├── benchmark_data/             # Train/val/test splits
-│   └── exp-entailment/
+│   └── ascii-textual-entailment/
 │       ├── train.csv
 │       ├── val.csv
 │       └── test.csv

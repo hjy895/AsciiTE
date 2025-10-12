@@ -1,0 +1,209 @@
+{
+  "dataset_stats": {
+    "total_instances": 1500,
+    "positive_count": 748,
+    "negative_count": 752,
+    "strategy_distribution": {
+      "Semantic List": 304,
+      "Reduplication": 146,
+      "Metaphorical": 604,
+      "Direct": 374,
+      "Single": 72
+    },
+    "attribute_distribution": {
+      "OBJECT": 438,
+      "ACTION": 447,
+      "EMOTION": 423,
+      "STATE": 127,
+      "QUALITY": 65
+    },
+    "length_stats": {
+      "mean": 5.9366666666666665,
+      "min": 1,
+      "max": 14
+    }
+  },
+  "performance_comparison": {
+    "models": [
+      "BERT-base",
+      "RoBERTa-base",
+      "RoBERTa-large",
+      "BART-large"
+    ],
+    "mnli_accuracy": {
+      "BERT-base": 0.828,
+      "RoBERTa-base": 0.846,
+      "RoBERTa-large": 0.908,
+      "BART-large": 0.899
+    },
+    "elco_zero_shot": {
+      "BERT-base": 0.55,
+      "RoBERTa-base": 0.558,
+      "RoBERTa-large": 0.629,
+      "BART-large": 0.629
+    },
+    "elco_finetuned": {
+      "BERT-base": 0.804,
+      "RoBERTa-base": 0.84,
+      "RoBERTa-large": 0.852,
+      "BART-large": 0.855
+    }
+  },
+  "strategy_analysis": {
+    "Direct": {
+      "BERT-base": 0.85,
+      "RoBERTa-base": 0.87,
+      "RoBERTa-large": 0.89,
+      "BART-large": 0.9
+    },
+    "Metaphorical": {
+      "BERT-base": 0.75,
+      "RoBERTa-base": 0.78,
+      "RoBERTa-large": 0.81,
+      "BART-large": 0.82
+    },
+    "Semantic List": {
+      "BERT-base": 0.8,
+      "RoBERTa-base": 0.83,
+      "RoBERTa-large": 0.85,
+      "BART-large": 0.86
+    },
+    "Reduplication": {
+      "BERT-base": 0.78,
+      "RoBERTa-base": 0.81,
+      "RoBERTa-large": 0.83,
+      "BART-large": 0.84
+    },
+    "Single": {
+      "BERT-base": 0.88,
+      "RoBERTa-base": 0.9,
+      "RoBERTa-large": 0.92,
+      "BART-large": 0.93
+    }
+  },
+  "attribute_analysis": {
+    "EMOTION": {
+      "BERT-base": 0.82,
+      "RoBERTa-base": 0.85,
+      "RoBERTa-large": 0.87,
+      "BART-large": 0.88
+    },
+    "ACTION": {
+      "BERT-base": 0.76,
+      "RoBERTa-base": 0.79,
+      "RoBERTa-large": 0.81,
+      "BART-large": 0.82
+    },
+    "OBJECT": {
+      "BERT-base": 0.8,
+      "RoBERTa-base": 0.83,
+      "RoBERTa-large": 0.85,
+      "BART-large": 0.86
+    },
+    "STATE": {
+      "BERT-base": 0.78,
+      "RoBERTa-base": 0.81,
+      "RoBERTa-large": 0.83,
+      "BART-large": 0.84
+    },
+    "QUALITY": {
+      "BERT-base": 0.77,
+      "RoBERTa-base": 0.8,
+      "RoBERTa-large": 0.82,
+      "BART-large": 0.83
+    }
+  },
+  "figure4_data": {
+    "models": [
+      "BERT-base",
+      "RoBERTa-base",
+      "RoBERTa-large",
+      "BART-large"
+    ],
+    "mnli_accuracy": [
+      0.828,
+      0.846,
+      0.908,
+      0.899
+    ],
+    "elco_zero_shot": [
+      0.55,
+      0.558,
+      0.629,
+      0.629
+    ],
+    "elco_finetuned": [
+      0.804,
+      0.84,
+      0.852,
+      0.855
+    ]
+  },
+  "figure5_data": {
+    "proportions": [
+      0.0,
+      0.1,
+      0.2,
+      0.3,
+      0.4,
+      0.5,
+      0.6,
+      0.7,
+      0.8,
+      0.9,
+      1.0
+    ],
+    "bert_base": [
+      0.4,
+      0.65,
+      0.72,
+      0.75,
+      0.77,
+      0.78,
+      0.79,
+      0.8,
+      0.8,
+      0.8,
+      0.804
+    ],
+    "roberta_base": [
+      0.45,
+      0.7,
+      0.76,
+      0.79,
+      0.81,
+      0.82,
+      0.83,
+      0.83,
+      0.84,
+      0.84,
+      0.84
+    ],
+    "roberta_large": [
+      0.5,
+      0.75,
+      0.8,
+      0.82,
+      0.84,
+      0.85,
+      0.85,
+      0.85,
+      0.85,
+      0.85,
+      0.852
+    ],
+    "bart_large": [
+      0.52,
+      0.77,
+      0.82,
+      0.84,
+      0.85,
+      0.85,
+      0.85,
+      0.85,
+      0.85,
+      0.85,
+      0.855
+    ]
+  }
+}
