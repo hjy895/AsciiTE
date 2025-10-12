@@ -1,0 +1,1501 @@
+EN,ASCII,Description,Compositional_strategy,Attribute,Label
+money symbols,$$$ $ $,ASCII '$$$ $ $' represents 'money symbols',Semantic List,OBJECT,1
+many ats,######,ASCII '######' does NOT represent 'many ats',Reduplication,OBJECT,0
+creepy reach,(つ ͡° ͜ʖ ͡°)つ,ASCII '(つ ͡° ͜ʖ ͡°)つ' represents 'creepy reach',Metaphorical,ACTION,1
+curly brackets,{},ASCII '{}' represents 'curly brackets',Direct,OBJECT,1
+concerned look,(ㆆ_ㆆ),ASCII '(ㆆ_ㆆ)' represents 'concerned look',Metaphorical,EMOTION,1
+reverse arrows,|| | ||,ASCII '|| | ||' does NOT represent 'reverse arrows',Semantic List,OBJECT,0
+playful tongue,(),ASCII '()' does NOT represent 'playful tongue',Direct,OBJECT,0
+many ups,++++++,ASCII '++++++' does NOT represent 'many ups',Reduplication,OBJECT,0
+cute smile,ಥ_ಥ,ASCII 'ಥ_ಥ' does NOT represent 'cute smile',Metaphorical,EMOTION,0
+percent signs,<- <-- <---,ASCII '<- <-- <---' does NOT represent 'percent signs',Semantic List,ACTION,0
+long equals,******,ASCII '******' does NOT represent 'long equals',Reduplication,OBJECT,0
+putting table back,┬─┬ノ( º _ ºノ),ASCII '┬─┬ノ( º _ ºノ)' represents 'putting table back',Metaphorical,ACTION,1
+happy face,:),ASCII ':)' represents 'happy face',Direct,EMOTION,1
+finger guns,(☞ﾟヮﾟ)☞,ASCII '(☞ﾟヮﾟ)☞' represents 'finger guns',Metaphorical,ACTION,1
+growing confusion,??? ? ?,ASCII '??? ? ?' represents 'growing confusion',Semantic List,STATE,1
+adding more,+++ + +,ASCII '+++ + +' represents 'adding more',Semantic List,ACTION,1
+continuous laughing,@@@@@@,ASCII '@@@@@@' does NOT represent 'continuous laughing',Reduplication,OBJECT,0
+ellipsis pattern,%%% % %,ASCII '%%% % %' does NOT represent 'ellipsis pattern',Semantic List,OBJECT,0
+happy walking,♪~ ᕕ(ᐛ)ᕗ,ASCII '♪~ ᕕ(ᐛ)ᕗ' represents 'happy walking',Metaphorical,ACTION,1
+both hands up,\o/,ASCII '\o/' represents 'both hands up',Direct,ACTION,1
+praying hands,_/\_,ASCII '_/\_' represents 'praying hands',Direct,ACTION,1
+circle shape,o,ASCII 'o' represents 'circle shape',Direct,OBJECT,1
+person waving,~~~,ASCII '~~~' does NOT represent 'person waving',Direct,OBJECT,0
+plus signs,_/\_,ASCII '_/\_' does NOT represent 'plus signs',Direct,ACTION,0
+many pluses,lolololol,ASCII 'lolololol' does NOT represent 'many pluses',Reduplication,EMOTION,0
+gentle smile,(つ ͡° ͜ʖ ͡°)つ,ASCII '(つ ͡° ͜ʖ ͡°)つ' does NOT represent 'gentle smile',Metaphorical,ACTION,0
+yin yang,☯,ASCII '☯' represents 'yin yang',Single,OBJECT,1
+gentle smile,┬─┬ノ( º _ ºノ),ASCII '┬─┬ノ( º _ ºノ)' does NOT represent 'gentle smile',Metaphorical,ACTION,0
+person celebrating,\o_,ASCII '\o_' represents 'person celebrating',Direct,ACTION,1
+person waving,_o/,ASCII '_o/' represents 'person waving',Direct,ACTION,1
+fading lines,--- - -,ASCII '--- - -' represents 'fading lines',Semantic List,OBJECT,1
+love symbol,♥,ASCII '♥' represents 'love symbol',Single,EMOTION,1
+extreme laughter,------,ASCII '------' does NOT represent 'extreme laughter',Reduplication,OBJECT,0
+determined spirit,(ง ͠° ͟ل͜ ͡°)ง,ASCII '(ง ͠° ͟ل͜ ͡°)ง' does NOT represent 'determined spirit',Metaphorical,STATE,0
+cross mark,☂,ASCII '☂' does NOT represent 'cross mark',Single,OBJECT,0
+creepy reach,♪~ ᕕ(ᐛ)ᕗ,ASCII '♪~ ᕕ(ᐛ)ᕗ' does NOT represent 'creepy reach',Metaphorical,ACTION,0
+adding more,[ ] { } ( ),ASCII '[ ] { } ( )' does NOT represent 'adding more',Semantic List,OBJECT,0
+envelope symbol,✉,ASCII '✉' represents 'envelope symbol',Single,OBJECT,1
+determined spirit,☜(ﾟヮﾟ☜),ASCII '☜(ﾟヮﾟ☜)' does NOT represent 'determined spirit',Metaphorical,ACTION,0
+playful tongue,:P,ASCII ':P' represents 'playful tongue',Direct,EMOTION,1
+heavy emphasis,######,ASCII '######' represents 'heavy emphasis',Reduplication,OBJECT,1
+extreme frustration,(╯°□°）╯︵ ┻━┻,ASCII '(╯°□°）╯︵ ┻━┻' represents 'extreme frustration',Metaphorical,EMOTION,1
+wave pattern,~~ ~ ~~,ASCII '~~ ~ ~~' represents 'wave pattern',Semantic List,OBJECT,1
+crying face,T_T,ASCII 'T_T' represents 'crying face',Direct,EMOTION,1
+star symbol,*,ASCII '*' represents 'star symbol',Direct,OBJECT,1
+tears of joy,ಥ_ಥ,ASCII 'ಥ_ಥ' represents 'tears of joy',Metaphorical,EMOTION,1
+money symbols,$$$ $ $,ASCII '$$$ $ $' represents 'money symbols',Semantic List,OBJECT,1
+sly expression,(¬‿¬),ASCII '(¬‿¬)' represents 'sly expression',Metaphorical,EMOTION,1
+multiple hearts,[ ] { } ( ),ASCII '[ ] { } ( )' does NOT represent 'multiple hearts',Semantic List,OBJECT,0
+cool dancing,ヾ(⌐■_■)ノ♪,ASCII 'ヾ(⌐■_■)ノ♪' represents 'cool dancing',Metaphorical,ACTION,1
+snowman symbol,♣,ASCII '♣' does NOT represent 'snowman symbol',Single,OBJECT,0
+slash pattern,=) =) =),ASCII '=) =) =)' does NOT represent 'slash pattern',Semantic List,EMOTION,0
+offering hug,(っ◔◡◔)っ,ASCII '(っ◔◡◔)っ' represents 'offering hug',Metaphorical,ACTION,1
+many ats,======,ASCII '======' does NOT represent 'many ats',Reduplication,OBJECT,0
+cool attitude,┌(・。・)┘♪,ASCII '┌(・。・)┘♪' does NOT represent 'cool attitude',Metaphorical,ACTION,0
+circle pattern,TT T TT,ASCII 'TT T TT' does NOT represent 'circle pattern',Semantic List,EMOTION,0
+disapproval stare,ಠ_ಠ,ASCII 'ಠ_ಠ' represents 'disapproval stare',Metaphorical,EMOTION,1
+creepy reach,ᕙ(⇀‸↼‶)ᕗ,ASCII 'ᕙ(⇀‸↼‶)ᕗ' does NOT represent 'creepy reach',Metaphorical,ACTION,0
+winking,|||,ASCII '|||' does NOT represent 'winking',Direct,OBJECT,0
+equal signs,===,ASCII '===' represents 'equal signs',Direct,OBJECT,1
+bar pattern,|| | ||,ASCII '|| | ||' represents 'bar pattern',Semantic List,OBJECT,1
+gentle grasp,(ㆆ_ㆆ),ASCII '(ㆆ_ㆆ)' does NOT represent 'gentle grasp',Metaphorical,EMOTION,0
+many ands,&&&&&&,ASCII '&&&&&&' represents 'many ands',Reduplication,OBJECT,1
+joyful celebration,┬─┬ノ( º _ ºノ),ASCII '┬─┬ノ( º _ ºノ)' does NOT represent 'joyful celebration',Metaphorical,ACTION,0
+arrow left,\o,ASCII '\o' does NOT represent 'arrow left',Direct,ACTION,0
+x marks,??? ? ?,ASCII '??? ? ?' does NOT represent 'x marks',Semantic List,STATE,0
+android smile,(҂◡_◡),ASCII '(҂◡_◡)' represents 'android smile',Metaphorical,QUALITY,1
+intense anger,(╬ಠ益ಠ),ASCII '(╬ಠ益ಠ)' represents 'intense anger',Metaphorical,EMOTION,1
+weird fighter,(╯°□°）╯︵ ┻━┻,ASCII '(╯°□°）╯︵ ┻━┻' does NOT represent 'weird fighter',Metaphorical,EMOTION,0
+laughing hard,XD,ASCII 'XD' represents 'laughing hard',Direct,EMOTION,1
+offering hug,╰(*°▽°*)╯,ASCII '╰(*°▽°*)╯' does NOT represent 'offering hug',Metaphorical,EMOTION,0
+broken heart,</3,ASCII '</3' represents 'broken heart',Direct,OBJECT,1
+crying face,:P,ASCII ':P' does NOT represent 'crying face',Direct,EMOTION,0
+putting table back,┬─┬ノ( º _ ºノ),ASCII '┬─┬ノ( º _ ºノ)' represents 'putting table back',Metaphorical,ACTION,1
+surprised,+++,ASCII '+++' does NOT represent 'surprised',Direct,OBJECT,0
+shock and confusion,!!! ???,ASCII '!!! ???' represents 'shock and confusion',Semantic List,STATE,1
+dancing happily,(◉_◉),ASCII '(◉_◉)' does NOT represent 'dancing happily',Metaphorical,STATE,0
+both hands up,\o/,ASCII '\o/' represents 'both hands up',Direct,ACTION,1
+wave pattern,### # #,ASCII '### # #' does NOT represent 'wave pattern',Semantic List,OBJECT,0
+box shape,[],ASCII '[]' represents 'box shape',Direct,OBJECT,1
+gentle smile,(づ￣ ³￣)づ,ASCII '(づ￣ ³￣)づ' does NOT represent 'gentle smile',Metaphorical,ACTION,0
+vertical lines,|||,ASCII '|||' represents 'vertical lines',Direct,OBJECT,1
+hashtag emphasis,~~ ~ ~~,ASCII '~~ ~ ~~' does NOT represent 'hashtag emphasis',Semantic List,OBJECT,0
+arrow down,~~~,ASCII '~~~' does NOT represent 'arrow down',Direct,OBJECT,0
+ready to fight,(ㆆ_ㆆ),ASCII '(ㆆ_ㆆ)' does NOT represent 'ready to fight',Metaphorical,EMOTION,0
+money symbols,$$$ $ $,ASCII '$$$ $ $' represents 'money symbols',Semantic List,OBJECT,1
+club suit,♣,ASCII '♣' represents 'club suit',Single,OBJECT,1
+finger guns,(づ￣ ³￣)づ,ASCII '(づ￣ ³￣)づ' does NOT represent 'finger guns',Metaphorical,ACTION,0
+percent signs,@@@ @ @,ASCII '@@@ @ @' does NOT represent 'percent signs',Semantic List,OBJECT,0
+dancing to music,(ง ͠° ͟ل͜ ͡°)ง,ASCII '(ง ͠° ͟ل͜ ͡°)ง' does NOT represent 'dancing to music',Metaphorical,STATE,0
+slash pattern,$$$ $ $,ASCII '$$$ $ $' does NOT represent 'slash pattern',Semantic List,OBJECT,0
+wide eyed,ᕦ(ò_óˇ)ᕤ,ASCII 'ᕦ(ò_óˇ)ᕤ' does NOT represent 'wide eyed',Metaphorical,ACTION,0
+praying hands,_/\_,ASCII '_/\_' represents 'praying hands',Direct,ACTION,1
+sly expression,(~˘▾˘)~,ASCII '(~˘▾˘)~' does NOT represent 'sly expression',Metaphorical,ACTION,0
+dizzy face,@_@,ASCII '@_@' represents 'dizzy face',Direct,EMOTION,1
+fading lines,--- - -,ASCII '--- - -' represents 'fading lines',Semantic List,OBJECT,1
+group sadness,=) =) =),ASCII '=) =) =)' does NOT represent 'group sadness',Semantic List,EMOTION,0
+wide eyed,( ˘ ³˘)♥,ASCII '( ˘ ³˘)♥' does NOT represent 'wide eyed',Metaphorical,ACTION,0
+hash pattern,\o/,ASCII '\o/' does NOT represent 'hash pattern',Direct,ACTION,0
+raising hand,\o,ASCII '\o' represents 'raising hand',Direct,ACTION,1
+sly expression,☜(ﾟヮﾟ☜),ASCII '☜(ﾟヮﾟ☜)' does NOT represent 'sly expression',Metaphorical,ACTION,0
+bracket types,[ ] { } ( ),ASCII '[ ] { } ( )' represents 'bracket types',Semantic List,OBJECT,1
+many downs,------,ASCII '------' does NOT represent 'many downs',Reduplication,OBJECT,0
+many pluses,~~~~~~,ASCII '~~~~~~' does NOT represent 'many pluses',Reduplication,OBJECT,0
+dancing happily,ヾ(⌐■_■)ノ♪,ASCII 'ヾ(⌐■_■)ノ♪' does NOT represent 'dancing happily',Metaphorical,ACTION,0
+person waving,_o/,ASCII '_o/' represents 'person waving',Direct,ACTION,1
+happy walking,♪~ ᕕ(ᐛ)ᕗ,ASCII '♪~ ᕕ(ᐛ)ᕗ' represents 'happy walking',Metaphorical,ACTION,1
+putting on glasses,( •_•)>⌐■-■,ASCII '( •_•)>⌐■-■' represents 'putting on glasses',Metaphorical,ACTION,1
+weird fighter,ಠ_ಠ,ASCII 'ಠ_ಠ' does NOT represent 'weird fighter',Metaphorical,EMOTION,0
+happy face,###,ASCII '###' does NOT represent 'happy face',Direct,OBJECT,0
+disapproval stare,(づ￣ ³￣)づ,ASCII '(づ￣ ³￣)づ' does NOT represent 'disapproval stare',Metaphorical,ACTION,0
+creepy reach,(╬ಠ益ಠ),ASCII '(╬ಠ益ಠ)' does NOT represent 'creepy reach',Metaphorical,EMOTION,0
+person celebrating,\o_,ASCII '\o_' represents 'person celebrating',Direct,ACTION,1
+winking,|||,ASCII '|||' does NOT represent 'winking',Direct,OBJECT,0
+putting table back,┬─┬ノ( º _ ºノ),ASCII '┬─┬ノ( º _ ºノ)' represents 'putting table back',Metaphorical,ACTION,1
+circle shape,o,ASCII 'o' represents 'circle shape',Direct,OBJECT,1
+ampersands,??? ? ?,ASCII '??? ? ?' does NOT represent 'ampersands',Semantic List,STATE,0
+neutral expression,:-|,ASCII ':-|' represents 'neutral expression',Direct,EMOTION,1
+android smile,(~˘▾˘)~,ASCII '(~˘▾˘)~' does NOT represent 'android smile',Metaphorical,ACTION,0
+offering hug,(っ◔◡◔)っ,ASCII '(っ◔◡◔)っ' represents 'offering hug',Metaphorical,ACTION,1
+dancing to music,(ಥ﹏ಥ),ASCII '(ಥ﹏ಥ)' does NOT represent 'dancing to music',Metaphorical,EMOTION,0
+extreme frustration,(╯°□°）╯︵ ┻━┻,ASCII '(╯°□°）╯︵ ┻━┻' represents 'extreme frustration',Metaphorical,EMOTION,1
+determined spirit,(๑•̀ㅂ•́)و✧,ASCII '(๑•̀ㅂ•́)و✧' represents 'determined spirit',Metaphorical,QUALITY,1
+club suit,♥,ASCII '♥' does NOT represent 'club suit',Single,EMOTION,0
+curly brackets,{},ASCII '{}' represents 'curly brackets',Direct,OBJECT,1
+dancing to music,┌(・。・)┘♪,ASCII '┌(・。・)┘♪' represents 'dancing to music',Metaphorical,ACTION,1
+energetic dance,♪┏(・o･)┛♪,ASCII '♪┏(・o･)┛♪' represents 'energetic dance',Metaphorical,ACTION,1
+percent signs,.. . ..,ASCII '.. . ..' does NOT represent 'percent signs',Semantic List,STATE,0
+putting table back,┬─┬ノ( º _ ºノ),ASCII '┬─┬ノ( º _ ºノ)' represents 'putting table back',Metaphorical,ACTION,1
+wide eyed,(◉_◉),ASCII '(◉_◉)' represents 'wide eyed',Metaphorical,STATE,1
+putting on glasses,(✿◠‿◠),ASCII '(✿◠‿◠)' does NOT represent 'putting on glasses',Metaphorical,EMOTION,0
+disapproval stare,ಠ_ಠ,ASCII 'ಠ_ಠ' represents 'disapproval stare',Metaphorical,EMOTION,1
+do not know,ლ(╹◡╹ლ),ASCII 'ლ(╹◡╹ლ)' does NOT represent 'do not know',Metaphorical,ACTION,0
+adding more,ooo o o,ASCII 'ooo o o' does NOT represent 'adding more',Semantic List,OBJECT,0
+bracket types,@@@ @ @,ASCII '@@@ @ @' does NOT represent 'bracket types',Semantic List,OBJECT,0
+person waving,{},ASCII '{}' does NOT represent 'person waving',Direct,OBJECT,0
+tears of joy,(◉_◉),ASCII '(◉_◉)' does NOT represent 'tears of joy',Metaphorical,STATE,0
+kissy hug,(҂◡_◡),ASCII '(҂◡_◡)' does NOT represent 'kissy hug',Metaphorical,QUALITY,0
+up and down,^^^ vvv,ASCII '^^^ vvv' represents 'up and down',Semantic List,ACTION,1
+suggestive look,┬─┬ノ( º _ ºノ),ASCII '┬─┬ノ( º _ ºノ)' does NOT represent 'suggestive look',Metaphorical,ACTION,0
+adding more,\\ \ \\,ASCII '\\ \ \\' does NOT represent 'adding more',Semantic List,OBJECT,0
+reverse arrows,<- <-- <---,ASCII '<- <-- <---' represents 'reverse arrows',Semantic List,ACTION,1
+flexing muscles,ᕙ(⇀‸↼‶)ᕗ,ASCII 'ᕙ(⇀‸↼‶)ᕗ' represents 'flexing muscles',Metaphorical,ACTION,1
+frowning,:-(,ASCII ':-(' represents 'frowning',Direct,EMOTION,1
+weird fighter,( ͡° ͜ʖ ͡°),ASCII '( ͡° ͜ʖ ͡°)' does NOT represent 'weird fighter',Metaphorical,EMOTION,0
+wavy line,~~~~~~,ASCII '~~~~~~' represents 'wavy line',Reduplication,OBJECT,1
+slash pattern,// / //,ASCII '// / //' represents 'slash pattern',Semantic List,OBJECT,1
+blowing kiss,(~˘▾˘)~,ASCII '(~˘▾˘)~' does NOT represent 'blowing kiss',Metaphorical,ACTION,0
+waving hand,o/,ASCII 'o/' represents 'waving hand',Direct,ACTION,1
+suggestive look,( ͡° ͜ʖ ͡°),ASCII '( ͡° ͜ʖ ͡°)' represents 'suggestive look',Metaphorical,EMOTION,1
+creepy reach,(つ ͡° ͜ʖ ͡°)つ,ASCII '(つ ͡° ͜ʖ ͡°)つ' represents 'creepy reach',Metaphorical,ACTION,1
+strong right,......,ASCII '......' does NOT represent 'strong right',Reduplication,STATE,0
+trailing off,??? ? ?,ASCII '??? ? ?' does NOT represent 'trailing off',Semantic List,STATE,0
+growing confusion,??? ? ?,ASCII '??? ? ?' represents 'growing confusion',Semantic List,STATE,1
+annoyed expression,-_-,ASCII '-_-' represents 'annoyed expression',Direct,EMOTION,1
+content smile,=),ASCII '=)' represents 'content smile',Direct,EMOTION,1
+star pattern,>>> <<<,ASCII '>>> <<<' does NOT represent 'star pattern',Semantic List,ACTION,0
+spade suit,♠,ASCII '♠' represents 'spade suit',Single,OBJECT,1
+annoyed expression,-_-,ASCII '-_-' represents 'annoyed expression',Direct,EMOTION,1
+raising hand,\o,ASCII '\o' represents 'raising hand',Direct,ACTION,1
+cute smile,(｡◕‿◕｡),ASCII '(｡◕‿◕｡)' represents 'cute smile',Metaphorical,EMOTION,1
+adding more,+++ + +,ASCII '+++ + +' represents 'adding more',Semantic List,ACTION,1
+raising hand,v,ASCII 'v' does NOT represent 'raising hand',Direct,OBJECT,0
+putting table back,(☞ﾟヮﾟ)☞,ASCII '(☞ﾟヮﾟ)☞' does NOT represent 'putting table back',Metaphorical,ACTION,0
+star symbol,*,ASCII '*' represents 'star symbol',Direct,OBJECT,1
+x marks,XXX X X,ASCII 'XXX X X' represents 'x marks',Semantic List,OBJECT,1
+at symbols,<- <-- <---,ASCII '<- <-- <---' does NOT represent 'at symbols',Semantic List,ACTION,0
+circle pattern,ooo o o,ASCII 'ooo o o' represents 'circle pattern',Semantic List,OBJECT,1
+many stars,<<<<<<,ASCII '<<<<<<' does NOT represent 'many stars',Reduplication,ACTION,0
+long line,++++++,ASCII '++++++' does NOT represent 'long line',Reduplication,OBJECT,0
+vertical lines,_o/,ASCII '_o/' does NOT represent 'vertical lines',Direct,ACTION,0
+at symbols,@@@ @ @,ASCII '@@@ @ @' represents 'at symbols',Semantic List,OBJECT,1
+annoyed expression,-_-,ASCII '-_-' represents 'annoyed expression',Direct,EMOTION,1
+box shape,[],ASCII '[]' represents 'box shape',Direct,OBJECT,1
+happy eyes,^_^,ASCII '^_^' represents 'happy eyes',Direct,EMOTION,1
+ampersands,&&& & &,ASCII '&&& & &' represents 'ampersands',Semantic List,OBJECT,1
+sly expression,(¬‿¬),ASCII '(¬‿¬)' represents 'sly expression',Metaphorical,EMOTION,1
+asterisk pattern,***,ASCII '***' represents 'asterisk pattern',Direct,OBJECT,1
+very upset,*,ASCII '*' does NOT represent 'very upset',Direct,OBJECT,0
+angry face,>:(,ASCII '>:(' represents 'angry face',Direct,EMOTION,1
+joyful celebration,(◕‿◕✿),ASCII '(◕‿◕✿)' does NOT represent 'joyful celebration',Metaphorical,QUALITY,0
+wavy line,XDXDXD,ASCII 'XDXDXD' does NOT represent 'wavy line',Reduplication,EMOTION,0
+swaying dance,(~˘▾˘)~,ASCII '(~˘▾˘)~' represents 'swaying dance',Metaphorical,ACTION,1
+increasing excitement,:( :( :(,ASCII ':( :( :(' does NOT represent 'increasing excitement',Semantic List,EMOTION,0
+sly expression,ヽ(´▽`)/,ASCII 'ヽ(´▽`)/' does NOT represent 'sly expression',Metaphorical,EMOTION,0
+carefree joy,ಥ_ಥ,ASCII 'ಥ_ಥ' does NOT represent 'carefree joy',Metaphorical,EMOTION,0
+extreme emphasis,######,ASCII '######' does NOT represent 'extreme emphasis',Reduplication,OBJECT,0
+vertical lines,|||,ASCII '|||' represents 'vertical lines',Direct,OBJECT,1
+x marks,XXX X X,ASCII 'XXX X X' represents 'x marks',Semantic List,OBJECT,1
+happy walking,♪~ ᕕ(ᐛ)ᕗ,ASCII '♪~ ᕕ(ᐛ)ᕗ' represents 'happy walking',Metaphorical,ACTION,1
+vertical lines,|||,ASCII '|||' represents 'vertical lines',Direct,OBJECT,1
+box shape,[],ASCII '[]' represents 'box shape',Direct,OBJECT,1
+happy eyes pattern,>>> <<<,ASCII '>>> <<<' does NOT represent 'happy eyes pattern',Semantic List,ACTION,0
+smiling,{},ASCII '{}' does NOT represent 'smiling',Direct,OBJECT,0
+cool attitude,ᕦ(ò_óˇ)ᕤ,ASCII 'ᕦ(ò_óˇ)ᕤ' does NOT represent 'cool attitude',Metaphorical,ACTION,0
+diamond shape,:-(,ASCII ':-(' does NOT represent 'diamond shape',Direct,EMOTION,0
+disapproval stare,ಠ_ಠ,ASCII 'ಠ_ಠ' represents 'disapproval stare',Metaphorical,EMOTION,1
+adding more,@@@ @ @,ASCII '@@@ @ @' does NOT represent 'adding more',Semantic List,OBJECT,0
+diamond shape,<>,ASCII '<>' represents 'diamond shape',Direct,OBJECT,1
+yin yang,☯,ASCII '☯' represents 'yin yang',Single,OBJECT,1
+person celebrating,\o_,ASCII '\o_' represents 'person celebrating',Direct,ACTION,1
+up and down,-> --> --->,ASCII '-> --> --->' does NOT represent 'up and down',Semantic List,ACTION,0
+reverse arrows,--- - -,ASCII '--- - -' does NOT represent 'reverse arrows',Semantic List,OBJECT,0
+sly expression,(¬‿¬),ASCII '(¬‿¬)' represents 'sly expression',Metaphorical,EMOTION,1
+crying pattern,--- - -,ASCII '--- - -' does NOT represent 'crying pattern',Semantic List,OBJECT,0
+pure happiness,(•_•),ASCII '(•_•)' does NOT represent 'pure happiness',Metaphorical,STATE,0
+finger guns,(☞ﾟヮﾟ)☞,ASCII '(☞ﾟヮﾟ)☞' represents 'finger guns',Metaphorical,ACTION,1
+star struck,_/\_,ASCII '_/\_' does NOT represent 'star struck',Direct,ACTION,0
+happy eyes,^_^,ASCII '^_^' represents 'happy eyes',Direct,EMOTION,1
+squinting eyes,D:,ASCII 'D:' does NOT represent 'squinting eyes',Direct,EMOTION,0
+fading lines,* * *,ASCII '* * *' does NOT represent 'fading lines',Semantic List,OBJECT,0
+angry face,>:(,ASCII '>:(' represents 'angry face',Direct,EMOTION,1
+ampersands,&&& & &,ASCII '&&& & &' represents 'ampersands',Semantic List,OBJECT,1
+flower girl,( ͡° ͜ʖ ͡°),ASCII '( ͡° ͜ʖ ͡°)' does NOT represent 'flower girl',Metaphorical,EMOTION,0
+wavy line,~~~~~~,ASCII '~~~~~~' represents 'wavy line',Reduplication,OBJECT,1
+star pattern,%%% % %,ASCII '%%% % %' does NOT represent 'star pattern',Semantic List,OBJECT,0
+heavy emphasis,######,ASCII '######' represents 'heavy emphasis',Reduplication,OBJECT,1
+deep sleep,zzzzzz,ASCII 'zzzzzz' represents 'deep sleep',Reduplication,STATE,1
+determined spirit,(๑•̀ㅂ•́)و✧,ASCII '(๑•̀ㅂ•́)و✧' represents 'determined spirit',Metaphorical,QUALITY,1
+wide eyed,(◉_◉),ASCII '(◉_◉)' represents 'wide eyed',Metaphorical,STATE,1
+pure happiness,＼(^o^)／,ASCII '＼(^o^)／' represents 'pure happiness',Metaphorical,EMOTION,1
+pointing back,( ˘ ³˘)♥,ASCII '( ˘ ³˘)♥' does NOT represent 'pointing back',Metaphorical,ACTION,0
+neutral expression,:-|,ASCII ':-|' represents 'neutral expression',Direct,EMOTION,1
+happy walking,¯\_(ツ)_/¯,ASCII '¯\_(ツ)_/¯' does NOT represent 'happy walking',Metaphorical,STATE,0
+vertical lines,\o,ASCII '\o' does NOT represent 'vertical lines',Direct,ACTION,0
+multiple hearts,<3 <3 <3,ASCII '<3 <3 <3' represents 'multiple hearts',Semantic List,EMOTION,1
+at symbols,@@@ @ @,ASCII '@@@ @ @' represents 'at symbols',Semantic List,OBJECT,1
+equal signs,***,ASCII '***' does NOT represent 'equal signs',Direct,OBJECT,0
+happy walking,(｡♥‿♥｡),ASCII '(｡♥‿♥｡)' does NOT represent 'happy walking',Metaphorical,EMOTION,0
+trailing off,... . . .,ASCII '... . . .' represents 'trailing off',Semantic List,STATE,1
+many ups,^^^^^^,ASCII '^^^^^^' represents 'many ups',Reduplication,ACTION,1
+happy eyes,:(,ASCII ':(' does NOT represent 'happy eyes',Direct,EMOTION,0
+hash pattern,###,ASCII '###' represents 'hash pattern',Direct,OBJECT,1
+android smile,(╬ಠ益ಠ),ASCII '(╬ಠ益ಠ)' does NOT represent 'android smile',Metaphorical,EMOTION,0
+happy eyes,^_^,ASCII '^_^' represents 'happy eyes',Direct,EMOTION,1
+concerned look,(ㆆ_ㆆ),ASCII '(ㆆ_ㆆ)' represents 'concerned look',Metaphorical,EMOTION,1
+cross mark,☮,ASCII '☮' does NOT represent 'cross mark',Single,OBJECT,0
+dizzy face,...,ASCII '...' does NOT represent 'dizzy face',Direct,OBJECT,0
+backslash pattern,-> --> --->,ASCII '-> --> --->' does NOT represent 'backslash pattern',Semantic List,ACTION,0
+wavy line,......,ASCII '......' does NOT represent 'wavy line',Reduplication,STATE,0
+laughing hard,XD,ASCII 'XD' represents 'laughing hard',Direct,EMOTION,1
+arrow up,^,ASCII '^' represents 'arrow up',Direct,OBJECT,1
+crying sadly,(ಥ﹏ಥ),ASCII '(ಥ﹏ಥ)' represents 'crying sadly',Metaphorical,EMOTION,1
+praying hands,_/\_,ASCII '_/\_' represents 'praying hands',Direct,ACTION,1
+parentheses,(),ASCII '()' represents 'parentheses',Direct,OBJECT,1
+suggestive look,(ง ͠° ͟ل͜ ͡°)ง,ASCII '(ง ͠° ͟ل͜ ͡°)ง' does NOT represent 'suggestive look',Metaphorical,STATE,0
+cool attitude,(⌐■_■),ASCII '(⌐■_■)' represents 'cool attitude',Metaphorical,QUALITY,1
+gentle smile,(╯°□°）╯︵ ┻━┻,ASCII '(╯°□°）╯︵ ┻━┻' does NOT represent 'gentle smile',Metaphorical,EMOTION,0
+dancing to music,┌(・。・)┘♪,ASCII '┌(・。・)┘♪' represents 'dancing to music',Metaphorical,ACTION,1
+raising hand,\o,ASCII '\o' represents 'raising hand',Direct,ACTION,1
+money symbols,$$$ $ $,ASCII '$$$ $ $' represents 'money symbols',Semantic List,OBJECT,1
+multiple hearts,<3 <3 <3,ASCII '<3 <3 <3' represents 'multiple hearts',Semantic List,EMOTION,1
+happy walking,♪~ ᕕ(ᐛ)ᕗ,ASCII '♪~ ᕕ(ᐛ)ᕗ' represents 'happy walking',Metaphorical,ACTION,1
+bracket types,[ ] { } ( ),ASCII '[ ] { } ( )' represents 'bracket types',Semantic List,OBJECT,1
+heart shape,</3,ASCII '</3' does NOT represent 'heart shape',Direct,OBJECT,0
+cool attitude,(⌐■_■),ASCII '(⌐■_■)' represents 'cool attitude',Metaphorical,QUALITY,1
+multiple hearts,\\ \ \\,ASCII '\\ \ \\' does NOT represent 'multiple hearts',Semantic List,OBJECT,0
+umbrella symbol,♦,ASCII '♦' does NOT represent 'umbrella symbol',Single,OBJECT,0
+horizontal line,T_T,ASCII 'T_T' does NOT represent 'horizontal line',Direct,EMOTION,0
+concerned look,ヾ(⌐■_■)ノ♪,ASCII 'ヾ(⌐■_■)ノ♪' does NOT represent 'concerned look',Metaphorical,ACTION,0
+group smiling,[ ] { } ( ),ASCII '[ ] { } ( )' does NOT represent 'group smiling',Semantic List,OBJECT,0
+percent signs,%%% % %,ASCII '%%% % %' represents 'percent signs',Semantic List,OBJECT,1
+strong left,<<<<<<,ASCII '<<<<<<' represents 'strong left',Reduplication,ACTION,1
+check mark,☀,ASCII '☀' does NOT represent 'check mark',Single,OBJECT,0
+waving hand,o/,ASCII 'o/' represents 'waving hand',Direct,ACTION,1
+lots of money,$$$$$$,ASCII '$$$$$$' represents 'lots of money',Reduplication,OBJECT,1
+vertical lines,|||,ASCII '|||' represents 'vertical lines',Direct,OBJECT,1
+many pluses,++++++,ASCII '++++++' represents 'many pluses',Reduplication,OBJECT,1
+cross mark,✈,ASCII '✈' does NOT represent 'cross mark',Single,OBJECT,0
+putting table back,＼(^o^)／,ASCII '＼(^o^)／' does NOT represent 'putting table back',Metaphorical,EMOTION,0
+on the floor,OTL,ASCII 'OTL' represents 'on the floor',Direct,ACTION,1
+trailing off,... . . .,ASCII '... . . .' represents 'trailing off',Semantic List,STATE,1
+long pause,~~~~~~,ASCII '~~~~~~' does NOT represent 'long pause',Reduplication,OBJECT,0
+circle shape,===,ASCII '===' does NOT represent 'circle shape',Direct,OBJECT,0
+laughing hard,:-O,ASCII ':-O' does NOT represent 'laughing hard',Direct,EMOTION,0
+many ats,@@@@@@,ASCII '@@@@@@' represents 'many ats',Reduplication,OBJECT,1
+flower girl,(◕‿◕✿),ASCII '(◕‿◕✿)' represents 'flower girl',Metaphorical,QUALITY,1
+ready to fight,ლ(╹◡╹ლ),ASCII 'ლ(╹◡╹ლ)' does NOT represent 'ready to fight',Metaphorical,ACTION,0
+tears of joy,ಥ_ಥ,ASCII 'ಥ_ಥ' represents 'tears of joy',Metaphorical,EMOTION,1
+hash pattern,***,ASCII '***' does NOT represent 'hash pattern',Direct,OBJECT,0
+annoyed expression,-_-,ASCII '-_-' represents 'annoyed expression',Direct,EMOTION,1
+wave pattern,|| | ||,ASCII '|| | ||' does NOT represent 'wave pattern',Semantic List,OBJECT,0
+weird fighter,(ง ͠° ͟ل͜ ͡°)ง,ASCII '(ง ͠° ͟ل͜ ͡°)ง' represents 'weird fighter',Metaphorical,STATE,1
+concerned look,(ง ͠° ͟ل͜ ͡°)ง,ASCII '(ง ͠° ͟ل͜ ͡°)ง' does NOT represent 'concerned look',Metaphorical,STATE,0
+continuous laughing,lolololol,ASCII 'lolololol' represents 'continuous laughing',Reduplication,EMOTION,1
+cloud symbol,♦,ASCII '♦' does NOT represent 'cloud symbol',Single,OBJECT,0
+crying pattern,TT T TT,ASCII 'TT T TT' represents 'crying pattern',Semantic List,EMOTION,1
+many percents,%%%%%%,ASCII '%%%%%%' represents 'many percents',Reduplication,OBJECT,1
+finger guns,( ˘ ³˘)♥,ASCII '( ˘ ³˘)♥' does NOT represent 'finger guns',Metaphorical,ACTION,0
+creepy reach,(｡♥‿♥｡),ASCII '(｡♥‿♥｡)' does NOT represent 'creepy reach',Metaphorical,EMOTION,0
+plus signs,;),ASCII ';)' does NOT represent 'plus signs',Direct,EMOTION,0
+flower girl,(◕‿◕✿),ASCII '(◕‿◕✿)' represents 'flower girl',Metaphorical,QUALITY,1
+bar pattern,|| | ||,ASCII '|| | ||' represents 'bar pattern',Semantic List,OBJECT,1
+wavy line,~~~~~~,ASCII '~~~~~~' represents 'wavy line',Reduplication,OBJECT,1
+happy face,:),ASCII ':)' represents 'happy face',Direct,EMOTION,1
+arrow progression,-> --> --->,ASCII '-> --> --->' represents 'arrow progression',Semantic List,ACTION,1
+happy walking,(☞ﾟヮﾟ)☞,ASCII '(☞ﾟヮﾟ)☞' does NOT represent 'happy walking',Metaphorical,ACTION,0
+wide eyed,(ง •̀_•́)ง,ASCII '(ง •̀_•́)ง' does NOT represent 'wide eyed',Metaphorical,STATE,0
+many pluses,++++++,ASCII '++++++' represents 'many pluses',Reduplication,OBJECT,1
+parentheses,v,ASCII 'v' does NOT represent 'parentheses',Direct,OBJECT,0
+diamond shape,[],ASCII '[]' does NOT represent 'diamond shape',Direct,OBJECT,0
+star pattern,[ ] { } ( ),ASCII '[ ] { } ( )' does NOT represent 'star pattern',Semantic List,OBJECT,0
+circle pattern,ooo o o,ASCII 'ooo o o' represents 'circle pattern',Semantic List,OBJECT,1
+ampersands,$$$ $ $,ASCII '$$$ $ $' does NOT represent 'ampersands',Semantic List,OBJECT,0
+carefree joy,(｡◕‿◕｡),ASCII '(｡◕‿◕｡)' does NOT represent 'carefree joy',Metaphorical,EMOTION,0
+backslash pattern,^^^ vvv,ASCII '^^^ vvv' does NOT represent 'backslash pattern',Semantic List,ACTION,0
+backslash pattern,??? ? ?,ASCII '??? ? ?' does NOT represent 'backslash pattern',Semantic List,STATE,0
+laughing sound,$$$$$$,ASCII '$$$$$$' does NOT represent 'laughing sound',Reduplication,OBJECT,0
+slash pattern,// / //,ASCII '// / //' represents 'slash pattern',Semantic List,OBJECT,1
+neutral observation,ᕙ(⇀‸↼‶)ᕗ,ASCII 'ᕙ(⇀‸↼‶)ᕗ' does NOT represent 'neutral observation',Metaphorical,ACTION,0
+kissy hug,☜(ﾟヮﾟ☜),ASCII '☜(ﾟヮﾟ☜)' does NOT represent 'kissy hug',Metaphorical,ACTION,0
+pure happiness,(ง ͠° ͟ل͜ ͡°)ง,ASCII '(ง ͠° ͟ل͜ ͡°)ง' does NOT represent 'pure happiness',Metaphorical,STATE,0
+intense anger,¯\_(ツ)_/¯,ASCII '¯\_(ツ)_/¯' does NOT represent 'intense anger',Metaphorical,STATE,0
+joyful celebration,╰(*°▽°*)╯,ASCII '╰(*°▽°*)╯' represents 'joyful celebration',Metaphorical,EMOTION,1
+carefree joy,ヽ(´▽`)/,ASCII 'ヽ(´▽`)/' represents 'carefree joy',Metaphorical,EMOTION,1
+disapproval stare,ಠ_ಠ,ASCII 'ಠ_ಠ' represents 'disapproval stare',Metaphorical,EMOTION,1
+wide eyed,(◉_◉),ASCII '(◉_◉)' represents 'wide eyed',Metaphorical,STATE,1
+group smiling,=) =) =),ASCII '=) =) =)' represents 'group smiling',Semantic List,EMOTION,1
+cute smile,＼(^o^)／,ASCII '＼(^o^)／' does NOT represent 'cute smile',Metaphorical,EMOTION,0
+determined spirit,(✿◠‿◠),ASCII '(✿◠‿◠)' does NOT represent 'determined spirit',Metaphorical,EMOTION,0
+group smiling,|| | ||,ASCII '|| | ||' does NOT represent 'group smiling',Semantic List,OBJECT,0
+android smile,ヾ(⌐■_■)ノ♪,ASCII 'ヾ(⌐■_■)ノ♪' does NOT represent 'android smile',Metaphorical,ACTION,0
+ready to fight,(ㆆ_ㆆ),ASCII '(ㆆ_ㆆ)' does NOT represent 'ready to fight',Metaphorical,EMOTION,0
+fading lines,* * *,ASCII '* * *' does NOT represent 'fading lines',Semantic List,OBJECT,0
+group smiling,%%% % %,ASCII '%%% % %' does NOT represent 'group smiling',Semantic List,OBJECT,0
+kissy hug,＼(^o^)／,ASCII '＼(^o^)／' does NOT represent 'kissy hug',Metaphorical,EMOTION,0
+wide eyed,(◉_◉),ASCII '(◉_◉)' represents 'wide eyed',Metaphorical,STATE,1
+heart shape,<3,ASCII '<3' represents 'heart shape',Direct,OBJECT,1
+disapproval stare,ಠ_ಠ,ASCII 'ಠ_ಠ' represents 'disapproval stare',Metaphorical,EMOTION,1
+intense anger,(╬ಠ益ಠ),ASCII '(╬ಠ益ಠ)' represents 'intense anger',Metaphorical,EMOTION,1
+trailing off,... . . .,ASCII '... . . .' represents 'trailing off',Semantic List,STATE,1
+total confusion,^^^^^^,ASCII '^^^^^^' does NOT represent 'total confusion',Reduplication,ACTION,0
+love struck,(｡♥‿♥｡),ASCII '(｡♥‿♥｡)' represents 'love struck',Metaphorical,EMOTION,1
+dancing happily,〜(￣▽￣〜),ASCII '〜(￣▽￣〜)' represents 'dancing happily',Metaphorical,ACTION,1
+asterisk pattern,***,ASCII '***' represents 'asterisk pattern',Direct,OBJECT,1
+intense anger,♪┏(・o･)┛♪,ASCII '♪┏(・o･)┛♪' does NOT represent 'intense anger',Metaphorical,ACTION,0
+blowing kiss,ヽ(´▽`)/,ASCII 'ヽ(´▽`)/' does NOT represent 'blowing kiss',Metaphorical,EMOTION,0
+back and forth,### # #,ASCII '### # #' does NOT represent 'back and forth',Semantic List,OBJECT,0
+laughing sound,hahahahaha,ASCII 'hahahahaha' represents 'laughing sound',Reduplication,EMOTION,1
+cool dancing,ヾ(⌐■_■)ノ♪,ASCII 'ヾ(⌐■_■)ノ♪' represents 'cool dancing',Metaphorical,ACTION,1
+hash pattern,###,ASCII '###' represents 'hash pattern',Direct,OBJECT,1
+happy eyes pattern,%%% % %,ASCII '%%% % %' does NOT represent 'happy eyes pattern',Semantic List,OBJECT,0
+umbrella symbol,☂,ASCII '☂' represents 'umbrella symbol',Single,OBJECT,1
+up and down,^^^ vvv,ASCII '^^^ vvv' represents 'up and down',Semantic List,ACTION,1
+playful tongue,:P,ASCII ':P' represents 'playful tongue',Direct,EMOTION,1
+many ats,@@@@@@,ASCII '@@@@@@' represents 'many ats',Reduplication,OBJECT,1
+cute smile,(｡◕‿◕｡),ASCII '(｡◕‿◕｡)' represents 'cute smile',Metaphorical,EMOTION,1
+back and forth,>>> <<<,ASCII '>>> <<<' represents 'back and forth',Semantic List,ACTION,1
+suggestive look,( ͡° ͜ʖ ͡°),ASCII '( ͡° ͜ʖ ͡°)' represents 'suggestive look',Metaphorical,EMOTION,1
+happy walking,(⌐■_■),ASCII '(⌐■_■)' does NOT represent 'happy walking',Metaphorical,QUALITY,0
+group sadness,:( :( :(,ASCII ':( :( :(' represents 'group sadness',Semantic List,EMOTION,1
+very upset,D:,ASCII 'D:' represents 'very upset',Direct,EMOTION,1
+x marks,ooo o o,ASCII 'ooo o o' does NOT represent 'x marks',Semantic List,OBJECT,0
+kissy hug,(づ￣ ³￣)づ,ASCII '(づ￣ ³￣)づ' represents 'kissy hug',Metaphorical,ACTION,1
+concerned look,(ㆆ_ㆆ),ASCII '(ㆆ_ㆆ)' represents 'concerned look',Metaphorical,EMOTION,1
+broken heart,OTL,ASCII 'OTL' does NOT represent 'broken heart',Direct,ACTION,0
+growing confusion,??? ? ?,ASCII '??? ? ?' represents 'growing confusion',Semantic List,STATE,1
+star struck,*_*,ASCII '*_*' represents 'star struck',Direct,EMOTION,1
+crying pattern,TT T TT,ASCII 'TT T TT' represents 'crying pattern',Semantic List,EMOTION,1
+raising hand,\o,ASCII '\o' represents 'raising hand',Direct,ACTION,1
+intense anger,(¬‿¬),ASCII '(¬‿¬)' does NOT represent 'intense anger',Metaphorical,EMOTION,0
+ready to fight,(ง •̀_•́)ง,ASCII '(ง •̀_•́)ง' represents 'ready to fight',Metaphorical,STATE,1
+dancing happily,〜(￣▽￣〜),ASCII '〜(￣▽￣〜)' represents 'dancing happily',Metaphorical,ACTION,1
+bowing down,orz,ASCII 'orz' represents 'bowing down',Direct,ACTION,1
+android smile,(҂◡_◡),ASCII '(҂◡_◡)' represents 'android smile',Metaphorical,QUALITY,1
+star struck,*_*,ASCII '*_*' represents 'star struck',Direct,EMOTION,1
+long equals,======,ASCII '======' represents 'long equals',Reduplication,OBJECT,1
+three stars,// / //,ASCII '// / //' does NOT represent 'three stars',Semantic List,OBJECT,0
+arrow up,>:(,ASCII '>:(' does NOT represent 'arrow up',Direct,EMOTION,0
+very upset,_o/,ASCII '_o/' does NOT represent 'very upset',Direct,ACTION,0
+long pause,zzzzzz,ASCII 'zzzzzz' does NOT represent 'long pause',Reduplication,STATE,0
+continuous laughing,######,ASCII '######' does NOT represent 'continuous laughing',Reduplication,OBJECT,0
+carefree joy,ヽ(´▽`)/,ASCII 'ヽ(´▽`)/' represents 'carefree joy',Metaphorical,EMOTION,1
+intense anger,╰(*°▽°*)╯,ASCII '╰(*°▽°*)╯' does NOT represent 'intense anger',Metaphorical,EMOTION,0
+smiling,@_@,ASCII '@_@' does NOT represent 'smiling',Direct,EMOTION,0
+dots pattern,...,ASCII '...' represents 'dots pattern',Direct,OBJECT,1
+happy face,=),ASCII '=)' does NOT represent 'happy face',Direct,EMOTION,0
+angry face,>:(,ASCII '>:(' represents 'angry face',Direct,EMOTION,1
+waving hand,:D,ASCII ':D' does NOT represent 'waving hand',Direct,EMOTION,0
+many ats,@@@@@@,ASCII '@@@@@@' represents 'many ats',Reduplication,OBJECT,1
+gentle smile,( ˘ ³˘)♥,ASCII '( ˘ ³˘)♥' does NOT represent 'gentle smile',Metaphorical,ACTION,0
+dancing to music,(つ ͡° ͜ʖ ͡°)つ,ASCII '(つ ͡° ͜ʖ ͡°)つ' does NOT represent 'dancing to music',Metaphorical,ACTION,0
+shock and confusion,<- <-- <---,ASCII '<- <-- <---' does NOT represent 'shock and confusion',Semantic List,ACTION,0
+neutral observation,(•_•),ASCII '(•_•)' represents 'neutral observation',Metaphorical,STATE,1
+hot springs,♥,ASCII '♥' does NOT represent 'hot springs',Single,EMOTION,0
+sly expression,(๑•̀ㅂ•́)و✧,ASCII '(๑•̀ㅂ•́)و✧' does NOT represent 'sly expression',Metaphorical,QUALITY,0
+percent signs,^^ ^ ^^,ASCII '^^ ^ ^^' does NOT represent 'percent signs',Semantic List,EMOTION,0
+star pattern,\\ \ \\,ASCII '\\ \ \\' does NOT represent 'star pattern',Semantic List,OBJECT,0
+backslash pattern,~~ ~ ~~,ASCII '~~ ~ ~~' does NOT represent 'backslash pattern',Semantic List,OBJECT,0
+ready to fight,(╯°□°）╯︵ ┻━┻,ASCII '(╯°□°）╯︵ ┻━┻' does NOT represent 'ready to fight',Metaphorical,EMOTION,0
+concerned look,(ㆆ_ㆆ),ASCII '(ㆆ_ㆆ)' represents 'concerned look',Metaphorical,EMOTION,1
+gentle grasp,ლ(╹◡╹ლ),ASCII 'ლ(╹◡╹ლ)' represents 'gentle grasp',Metaphorical,ACTION,1
+neutral observation,ヾ(⌐■_■)ノ♪,ASCII 'ヾ(⌐■_■)ノ♪' does NOT represent 'neutral observation',Metaphorical,ACTION,0
+arrow down,v,ASCII 'v' represents 'arrow down',Direct,OBJECT,1
+snowman symbol,♠,ASCII '♠' does NOT represent 'snowman symbol',Single,OBJECT,0
+growing confusion,??? ? ?,ASCII '??? ? ?' represents 'growing confusion',Semantic List,STATE,1
+gentle grasp,ლ(╹◡╹ლ),ASCII 'ლ(╹◡╹ლ)' represents 'gentle grasp',Metaphorical,ACTION,1
+both hands up,\o/,ASCII '\o/' represents 'both hands up',Direct,ACTION,1
+backslash pattern,\\ \ \\,ASCII '\\ \ \\' represents 'backslash pattern',Semantic List,OBJECT,1
+kissy hug,☜(ﾟヮﾟ☜),ASCII '☜(ﾟヮﾟ☜)' does NOT represent 'kissy hug',Metaphorical,ACTION,0
+do not know,¯\_(ツ)_/¯,ASCII '¯\_(ツ)_/¯' represents 'do not know',Metaphorical,STATE,1
+on the floor,:-|,ASCII ':-|' does NOT represent 'on the floor',Direct,EMOTION,0
+many pluses,++++++,ASCII '++++++' represents 'many pluses',Reduplication,OBJECT,1
+love struck,＼(^o^)／,ASCII '＼(^o^)／' does NOT represent 'love struck',Metaphorical,EMOTION,0
+reverse arrows,XXX X X,ASCII 'XXX X X' does NOT represent 'reverse arrows',Semantic List,OBJECT,0
+happy walking,♪~ ᕕ(ᐛ)ᕗ,ASCII '♪~ ᕕ(ᐛ)ᕗ' represents 'happy walking',Metaphorical,ACTION,1
+joyful celebration,╰(*°▽°*)╯,ASCII '╰(*°▽°*)╯' represents 'joyful celebration',Metaphorical,EMOTION,1
+many ups,^^^^^^,ASCII '^^^^^^' represents 'many ups',Reduplication,ACTION,1
+wave pattern,~~ ~ ~~,ASCII '~~ ~ ~~' represents 'wave pattern',Semantic List,OBJECT,1
+many stars,~~~~~~,ASCII '~~~~~~' does NOT represent 'many stars',Reduplication,OBJECT,0
+many downs,hahahahaha,ASCII 'hahahahaha' does NOT represent 'many downs',Reduplication,EMOTION,0
+putting on glasses,♪~ ᕕ(ᐛ)ᕗ,ASCII '♪~ ᕕ(ᐛ)ᕗ' does NOT represent 'putting on glasses',Metaphorical,ACTION,0
+star pattern,TT T TT,ASCII 'TT T TT' does NOT represent 'star pattern',Semantic List,EMOTION,0
+ready to fight,(ง •̀_•́)ง,ASCII '(ง •̀_•́)ง' represents 'ready to fight',Metaphorical,STATE,1
+curly brackets,T_T,ASCII 'T_T' does NOT represent 'curly brackets',Direct,EMOTION,0
+crying sadly,( ˘ ³˘)♥,ASCII '( ˘ ³˘)♥' does NOT represent 'crying sadly',Metaphorical,ACTION,0
+crying face,/o\,ASCII '/o\' does NOT represent 'crying face',Direct,ACTION,0
+vertical lines,\o_,ASCII '\o_' does NOT represent 'vertical lines',Direct,ACTION,0
+love struck,╰(*°▽°*)╯,ASCII '╰(*°▽°*)╯' does NOT represent 'love struck',Metaphorical,EMOTION,0
+ready to fight,( •_•)>⌐■-■,ASCII '( •_•)>⌐■-■' does NOT represent 'ready to fight',Metaphorical,ACTION,0
+adding more,*** ** *,ASCII '*** ** *' does NOT represent 'adding more',Semantic List,OBJECT,0
+total confusion,?????,ASCII '?????' represents 'total confusion',Reduplication,STATE,1
+big grin,<--,ASCII '<--' does NOT represent 'big grin',Direct,OBJECT,0
+sly expression,(ง ͠° ͟ل͜ ͡°)ง,ASCII '(ง ͠° ͟ل͜ ͡°)ง' does NOT represent 'sly expression',Metaphorical,STATE,0
+wide eyed,(◉_◉),ASCII '(◉_◉)' represents 'wide eyed',Metaphorical,STATE,1
+adding more,TT T TT,ASCII 'TT T TT' does NOT represent 'adding more',Semantic List,EMOTION,0
+dancing happily,〜(￣▽￣〜),ASCII '〜(￣▽￣〜)' represents 'dancing happily',Metaphorical,ACTION,1
+total confusion,&&&&&&,ASCII '&&&&&&' does NOT represent 'total confusion',Reduplication,OBJECT,0
+love symbol,✗,ASCII '✗' does NOT represent 'love symbol',Single,QUALITY,0
+kissy hug,(づ￣ ³￣)づ,ASCII '(づ￣ ³￣)づ' represents 'kissy hug',Metaphorical,ACTION,1
+cute smile,〜(￣▽￣〜),ASCII '〜(￣▽￣〜)' does NOT represent 'cute smile',Metaphorical,ACTION,0
+curly brackets,<3,ASCII '<3' does NOT represent 'curly brackets',Direct,OBJECT,0
+energetic dance,ಠ_ಠ,ASCII 'ಠ_ಠ' does NOT represent 'energetic dance',Metaphorical,EMOTION,0
+crying pattern,TT T TT,ASCII 'TT T TT' represents 'crying pattern',Semantic List,EMOTION,1
+broken heart,_/\_,ASCII '_/\_' does NOT represent 'broken heart',Direct,ACTION,0
+arrow up,^,ASCII '^' represents 'arrow up',Direct,OBJECT,1
+at symbols,!!! ???,ASCII '!!! ???' does NOT represent 'at symbols',Semantic List,STATE,0
+cool dancing,ヾ(⌐■_■)ノ♪,ASCII 'ヾ(⌐■_■)ノ♪' represents 'cool dancing',Metaphorical,ACTION,1
+putting on glasses,(つ ͡° ͜ʖ ͡°)つ,ASCII '(つ ͡° ͜ʖ ͡°)つ' does NOT represent 'putting on glasses',Metaphorical,ACTION,0
+multiple hearts,<3 <3 <3,ASCII '<3 <3 <3' represents 'multiple hearts',Semantic List,EMOTION,1
+cool dancing,(ಥ﹏ಥ),ASCII '(ಥ﹏ಥ)' does NOT represent 'cool dancing',Metaphorical,EMOTION,0
+putting on glasses,( •_•)>⌐■-■,ASCII '( •_•)>⌐■-■' represents 'putting on glasses',Metaphorical,ACTION,1
+snowman symbol,☺,ASCII '☺' does NOT represent 'snowman symbol',Single,EMOTION,0
+offering hug,(っ◔◡◔)っ,ASCII '(っ◔◡◔)っ' represents 'offering hug',Metaphorical,ACTION,1
+dancing happily,〜(￣▽￣〜),ASCII '〜(￣▽￣〜)' represents 'dancing happily',Metaphorical,ACTION,1
+many percents,!!!!!,ASCII '!!!!!' does NOT represent 'many percents',Reduplication,EMOTION,0
+weird fighter,(ง ͠° ͟ل͜ ͡°)ง,ASCII '(ง ͠° ͟ل͜ ͡°)ง' represents 'weird fighter',Metaphorical,STATE,1
+suggestive look,( ͡° ͜ʖ ͡°),ASCII '( ͡° ͜ʖ ͡°)' represents 'suggestive look',Metaphorical,EMOTION,1
+cloud symbol,☁,ASCII '☁' represents 'cloud symbol',Single,OBJECT,1
+at symbols,@@@ @ @,ASCII '@@@ @ @' represents 'at symbols',Semantic List,OBJECT,1
+weird fighter,(⌐■_■),ASCII '(⌐■_■)' does NOT represent 'weird fighter',Metaphorical,QUALITY,0
+disapproval stare,ლ(╹◡╹ლ),ASCII 'ლ(╹◡╹ლ)' does NOT represent 'disapproval stare',Metaphorical,ACTION,0
+gentle grasp,ლ(╹◡╹ლ),ASCII 'ლ(╹◡╹ლ)' represents 'gentle grasp',Metaphorical,ACTION,1
+neutral expression,</3,ASCII '</3' does NOT represent 'neutral expression',Direct,OBJECT,0
+finger guns,(☞ﾟヮﾟ)☞,ASCII '(☞ﾟヮﾟ)☞' represents 'finger guns',Metaphorical,ACTION,1
+many ups,^^^^^^,ASCII '^^^^^^' represents 'many ups',Reduplication,ACTION,1
+weird fighter,(ง ͠° ͟ل͜ ͡°)ง,ASCII '(ง ͠° ͟ل͜ ͡°)ง' represents 'weird fighter',Metaphorical,STATE,1
+hashtag emphasis,:( :( :(,ASCII ':( :( :(' does NOT represent 'hashtag emphasis',Semantic List,EMOTION,0
+dancing to music,( ˘ ³˘)♥,ASCII '( ˘ ³˘)♥' does NOT represent 'dancing to music',Metaphorical,ACTION,0
+angry face,>:(,ASCII '>:(' represents 'angry face',Direct,EMOTION,1
+flower girl,(◕‿◕✿),ASCII '(◕‿◕✿)' represents 'flower girl',Metaphorical,QUALITY,1
+energetic dance,( •_•)>⌐■-■,ASCII '( •_•)>⌐■-■' does NOT represent 'energetic dance',Metaphorical,ACTION,0
+weird fighter,(ง ͠° ͟ل͜ ͡°)ง,ASCII '(ง ͠° ͟ل͜ ͡°)ง' represents 'weird fighter',Metaphorical,STATE,1
+many percents,%%%%%%,ASCII '%%%%%%' represents 'many percents',Reduplication,OBJECT,1
+pointing back,(╬ಠ益ಠ),ASCII '(╬ಠ益ಠ)' does NOT represent 'pointing back',Metaphorical,EMOTION,0
+winking,;),ASCII ';)' represents 'winking',Direct,EMOTION,1
+long equals,======,ASCII '======' represents 'long equals',Reduplication,OBJECT,1
+hands on head,/o\,ASCII '/o\' represents 'hands on head',Direct,ACTION,1
+pure happiness,(☞ﾟヮﾟ)☞,ASCII '(☞ﾟヮﾟ)☞' does NOT represent 'pure happiness',Metaphorical,ACTION,0
+many ats,@@@@@@,ASCII '@@@@@@' represents 'many ats',Reduplication,OBJECT,1
+bracket types,[ ] { } ( ),ASCII '[ ] { } ( )' represents 'bracket types',Semantic List,OBJECT,1
+creepy reach,ヽ(´▽`)/,ASCII 'ヽ(´▽`)/' does NOT represent 'creepy reach',Metaphorical,EMOTION,0
+pointing back,＼(^o^)／,ASCII '＼(^o^)／' does NOT represent 'pointing back',Metaphorical,EMOTION,0
+gentle grasp,(~˘▾˘)~,ASCII '(~˘▾˘)~' does NOT represent 'gentle grasp',Metaphorical,ACTION,0
+angry face,>:(,ASCII '>:(' represents 'angry face',Direct,EMOTION,1
+smiling,:-O,ASCII ':-O' does NOT represent 'smiling',Direct,EMOTION,0
+circle pattern,ooo o o,ASCII 'ooo o o' represents 'circle pattern',Semantic List,OBJECT,1
+confused look,o_O,ASCII 'o_O' represents 'confused look',Direct,EMOTION,1
+arrow right,-->,ASCII '-->' represents 'arrow right',Direct,OBJECT,1
+diamond shape,<>,ASCII '<>' represents 'diamond shape',Direct,OBJECT,1
+pointing back,☜(ﾟヮﾟ☜),ASCII '☜(ﾟヮﾟ☜)' represents 'pointing back',Metaphorical,ACTION,1
+raising hand,D:,ASCII 'D:' does NOT represent 'raising hand',Direct,EMOTION,0
+love symbol,♨,ASCII '♨' does NOT represent 'love symbol',Single,OBJECT,0
+heavy emphasis,$$$$$$,ASCII '$$$$$$' does NOT represent 'heavy emphasis',Reduplication,OBJECT,0
+star symbol,<>,ASCII '<>' does NOT represent 'star symbol',Direct,OBJECT,0
+circle pattern,[ ] { } ( ),ASCII '[ ] { } ( )' does NOT represent 'circle pattern',Semantic List,OBJECT,0
+gentle grasp,ლ(╹◡╹ლ),ASCII 'ლ(╹◡╹ლ)' represents 'gentle grasp',Metaphorical,ACTION,1
+at symbols,@@@ @ @,ASCII '@@@ @ @' represents 'at symbols',Semantic List,OBJECT,1
+hash pattern,###,ASCII '###' represents 'hash pattern',Direct,OBJECT,1
+crying face,T_T,ASCII 'T_T' represents 'crying face',Direct,EMOTION,1
+wave pattern,<3,ASCII '<3' does NOT represent 'wave pattern',Direct,OBJECT,0
+group sadness,:( :( :(,ASCII ':( :( :(' represents 'group sadness',Semantic List,EMOTION,1
+backslash pattern,@@@ @ @,ASCII '@@@ @ @' does NOT represent 'backslash pattern',Semantic List,OBJECT,0
+joyful celebration,╰(*°▽°*)╯,ASCII '╰(*°▽°*)╯' represents 'joyful celebration',Metaphorical,EMOTION,1
+raising hand,:-O,ASCII ':-O' does NOT represent 'raising hand',Direct,EMOTION,0
+putting on glasses,ヾ(⌐■_■)ノ♪,ASCII 'ヾ(⌐■_■)ノ♪' does NOT represent 'putting on glasses',Metaphorical,ACTION,0
+suggestive look,( ͡° ͜ʖ ͡°),ASCII '( ͡° ͜ʖ ͡°)' represents 'suggestive look',Metaphorical,EMOTION,1
+flower girl,(◕‿◕✿),ASCII '(◕‿◕✿)' represents 'flower girl',Metaphorical,QUALITY,1
+laughing hard,###,ASCII '###' does NOT represent 'laughing hard',Direct,OBJECT,0
+gentle smile,〜(￣▽￣〜),ASCII '〜(￣▽￣〜)' does NOT represent 'gentle smile',Metaphorical,ACTION,0
+extreme laughter,~~~~~~,ASCII '~~~~~~' does NOT represent 'extreme laughter',Reduplication,OBJECT,0
+increasing excitement,!!! ! !,ASCII '!!! ! !' represents 'increasing excitement',Semantic List,EMOTION,1
+cross mark,✗,ASCII '✗' represents 'cross mark',Single,QUALITY,1
+gentle grasp,¯\_(ツ)_/¯,ASCII '¯\_(ツ)_/¯' does NOT represent 'gentle grasp',Metaphorical,STATE,0
+wide eyed,(◉_◉),ASCII '(◉_◉)' represents 'wide eyed',Metaphorical,STATE,1
+very happy,:D,ASCII ':D' represents 'very happy',Direct,EMOTION,1
+sly expression,(¬‿¬),ASCII '(¬‿¬)' represents 'sly expression',Metaphorical,EMOTION,1
+blowing kiss,( ˘ ³˘)♥,ASCII '( ˘ ³˘)♥' represents 'blowing kiss',Metaphorical,ACTION,1
+long line,%%%%%%,ASCII '%%%%%%' does NOT represent 'long line',Reduplication,OBJECT,0
+suggestive look,( ͡° ͜ʖ ͡°),ASCII '( ͡° ͜ʖ ͡°)' represents 'suggestive look',Metaphorical,EMOTION,1
+reverse arrows,|| | ||,ASCII '|| | ||' does NOT represent 'reverse arrows',Semantic List,OBJECT,0
+flexing muscles,(╬ಠ益ಠ),ASCII '(╬ಠ益ಠ)' does NOT represent 'flexing muscles',Metaphorical,EMOTION,0
+spade suit,✉,ASCII '✉' does NOT represent 'spade suit',Single,OBJECT,0
+carefree joy,(☞ﾟヮﾟ)☞,ASCII '(☞ﾟヮﾟ)☞' does NOT represent 'carefree joy',Metaphorical,ACTION,0
+concerned look,ლ(╹◡╹ლ),ASCII 'ლ(╹◡╹ლ)' does NOT represent 'concerned look',Metaphorical,ACTION,0
+hashtag emphasis,~~ ~ ~~,ASCII '~~ ~ ~~' does NOT represent 'hashtag emphasis',Semantic List,OBJECT,0
+long equals,======,ASCII '======' represents 'long equals',Reduplication,OBJECT,1
+laughing hard,^_^,ASCII '^_^' does NOT represent 'laughing hard',Direct,EMOTION,0
+star symbol,:D,ASCII ':D' does NOT represent 'star symbol',Direct,EMOTION,0
+yin yang,☯,ASCII '☯' represents 'yin yang',Single,OBJECT,1
+person waving,:-(,ASCII ':-(' does NOT represent 'person waving',Direct,EMOTION,0
+crying face,*,ASCII '*' does NOT represent 'crying face',Direct,OBJECT,0
+both hands up,\o/,ASCII '\o/' represents 'both hands up',Direct,ACTION,1
+person waving,_o/,ASCII '_o/' represents 'person waving',Direct,ACTION,1
+hashtag emphasis,~~ ~ ~~,ASCII '~~ ~ ~~' does NOT represent 'hashtag emphasis',Semantic List,OBJECT,0
+pure happiness,┬─┬ノ( º _ ºノ),ASCII '┬─┬ノ( º _ ºノ)' does NOT represent 'pure happiness',Metaphorical,ACTION,0
+praying hands,:-O,ASCII ':-O' does NOT represent 'praying hands',Direct,EMOTION,0
+joyful celebration,╰(*°▽°*)╯,ASCII '╰(*°▽°*)╯' represents 'joyful celebration',Metaphorical,EMOTION,1
+wave pattern,~~~,ASCII '~~~' represents 'wave pattern',Direct,OBJECT,1
+gentle grasp,(~˘▾˘)~,ASCII '(~˘▾˘)~' does NOT represent 'gentle grasp',Metaphorical,ACTION,0
+flexing muscles,ᕙ(⇀‸↼‶)ᕗ,ASCII 'ᕙ(⇀‸↼‶)ᕗ' represents 'flexing muscles',Metaphorical,ACTION,1
+happy eyes,^_^,ASCII '^_^' represents 'happy eyes',Direct,EMOTION,1
+very upset,=),ASCII '=)' does NOT represent 'very upset',Direct,EMOTION,0
+plus signs,=D,ASCII '=D' does NOT represent 'plus signs',Direct,EMOTION,0
+diamond shape,;),ASCII ';)' does NOT represent 'diamond shape',Direct,EMOTION,0
+surprised,:-O,ASCII ':-O' represents 'surprised',Direct,EMOTION,1
+extreme emphasis,^^^^^^,ASCII '^^^^^^' does NOT represent 'extreme emphasis',Reduplication,ACTION,0
+happy walking,ヾ(⌐■_■)ノ♪,ASCII 'ヾ(⌐■_■)ノ♪' does NOT represent 'happy walking',Metaphorical,ACTION,0
+neutral expression,o/,ASCII 'o/' does NOT represent 'neutral expression',Direct,ACTION,0
+suggestive look,(☞ﾟヮﾟ)☞,ASCII '(☞ﾟヮﾟ)☞' does NOT represent 'suggestive look',Metaphorical,ACTION,0
+long line,------,ASCII '------' represents 'long line',Reduplication,OBJECT,1
+star pattern,### # #,ASCII '### # #' does NOT represent 'star pattern',Semantic List,OBJECT,0
+gentle grasp,ლ(╹◡╹ლ),ASCII 'ლ(╹◡╹ლ)' represents 'gentle grasp',Metaphorical,ACTION,1
+very happy,[],ASCII '[]' does NOT represent 'very happy',Direct,OBJECT,0
+carefree joy,♪~ ᕕ(ᐛ)ᕗ,ASCII '♪~ ᕕ(ᐛ)ᕗ' does NOT represent 'carefree joy',Metaphorical,ACTION,0
+money symbols,^^ ^ ^^,ASCII '^^ ^ ^^' does NOT represent 'money symbols',Semantic List,EMOTION,0
+long equals,lolololol,ASCII 'lolololol' does NOT represent 'long equals',Reduplication,EMOTION,0
+cool dancing,ヾ(⌐■_■)ノ♪,ASCII 'ヾ(⌐■_■)ノ♪' represents 'cool dancing',Metaphorical,ACTION,1
+many pluses,^^^^^^,ASCII '^^^^^^' does NOT represent 'many pluses',Reduplication,ACTION,0
+backslash pattern,!!! ???,ASCII '!!! ???' does NOT represent 'backslash pattern',Semantic List,STATE,0
+suggestive look,(҂◡_◡),ASCII '(҂◡_◡)' does NOT represent 'suggestive look',Metaphorical,QUALITY,0
+creepy reach,(つ ͡° ͜ʖ ͡°)つ,ASCII '(つ ͡° ͜ʖ ͡°)つ' represents 'creepy reach',Metaphorical,ACTION,1
+x marks,$$$ $ $,ASCII '$$$ $ $' does NOT represent 'x marks',Semantic List,OBJECT,0
+very happy,:D,ASCII ':D' represents 'very happy',Direct,EMOTION,1
+star pattern,*** ** *,ASCII '*** ** *' represents 'star pattern',Semantic List,OBJECT,1
+asterisk pattern,OTL,ASCII 'OTL' does NOT represent 'asterisk pattern',Direct,ACTION,0
+showing strength,ᕦ(ò_óˇ)ᕤ,ASCII 'ᕦ(ò_óˇ)ᕤ' represents 'showing strength',Metaphorical,ACTION,1
+creepy reach,(つ ͡° ͜ʖ ͡°)つ,ASCII '(つ ͡° ͜ʖ ͡°)つ' represents 'creepy reach',Metaphorical,ACTION,1
+adding more,+++ + +,ASCII '+++ + +' represents 'adding more',Semantic List,ACTION,1
+very happy,:D,ASCII ':D' represents 'very happy',Direct,EMOTION,1
+arrow right,-->,ASCII '-->' represents 'arrow right',Direct,OBJECT,1
+vertical lines,|||,ASCII '|||' represents 'vertical lines',Direct,OBJECT,1
+sly expression,(¬‿¬),ASCII '(¬‿¬)' represents 'sly expression',Metaphorical,EMOTION,1
+music note,✈,ASCII '✈' does NOT represent 'music note',Single,OBJECT,0
+cool dancing,ヾ(⌐■_■)ノ♪,ASCII 'ヾ(⌐■_■)ノ♪' represents 'cool dancing',Metaphorical,ACTION,1
+flexing muscles,ᕙ(⇀‸↼‶)ᕗ,ASCII 'ᕙ(⇀‸↼‶)ᕗ' represents 'flexing muscles',Metaphorical,ACTION,1
+smiling,:-),ASCII ':-)' represents 'smiling',Direct,EMOTION,1
+x marks,XXX X X,ASCII 'XXX X X' represents 'x marks',Semantic List,OBJECT,1
+android smile,┬─┬ノ( º _ ºノ),ASCII '┬─┬ノ( º _ ºノ)' does NOT represent 'android smile',Metaphorical,ACTION,0
+shock and confusion,ooo o o,ASCII 'ooo o o' does NOT represent 'shock and confusion',Semantic List,OBJECT,0
+do not know,¯\_(ツ)_/¯,ASCII '¯\_(ツ)_/¯' represents 'do not know',Metaphorical,STATE,1
+tears of joy,(ಥ﹏ಥ),ASCII '(ಥ﹏ಥ)' does NOT represent 'tears of joy',Metaphorical,EMOTION,0
+gentle smile,(ㆆ_ㆆ),ASCII '(ㆆ_ㆆ)' does NOT represent 'gentle smile',Metaphorical,EMOTION,0
+happy walking,♪~ ᕕ(ᐛ)ᕗ,ASCII '♪~ ᕕ(ᐛ)ᕗ' represents 'happy walking',Metaphorical,ACTION,1
+at symbols,@@@ @ @,ASCII '@@@ @ @' represents 'at symbols',Semantic List,OBJECT,1
+hashtag emphasis,### # #,ASCII '### # #' represents 'hashtag emphasis',Semantic List,OBJECT,1
+concerned look,☜(ﾟヮﾟ☜),ASCII '☜(ﾟヮﾟ☜)' does NOT represent 'concerned look',Metaphorical,ACTION,0
+waving hand,</3,ASCII '</3' does NOT represent 'waving hand',Direct,OBJECT,0
+winking,;),ASCII ';)' represents 'winking',Direct,EMOTION,1
+equal signs,o/,ASCII 'o/' does NOT represent 'equal signs',Direct,ACTION,0
+finger guns,( •_•)>⌐■-■,ASCII '( •_•)>⌐■-■' does NOT represent 'finger guns',Metaphorical,ACTION,0
+swaying dance,(~˘▾˘)~,ASCII '(~˘▾˘)~' represents 'swaying dance',Metaphorical,ACTION,1
+continuous laughing,######,ASCII '######' does NOT represent 'continuous laughing',Reduplication,OBJECT,0
+hash pattern,<--,ASCII '<--' does NOT represent 'hash pattern',Direct,OBJECT,0
+concerned look,(ㆆ_ㆆ),ASCII '(ㆆ_ㆆ)' represents 'concerned look',Metaphorical,EMOTION,1
+wavy line,~~~~~~,ASCII '~~~~~~' represents 'wavy line',Reduplication,OBJECT,1
+cool attitude,(⌐■_■),ASCII '(⌐■_■)' represents 'cool attitude',Metaphorical,QUALITY,1
+heart shape,<3,ASCII '<3' represents 'heart shape',Direct,OBJECT,1
+kissy hug,(づ￣ ³￣)づ,ASCII '(づ￣ ³￣)づ' represents 'kissy hug',Metaphorical,ACTION,1
+heart shape,{},ASCII '{}' does NOT represent 'heart shape',Direct,OBJECT,0
+weird fighter,(ง ͠° ͟ل͜ ͡°)ง,ASCII '(ง ͠° ͟ل͜ ͡°)ง' represents 'weird fighter',Metaphorical,STATE,1
+star pattern,*** ** *,ASCII '*** ** *' represents 'star pattern',Semantic List,OBJECT,1
+x marks,=) =) =),ASCII '=) =) =)' does NOT represent 'x marks',Semantic List,EMOTION,0
+dots pattern,...,ASCII '...' represents 'dots pattern',Direct,OBJECT,1
+many downs,======,ASCII '======' does NOT represent 'many downs',Reduplication,OBJECT,0
+extreme emphasis,~~~~~~,ASCII '~~~~~~' does NOT represent 'extreme emphasis',Reduplication,OBJECT,0
+total confusion,$$$$$$,ASCII '$$$$$$' does NOT represent 'total confusion',Reduplication,OBJECT,0
+cute smile,(⌐■_■),ASCII '(⌐■_■)' does NOT represent 'cute smile',Metaphorical,QUALITY,0
+both hands up,\o/,ASCII '\o/' represents 'both hands up',Direct,ACTION,1
+showing strength,ᕦ(ò_óˇ)ᕤ,ASCII 'ᕦ(ò_óˇ)ᕤ' represents 'showing strength',Metaphorical,ACTION,1
+pure happiness,＼(^o^)／,ASCII '＼(^o^)／' represents 'pure happiness',Metaphorical,EMOTION,1
+finger guns,(☞ﾟヮﾟ)☞,ASCII '(☞ﾟヮﾟ)☞' represents 'finger guns',Metaphorical,ACTION,1
+horizontal line,___,ASCII '___' represents 'horizontal line',Direct,OBJECT,1
+heart shape,\o,ASCII '\o' does NOT represent 'heart shape',Direct,ACTION,0
+putting table back,〜(￣▽￣〜),ASCII '〜(￣▽￣〜)' does NOT represent 'putting table back',Metaphorical,ACTION,0
+gentle grasp,(ㆆ_ㆆ),ASCII '(ㆆ_ㆆ)' does NOT represent 'gentle grasp',Metaphorical,EMOTION,0
+dancing happily,〜(￣▽￣〜),ASCII '〜(￣▽￣〜)' represents 'dancing happily',Metaphorical,ACTION,1
+equal signs,~~~,ASCII '~~~' does NOT represent 'equal signs',Direct,OBJECT,0
+disapproval stare,(◉_◉),ASCII '(◉_◉)' does NOT represent 'disapproval stare',Metaphorical,STATE,0
+cool attitude,ᕦ(ò_óˇ)ᕤ,ASCII 'ᕦ(ò_óˇ)ᕤ' does NOT represent 'cool attitude',Metaphorical,ACTION,0
+fading lines,>>> <<<,ASCII '>>> <<<' does NOT represent 'fading lines',Semantic List,ACTION,0
+arrow left,<--,ASCII '<--' represents 'arrow left',Direct,OBJECT,1
+heavy emphasis,######,ASCII '######' represents 'heavy emphasis',Reduplication,OBJECT,1
+bowing down,^_^,ASCII '^_^' does NOT represent 'bowing down',Direct,EMOTION,0
+putting table back,¯\_(ツ)_/¯,ASCII '¯\_(ツ)_/¯' does NOT represent 'putting table back',Metaphorical,STATE,0
+dizzy face,@_@,ASCII '@_@' represents 'dizzy face',Direct,EMOTION,1
+wave pattern,~~~,ASCII '~~~' represents 'wave pattern',Direct,OBJECT,1
+hash pattern,###,ASCII '###' represents 'hash pattern',Direct,OBJECT,1
+many ups,^^^^^^,ASCII '^^^^^^' represents 'many ups',Reduplication,ACTION,1
+cool attitude,(⌐■_■),ASCII '(⌐■_■)' represents 'cool attitude',Metaphorical,QUALITY,1
+hashtag emphasis,+++ + +,ASCII '+++ + +' does NOT represent 'hashtag emphasis',Semantic List,ACTION,0
+at symbols,<- <-- <---,ASCII '<- <-- <---' does NOT represent 'at symbols',Semantic List,ACTION,0
+fading lines,\\ \ \\,ASCII '\\ \ \\' does NOT represent 'fading lines',Semantic List,OBJECT,0
+smiling,>:(,ASCII '>:(' does NOT represent 'smiling',Direct,EMOTION,0
+up and down,<3 <3 <3,ASCII '<3 <3 <3' does NOT represent 'up and down',Semantic List,EMOTION,0
+finger guns,ᕙ(⇀‸↼‶)ᕗ,ASCII 'ᕙ(⇀‸↼‶)ᕗ' does NOT represent 'finger guns',Metaphorical,ACTION,0
+many ups,<<<<<<,ASCII '<<<<<<' does NOT represent 'many ups',Reduplication,ACTION,0
+many percents,%%%%%%,ASCII '%%%%%%' represents 'many percents',Reduplication,OBJECT,1
+sly expression,ᕦ(ò_óˇ)ᕤ,ASCII 'ᕦ(ò_óˇ)ᕤ' does NOT represent 'sly expression',Metaphorical,ACTION,0
+creepy reach,(⌐■_■),ASCII '(⌐■_■)' does NOT represent 'creepy reach',Metaphorical,QUALITY,0
+android smile,(҂◡_◡),ASCII '(҂◡_◡)' represents 'android smile',Metaphorical,QUALITY,1
+finger guns,(☞ﾟヮﾟ)☞,ASCII '(☞ﾟヮﾟ)☞' represents 'finger guns',Metaphorical,ACTION,1
+total confusion,?????,ASCII '?????' represents 'total confusion',Reduplication,STATE,1
+three stars,* * *,ASCII '* * *' represents 'three stars',Semantic List,OBJECT,1
+slash pattern,// / //,ASCII '// / //' represents 'slash pattern',Semantic List,OBJECT,1
+concerned look,(ㆆ_ㆆ),ASCII '(ㆆ_ㆆ)' represents 'concerned look',Metaphorical,EMOTION,1
+crying sadly,(つ ͡° ͜ʖ ͡°)つ,ASCII '(つ ͡° ͜ʖ ͡°)つ' does NOT represent 'crying sadly',Metaphorical,ACTION,0
+laughing sound,$$$$$$,ASCII '$$$$$$' does NOT represent 'laughing sound',Reduplication,OBJECT,0
+do not know,¯\_(ツ)_/¯,ASCII '¯\_(ツ)_/¯' represents 'do not know',Metaphorical,STATE,1
+putting table back,┬─┬ノ( º _ ºノ),ASCII '┬─┬ノ( º _ ºノ)' represents 'putting table back',Metaphorical,ACTION,1
+carefree joy,ヽ(´▽`)/,ASCII 'ヽ(´▽`)/' represents 'carefree joy',Metaphorical,EMOTION,1
+heavy emphasis,######,ASCII '######' represents 'heavy emphasis',Reduplication,OBJECT,1
+annoyed expression,###,ASCII '###' does NOT represent 'annoyed expression',Direct,OBJECT,0
+happy face,[],ASCII '[]' does NOT represent 'happy face',Direct,OBJECT,0
+swaying dance,＼(^o^)／,ASCII '＼(^o^)／' does NOT represent 'swaying dance',Metaphorical,EMOTION,0
+winking,:-O,ASCII ':-O' does NOT represent 'winking',Direct,EMOTION,0
+many ands,&&&&&&,ASCII '&&&&&&' represents 'many ands',Reduplication,OBJECT,1
+dancing to music,┌(・。・)┘♪,ASCII '┌(・。・)┘♪' represents 'dancing to music',Metaphorical,ACTION,1
+swaying dance,(~˘▾˘)~,ASCII '(~˘▾˘)~' represents 'swaying dance',Metaphorical,ACTION,1
+many ands,^^^^^^,ASCII '^^^^^^' does NOT represent 'many ands',Reduplication,ACTION,0
+frowning,:-(,ASCII ':-(' represents 'frowning',Direct,EMOTION,1
+asterisk pattern,*_*,ASCII '*_*' does NOT represent 'asterisk pattern',Direct,EMOTION,0
+extreme laughter,XDXDXD,ASCII 'XDXDXD' represents 'extreme laughter',Reduplication,EMOTION,1
+circle pattern,!!! ???,ASCII '!!! ???' does NOT represent 'circle pattern',Semantic List,STATE,0
+cool attitude,(⌐■_■),ASCII '(⌐■_■)' represents 'cool attitude',Metaphorical,QUALITY,1
+at symbols,@@@ @ @,ASCII '@@@ @ @' represents 'at symbols',Semantic List,OBJECT,1
+many stars,zzzzzz,ASCII 'zzzzzz' does NOT represent 'many stars',Reduplication,STATE,0
+android smile,( ͡° ͜ʖ ͡°),ASCII '( ͡° ͜ʖ ͡°)' does NOT represent 'android smile',Metaphorical,EMOTION,0
+angry face,*_*,ASCII '*_*' does NOT represent 'angry face',Direct,EMOTION,0
+angry face,>:(,ASCII '>:(' represents 'angry face',Direct,EMOTION,1
+happy walking,¯\_(ツ)_/¯,ASCII '¯\_(ツ)_/¯' does NOT represent 'happy walking',Metaphorical,STATE,0
+cute smile,(¬‿¬),ASCII '(¬‿¬)' does NOT represent 'cute smile',Metaphorical,EMOTION,0
+shock and confusion,!!! ???,ASCII '!!! ???' represents 'shock and confusion',Semantic List,STATE,1
+raising hand,XD,ASCII 'XD' does NOT represent 'raising hand',Direct,EMOTION,0
+concerned look,(ㆆ_ㆆ),ASCII '(ㆆ_ㆆ)' represents 'concerned look',Metaphorical,EMOTION,1
+happy face,:),ASCII ':)' represents 'happy face',Direct,EMOTION,1
+heavy emphasis,@@@@@@,ASCII '@@@@@@' does NOT represent 'heavy emphasis',Reduplication,OBJECT,0
+arrow progression,-> --> --->,ASCII '-> --> --->' represents 'arrow progression',Semantic List,ACTION,1
+hands on head,/o\,ASCII '/o\' represents 'hands on head',Direct,ACTION,1
+group smiling,=) =) =),ASCII '=) =) =)' represents 'group smiling',Semantic List,EMOTION,1
+crying sadly,ヾ(⌐■_■)ノ♪,ASCII 'ヾ(⌐■_■)ノ♪' does NOT represent 'crying sadly',Metaphorical,ACTION,0
+content smile,_/\_,ASCII '_/\_' does NOT represent 'content smile',Direct,ACTION,0
+diamond suit,♣,ASCII '♣' does NOT represent 'diamond suit',Single,OBJECT,0
+circle pattern,ooo o o,ASCII 'ooo o o' represents 'circle pattern',Semantic List,OBJECT,1
+percent signs,%%% % %,ASCII '%%% % %' represents 'percent signs',Semantic List,OBJECT,1
+carefree joy,╰(*°▽°*)╯,ASCII '╰(*°▽°*)╯' does NOT represent 'carefree joy',Metaphorical,EMOTION,0
+reverse arrows,<- <-- <---,ASCII '<- <-- <---' represents 'reverse arrows',Semantic List,ACTION,1
+gentle smile,(ง •̀_•́)ง,ASCII '(ง •̀_•́)ง' does NOT represent 'gentle smile',Metaphorical,STATE,0
+many downs,lolololol,ASCII 'lolololol' does NOT represent 'many downs',Reduplication,EMOTION,0
+wavy line,~~~~~~,ASCII '~~~~~~' represents 'wavy line',Reduplication,OBJECT,1
+extreme emphasis,%%%%%%,ASCII '%%%%%%' does NOT represent 'extreme emphasis',Reduplication,OBJECT,0
+group sadness,:( :( :(,ASCII ':( :( :(' represents 'group sadness',Semantic List,EMOTION,1
+x marks,|| | ||,ASCII '|| | ||' does NOT represent 'x marks',Semantic List,OBJECT,0
+love symbol,♥,ASCII '♥' represents 'love symbol',Single,EMOTION,1
+star pattern,ooo o o,ASCII 'ooo o o' does NOT represent 'star pattern',Semantic List,OBJECT,0
+diamond shape,<>,ASCII '<>' represents 'diamond shape',Direct,OBJECT,1
+dancing to music,ᕙ(⇀‸↼‶)ᕗ,ASCII 'ᕙ(⇀‸↼‶)ᕗ' does NOT represent 'dancing to music',Metaphorical,ACTION,0
+happy walking,♪~ ᕕ(ᐛ)ᕗ,ASCII '♪~ ᕕ(ᐛ)ᕗ' represents 'happy walking',Metaphorical,ACTION,1
+star pattern,+++ + +,ASCII '+++ + +' does NOT represent 'star pattern',Semantic List,ACTION,0
+horizontal line,\o_,ASCII '\o_' does NOT represent 'horizontal line',Direct,ACTION,0
+sad symbol,☹,ASCII '☹' represents 'sad symbol',Single,EMOTION,1
+envelope symbol,✉,ASCII '✉' represents 'envelope symbol',Single,OBJECT,1
+intense anger,(つ ͡° ͜ʖ ͡°)つ,ASCII '(つ ͡° ͜ʖ ͡°)つ' does NOT represent 'intense anger',Metaphorical,ACTION,0
+intense anger,(╬ಠ益ಠ),ASCII '(╬ಠ益ಠ)' represents 'intense anger',Metaphorical,EMOTION,1
+annoyed expression,-_-,ASCII '-_-' represents 'annoyed expression',Direct,EMOTION,1
+angry face,_/\_,ASCII '_/\_' does NOT represent 'angry face',Direct,ACTION,0
+backslash pattern,... . . .,ASCII '... . . .' does NOT represent 'backslash pattern',Semantic List,STATE,0
+gentle smile,(✿◠‿◠),ASCII '(✿◠‿◠)' represents 'gentle smile',Metaphorical,EMOTION,1
+creepy reach,ლ(╹◡╹ლ),ASCII 'ლ(╹◡╹ლ)' does NOT represent 'creepy reach',Metaphorical,ACTION,0
+playful tongue,:P,ASCII ':P' represents 'playful tongue',Direct,EMOTION,1
+kissy hug,(づ￣ ³￣)づ,ASCII '(づ￣ ³￣)づ' represents 'kissy hug',Metaphorical,ACTION,1
+many ats,@@@@@@,ASCII '@@@@@@' represents 'many ats',Reduplication,OBJECT,1
+arrow left,<--,ASCII '<--' represents 'arrow left',Direct,OBJECT,1
+multiple hearts,*** ** *,ASCII '*** ** *' does NOT represent 'multiple hearts',Semantic List,OBJECT,0
+disapproval stare,(⌐■_■),ASCII '(⌐■_■)' does NOT represent 'disapproval stare',Metaphorical,QUALITY,0
+bracket types,[ ] { } ( ),ASCII '[ ] { } ( )' represents 'bracket types',Semantic List,OBJECT,1
+content smile,=),ASCII '=)' represents 'content smile',Direct,EMOTION,1
+laughing sound,hahahahaha,ASCII 'hahahahaha' represents 'laughing sound',Reduplication,EMOTION,1
+arrow down,\o/,ASCII '\o/' does NOT represent 'arrow down',Direct,ACTION,0
+gentle grasp,ლ(╹◡╹ლ),ASCII 'ლ(╹◡╹ლ)' represents 'gentle grasp',Metaphorical,ACTION,1
+extreme frustration,( ͡° ͜ʖ ͡°),ASCII '( ͡° ͜ʖ ͡°)' does NOT represent 'extreme frustration',Metaphorical,EMOTION,0
+arrow down,~~~,ASCII '~~~' does NOT represent 'arrow down',Direct,OBJECT,0
+swaying dance,(~˘▾˘)~,ASCII '(~˘▾˘)~' represents 'swaying dance',Metaphorical,ACTION,1
+disapproval stare,ಠ_ಠ,ASCII 'ಠ_ಠ' represents 'disapproval stare',Metaphorical,EMOTION,1
+star pattern,$$$ $ $,ASCII '$$$ $ $' does NOT represent 'star pattern',Semantic List,OBJECT,0
+ready to fight,(ง •̀_•́)ง,ASCII '(ง •̀_•́)ง' represents 'ready to fight',Metaphorical,STATE,1
+finger guns,(☞ﾟヮﾟ)☞,ASCII '(☞ﾟヮﾟ)☞' represents 'finger guns',Metaphorical,ACTION,1
+cute smile,╰(*°▽°*)╯,ASCII '╰(*°▽°*)╯' does NOT represent 'cute smile',Metaphorical,EMOTION,0
+gentle grasp,ლ(╹◡╹ლ),ASCII 'ლ(╹◡╹ლ)' represents 'gentle grasp',Metaphorical,ACTION,1
+offering hug,(ง ͠° ͟ل͜ ͡°)ง,ASCII '(ง ͠° ͟ل͜ ͡°)ง' does NOT represent 'offering hug',Metaphorical,STATE,0
+heavy emphasis,======,ASCII '======' does NOT represent 'heavy emphasis',Reduplication,OBJECT,0
+diamond suit,♦,ASCII '♦' represents 'diamond suit',Single,OBJECT,1
+pure happiness,ᕙ(⇀‸↼‶)ᕗ,ASCII 'ᕙ(⇀‸↼‶)ᕗ' does NOT represent 'pure happiness',Metaphorical,ACTION,0
+group smiling,=) =) =),ASCII '=) =) =)' represents 'group smiling',Semantic List,EMOTION,1
+increasing excitement,*** ** *,ASCII '*** ** *' does NOT represent 'increasing excitement',Semantic List,OBJECT,0
+putting on glasses,☜(ﾟヮﾟ☜),ASCII '☜(ﾟヮﾟ☜)' does NOT represent 'putting on glasses',Metaphorical,ACTION,0
+dizzy face,-->,ASCII '-->' does NOT represent 'dizzy face',Direct,OBJECT,0
+intense anger,(ㆆ_ㆆ),ASCII '(ㆆ_ㆆ)' does NOT represent 'intense anger',Metaphorical,EMOTION,0
+person waving,_o/,ASCII '_o/' represents 'person waving',Direct,ACTION,1
+deep sleep,zzzzzz,ASCII 'zzzzzz' represents 'deep sleep',Reduplication,STATE,1
+android smile,(҂◡_◡),ASCII '(҂◡_◡)' represents 'android smile',Metaphorical,QUALITY,1
+many percents,%%%%%%,ASCII '%%%%%%' represents 'many percents',Reduplication,OBJECT,1
+arrow left,|||,ASCII '|||' does NOT represent 'arrow left',Direct,OBJECT,0
+reverse arrows,<- <-- <---,ASCII '<- <-- <---' represents 'reverse arrows',Semantic List,ACTION,1
+at symbols,--- - -,ASCII '--- - -' does NOT represent 'at symbols',Semantic List,OBJECT,0
+praying hands,_/\_,ASCII '_/\_' represents 'praying hands',Direct,ACTION,1
+many ups,======,ASCII '======' does NOT represent 'many ups',Reduplication,OBJECT,0
+broken heart,</3,ASCII '</3' represents 'broken heart',Direct,OBJECT,1
+empty star,☃,ASCII '☃' does NOT represent 'empty star',Single,OBJECT,0
+do not know,(ง •̀_•́)ง,ASCII '(ง •̀_•́)ง' does NOT represent 'do not know',Metaphorical,STATE,0
+ellipsis pattern,&&& & &,ASCII '&&& & &' does NOT represent 'ellipsis pattern',Semantic List,OBJECT,0
+happy eyes pattern,^^ ^ ^^,ASCII '^^ ^ ^^' represents 'happy eyes pattern',Semantic List,EMOTION,1
+many ands,------,ASCII '------' does NOT represent 'many ands',Reduplication,OBJECT,0
+box shape,[],ASCII '[]' represents 'box shape',Direct,OBJECT,1
+on the floor,OTL,ASCII 'OTL' represents 'on the floor',Direct,ACTION,1
+happy eyes pattern,^^ ^ ^^,ASCII '^^ ^ ^^' represents 'happy eyes pattern',Semantic List,EMOTION,1
+three stars,* * *,ASCII '* * *' represents 'three stars',Semantic List,OBJECT,1
+arrow up,:-|,ASCII ':-|' does NOT represent 'arrow up',Direct,EMOTION,0
+blowing kiss,( ˘ ³˘)♥,ASCII '( ˘ ³˘)♥' represents 'blowing kiss',Metaphorical,ACTION,1
+kissy hug,☜(ﾟヮﾟ☜),ASCII '☜(ﾟヮﾟ☜)' does NOT represent 'kissy hug',Metaphorical,ACTION,0
+putting table back,(◉_◉),ASCII '(◉_◉)' does NOT represent 'putting table back',Metaphorical,STATE,0
+back and forth,>>> <<<,ASCII '>>> <<<' represents 'back and forth',Semantic List,ACTION,1
+crying sadly,(ಥ﹏ಥ),ASCII '(ಥ﹏ಥ)' represents 'crying sadly',Metaphorical,EMOTION,1
+weird fighter,(╬ಠ益ಠ),ASCII '(╬ಠ益ಠ)' does NOT represent 'weird fighter',Metaphorical,EMOTION,0
+wide eyed,(◉_◉),ASCII '(◉_◉)' represents 'wide eyed',Metaphorical,STATE,1
+person waving,_o/,ASCII '_o/' represents 'person waving',Direct,ACTION,1
+person celebrating,:-),ASCII ':-)' does NOT represent 'person celebrating',Direct,EMOTION,0
+flower girl,╰(*°▽°*)╯,ASCII '╰(*°▽°*)╯' does NOT represent 'flower girl',Metaphorical,EMOTION,0
+circle shape,o,ASCII 'o' represents 'circle shape',Direct,OBJECT,1
+adding more,^^ ^ ^^,ASCII '^^ ^ ^^' does NOT represent 'adding more',Semantic List,EMOTION,0
+gentle grasp,ლ(╹◡╹ლ),ASCII 'ლ(╹◡╹ლ)' represents 'gentle grasp',Metaphorical,ACTION,1
+hash pattern,OTL,ASCII 'OTL' does NOT represent 'hash pattern',Direct,ACTION,0
+back and forth,### # #,ASCII '### # #' does NOT represent 'back and forth',Semantic List,OBJECT,0
+back and forth,>>> <<<,ASCII '>>> <<<' represents 'back and forth',Semantic List,ACTION,1
+flexing muscles,ᕙ(⇀‸↼‶)ᕗ,ASCII 'ᕙ(⇀‸↼‶)ᕗ' represents 'flexing muscles',Metaphorical,ACTION,1
+curly brackets,{},ASCII '{}' represents 'curly brackets',Direct,OBJECT,1
+crying sadly,(ಥ﹏ಥ),ASCII '(ಥ﹏ಥ)' represents 'crying sadly',Metaphorical,EMOTION,1
+heart shape,<3,ASCII '<3' represents 'heart shape',Direct,OBJECT,1
+gentle grasp,ლ(╹◡╹ლ),ASCII 'ლ(╹◡╹ლ)' represents 'gentle grasp',Metaphorical,ACTION,1
+laughing sound,>>>>>>,ASCII '>>>>>>' does NOT represent 'laughing sound',Reduplication,ACTION,0
+wide eyed,ᕦ(ò_óˇ)ᕤ,ASCII 'ᕦ(ò_óˇ)ᕤ' does NOT represent 'wide eyed',Metaphorical,ACTION,0
+long line,------,ASCII '------' represents 'long line',Reduplication,OBJECT,1
+dancing happily,(•_•),ASCII '(•_•)' does NOT represent 'dancing happily',Metaphorical,STATE,0
+gentle grasp,(⌐■_■),ASCII '(⌐■_■)' does NOT represent 'gentle grasp',Metaphorical,QUALITY,0
+cute smile,(づ￣ ³￣)づ,ASCII '(づ￣ ³￣)づ' does NOT represent 'cute smile',Metaphorical,ACTION,0
+music note,☁,ASCII '☁' does NOT represent 'music note',Single,OBJECT,0
+ampersands,??? ? ?,ASCII '??? ? ?' does NOT represent 'ampersands',Semantic List,STATE,0
+extreme emphasis,@@@@@@,ASCII '@@@@@@' does NOT represent 'extreme emphasis',Reduplication,OBJECT,0
+weird fighter,ᕦ(ò_óˇ)ᕤ,ASCII 'ᕦ(ò_óˇ)ᕤ' does NOT represent 'weird fighter',Metaphorical,ACTION,0
+weird fighter,(◕‿◕✿),ASCII '(◕‿◕✿)' does NOT represent 'weird fighter',Metaphorical,QUALITY,0
+fading lines,--- - -,ASCII '--- - -' represents 'fading lines',Semantic List,OBJECT,1
+swaying dance,(~˘▾˘)~,ASCII '(~˘▾˘)~' represents 'swaying dance',Metaphorical,ACTION,1
+many pluses,++++++,ASCII '++++++' represents 'many pluses',Reduplication,OBJECT,1
+swaying dance,(~˘▾˘)~,ASCII '(~˘▾˘)~' represents 'swaying dance',Metaphorical,ACTION,1
+ellipsis pattern,.. . ..,ASCII '.. . ..' represents 'ellipsis pattern',Semantic List,STATE,1
+carefree joy,┬─┬ノ( º _ ºノ),ASCII '┬─┬ノ( º _ ºノ)' does NOT represent 'carefree joy',Metaphorical,ACTION,0
+happy walking,♪~ ᕕ(ᐛ)ᕗ,ASCII '♪~ ᕕ(ᐛ)ᕗ' represents 'happy walking',Metaphorical,ACTION,1
+fading lines,--- - -,ASCII '--- - -' represents 'fading lines',Semantic List,OBJECT,1
+many ands,vvvvvv,ASCII 'vvvvvv' does NOT represent 'many ands',Reduplication,ACTION,0
+bowing down,orz,ASCII 'orz' represents 'bowing down',Direct,ACTION,1
+hashtag emphasis,... . . .,ASCII '... . . .' does NOT represent 'hashtag emphasis',Semantic List,STATE,0
+do not know,ლ(╹◡╹ლ),ASCII 'ლ(╹◡╹ლ)' does NOT represent 'do not know',Metaphorical,ACTION,0
+squinting eyes,:),ASCII ':)' does NOT represent 'squinting eyes',Direct,EMOTION,0
+bar pattern,TT T TT,ASCII 'TT T TT' does NOT represent 'bar pattern',Semantic List,EMOTION,0
+gentle grasp,ლ(╹◡╹ლ),ASCII 'ლ(╹◡╹ლ)' represents 'gentle grasp',Metaphorical,ACTION,1
+hashtag emphasis,*** ** *,ASCII '*** ** *' does NOT represent 'hashtag emphasis',Semantic List,OBJECT,0
+circle shape,:),ASCII ':)' does NOT represent 'circle shape',Direct,EMOTION,0
+cute smile,(づ￣ ³￣)づ,ASCII '(づ￣ ³￣)づ' does NOT represent 'cute smile',Metaphorical,ACTION,0
+kissy hug,(づ￣ ³￣)づ,ASCII '(づ￣ ³￣)づ' represents 'kissy hug',Metaphorical,ACTION,1
+dancing happily,(ㆆ_ㆆ),ASCII '(ㆆ_ㆆ)' does NOT represent 'dancing happily',Metaphorical,EMOTION,0
+arrow right,-->,ASCII '-->' represents 'arrow right',Direct,OBJECT,1
+putting table back,┬─┬ノ( º _ ºノ),ASCII '┬─┬ノ( º _ ºノ)' represents 'putting table back',Metaphorical,ACTION,1
+snowman symbol,☯,ASCII '☯' does NOT represent 'snowman symbol',Single,OBJECT,0
+pointing back,(ง •̀_•́)ง,ASCII '(ง •̀_•́)ง' does NOT represent 'pointing back',Metaphorical,STATE,0
+extreme laughter,------,ASCII '------' does NOT represent 'extreme laughter',Reduplication,OBJECT,0
+suggestive look,( ͡° ͜ʖ ͡°),ASCII '( ͡° ͜ʖ ͡°)' represents 'suggestive look',Metaphorical,EMOTION,1
+neutral observation,♪┏(・o･)┛♪,ASCII '♪┏(・o･)┛♪' does NOT represent 'neutral observation',Metaphorical,ACTION,0
+cool dancing,ヾ(⌐■_■)ノ♪,ASCII 'ヾ(⌐■_■)ノ♪' represents 'cool dancing',Metaphorical,ACTION,1
+laughing hard,XD,ASCII 'XD' represents 'laughing hard',Direct,EMOTION,1
+percent signs,XXX X X,ASCII 'XXX X X' does NOT represent 'percent signs',Semantic List,OBJECT,0
+ellipsis pattern,.. . ..,ASCII '.. . ..' represents 'ellipsis pattern',Semantic List,STATE,1
+envelope symbol,☹,ASCII '☹' does NOT represent 'envelope symbol',Single,EMOTION,0
+circle pattern,ooo o o,ASCII 'ooo o o' represents 'circle pattern',Semantic List,OBJECT,1
+bar pattern,* * *,ASCII '* * *' does NOT represent 'bar pattern',Semantic List,OBJECT,0
+music note,♦,ASCII '♦' does NOT represent 'music note',Single,OBJECT,0
+surprised,>_<,ASCII '>_<' does NOT represent 'surprised',Direct,ACTION,0
+box shape,[],ASCII '[]' represents 'box shape',Direct,OBJECT,1
+putting on glasses,(ง •̀_•́)ง,ASCII '(ง •̀_•́)ง' does NOT represent 'putting on glasses',Metaphorical,STATE,0
+arrow up,OTL,ASCII 'OTL' does NOT represent 'arrow up',Direct,ACTION,0
+do not know,(҂◡_◡),ASCII '(҂◡_◡)' does NOT represent 'do not know',Metaphorical,QUALITY,0
+playful tongue,:-),ASCII ':-)' does NOT represent 'playful tongue',Direct,EMOTION,0
+three stars,@@@ @ @,ASCII '@@@ @ @' does NOT represent 'three stars',Semantic List,OBJECT,0
+fading lines,### # #,ASCII '### # #' does NOT represent 'fading lines',Semantic List,OBJECT,0
+happy eyes,^_^,ASCII '^_^' represents 'happy eyes',Direct,EMOTION,1
+slash pattern,.. . ..,ASCII '.. . ..' does NOT represent 'slash pattern',Semantic List,STATE,0
+putting on glasses,＼(^o^)／,ASCII '＼(^o^)／' does NOT represent 'putting on glasses',Metaphorical,EMOTION,0
+airplane symbol,✈,ASCII '✈' represents 'airplane symbol',Single,OBJECT,1
+finger guns,(☞ﾟヮﾟ)☞,ASCII '(☞ﾟヮﾟ)☞' represents 'finger guns',Metaphorical,ACTION,1
+circle shape,(),ASCII '()' does NOT represent 'circle shape',Direct,OBJECT,0
+dancing to music,┌(・。・)┘♪,ASCII '┌(・。・)┘♪' represents 'dancing to music',Metaphorical,ACTION,1
+putting on glasses,(ಥ﹏ಥ),ASCII '(ಥ﹏ಥ)' does NOT represent 'putting on glasses',Metaphorical,EMOTION,0
+bracket types,[ ] { } ( ),ASCII '[ ] { } ( )' represents 'bracket types',Semantic List,OBJECT,1
+very happy,o,ASCII 'o' does NOT represent 'very happy',Direct,OBJECT,0
+annoyed expression,{},ASCII '{}' does NOT represent 'annoyed expression',Direct,OBJECT,0
+playful tongue,:P,ASCII ':P' represents 'playful tongue',Direct,EMOTION,1
+plus signs,+++,ASCII '+++' represents 'plus signs',Direct,OBJECT,1
+pointing back,(~˘▾˘)~,ASCII '(~˘▾˘)~' does NOT represent 'pointing back',Metaphorical,ACTION,0
+wave pattern,~~~,ASCII '~~~' represents 'wave pattern',Direct,OBJECT,1
+concerned look,(¬‿¬),ASCII '(¬‿¬)' does NOT represent 'concerned look',Metaphorical,EMOTION,0
+long equals,<<<<<<,ASCII '<<<<<<' does NOT represent 'long equals',Reduplication,ACTION,0
+person celebrating,\o_,ASCII '\o_' represents 'person celebrating',Direct,ACTION,1
+praying hands,^,ASCII '^' does NOT represent 'praying hands',Direct,OBJECT,0
+three stars,+++ + +,ASCII '+++ + +' does NOT represent 'three stars',Semantic List,ACTION,0
+happy walking,♪~ ᕕ(ᐛ)ᕗ,ASCII '♪~ ᕕ(ᐛ)ᕗ' represents 'happy walking',Metaphorical,ACTION,1
+blowing kiss,( ˘ ³˘)♥,ASCII '( ˘ ³˘)♥' represents 'blowing kiss',Metaphorical,ACTION,1
+parentheses,(),ASCII '()' represents 'parentheses',Direct,OBJECT,1
+tears of joy,ಥ_ಥ,ASCII 'ಥ_ಥ' represents 'tears of joy',Metaphorical,EMOTION,1
+android smile,(¬‿¬),ASCII '(¬‿¬)' does NOT represent 'android smile',Metaphorical,EMOTION,0
+extreme frustration,(╯°□°）╯︵ ┻━┻,ASCII '(╯°□°）╯︵ ┻━┻' represents 'extreme frustration',Metaphorical,EMOTION,1
+swaying dance,(~˘▾˘)~,ASCII '(~˘▾˘)~' represents 'swaying dance',Metaphorical,ACTION,1
+adding more,+++ + +,ASCII '+++ + +' represents 'adding more',Semantic List,ACTION,1
+crying pattern,TT T TT,ASCII 'TT T TT' represents 'crying pattern',Semantic List,EMOTION,1
+cross mark,✗,ASCII '✗' represents 'cross mark',Single,QUALITY,1
+music note,✉,ASCII '✉' does NOT represent 'music note',Single,OBJECT,0
+smiley face,☺,ASCII '☺' represents 'smiley face',Single,EMOTION,1
+snowman symbol,♠,ASCII '♠' does NOT represent 'snowman symbol',Single,OBJECT,0
+swaying dance,ᕦ(ò_óˇ)ᕤ,ASCII 'ᕦ(ò_óˇ)ᕤ' does NOT represent 'swaying dance',Metaphorical,ACTION,0
+weird fighter,(ง ͠° ͟ل͜ ͡°)ง,ASCII '(ง ͠° ͟ل͜ ͡°)ง' represents 'weird fighter',Metaphorical,STATE,1
+backslash pattern,\\ \ \\,ASCII '\\ \ \\' represents 'backslash pattern',Semantic List,OBJECT,1
+annoyed expression,-_-,ASCII '-_-' represents 'annoyed expression',Direct,EMOTION,1
+equal signs,:-O,ASCII ':-O' does NOT represent 'equal signs',Direct,EMOTION,0
+envelope symbol,✉,ASCII '✉' represents 'envelope symbol',Single,OBJECT,1
+at symbols,-> --> --->,ASCII '-> --> --->' does NOT represent 'at symbols',Semantic List,ACTION,0
+sly expression,(ง •̀_•́)ง,ASCII '(ง •̀_•́)ง' does NOT represent 'sly expression',Metaphorical,STATE,0
+concerned look,(ㆆ_ㆆ),ASCII '(ㆆ_ㆆ)' represents 'concerned look',Metaphorical,EMOTION,1
+up and down,XXX X X,ASCII 'XXX X X' does NOT represent 'up and down',Semantic List,OBJECT,0
+broken heart,/o\,ASCII '/o\' does NOT represent 'broken heart',Direct,ACTION,0
+star struck,*_*,ASCII '*_*' represents 'star struck',Direct,EMOTION,1
+arrow progression,:( :( :(,ASCII ':( :( :(' does NOT represent 'arrow progression',Semantic List,EMOTION,0
+do not know,¯\_(ツ)_/¯,ASCII '¯\_(ツ)_/¯' represents 'do not know',Metaphorical,STATE,1
+arrow up,D:,ASCII 'D:' does NOT represent 'arrow up',Direct,EMOTION,0
+showing strength,ᕦ(ò_óˇ)ᕤ,ASCII 'ᕦ(ò_óˇ)ᕤ' represents 'showing strength',Metaphorical,ACTION,1
+flexing muscles,(๑•̀ㅂ•́)و✧,ASCII '(๑•̀ㅂ•́)و✧' does NOT represent 'flexing muscles',Metaphorical,QUALITY,0
+back and forth,*** ** *,ASCII '*** ** *' does NOT represent 'back and forth',Semantic List,OBJECT,0
+sly expression,¯\_(ツ)_/¯,ASCII '¯\_(ツ)_/¯' does NOT represent 'sly expression',Metaphorical,STATE,0
+parentheses,(),ASCII '()' represents 'parentheses',Direct,OBJECT,1
+pointing back,(ㆆ_ㆆ),ASCII '(ㆆ_ㆆ)' does NOT represent 'pointing back',Metaphorical,EMOTION,0
+do not know,♪┏(・o･)┛♪,ASCII '♪┏(・o･)┛♪' does NOT represent 'do not know',Metaphorical,ACTION,0
+bowing down,:-(,ASCII ':-(' does NOT represent 'bowing down',Direct,EMOTION,0
+weird fighter,(ง ͠° ͟ل͜ ͡°)ง,ASCII '(ง ͠° ͟ل͜ ͡°)ง' represents 'weird fighter',Metaphorical,STATE,1
+fading lines,--- - -,ASCII '--- - -' represents 'fading lines',Semantic List,OBJECT,1
+on the floor,:D,ASCII ':D' does NOT represent 'on the floor',Direct,EMOTION,0
+star struck,;),ASCII ';)' does NOT represent 'star struck',Direct,EMOTION,0
+group sadness,:( :( :(,ASCII ':( :( :(' represents 'group sadness',Semantic List,EMOTION,1
+percent signs,<3 <3 <3,ASCII '<3 <3 <3' does NOT represent 'percent signs',Semantic List,EMOTION,0
+crying sadly,(ಥ﹏ಥ),ASCII '(ಥ﹏ಥ)' represents 'crying sadly',Metaphorical,EMOTION,1
+back and forth,+++ + +,ASCII '+++ + +' does NOT represent 'back and forth',Semantic List,ACTION,0
+neutral expression,:-|,ASCII ':-|' represents 'neutral expression',Direct,EMOTION,1
+hash pattern,###,ASCII '###' represents 'hash pattern',Direct,OBJECT,1
+tears of joy,(◕‿◕✿),ASCII '(◕‿◕✿)' does NOT represent 'tears of joy',Metaphorical,QUALITY,0
+ready to fight,(ง •̀_•́)ง,ASCII '(ง •̀_•́)ง' represents 'ready to fight',Metaphorical,STATE,1
+neutral observation,(•_•),ASCII '(•_•)' represents 'neutral observation',Metaphorical,STATE,1
+blowing kiss,( ˘ ³˘)♥,ASCII '( ˘ ³˘)♥' represents 'blowing kiss',Metaphorical,ACTION,1
+creepy reach,(つ ͡° ͜ʖ ͡°)つ,ASCII '(つ ͡° ͜ʖ ͡°)つ' represents 'creepy reach',Metaphorical,ACTION,1
+squinting eyes,>_<,ASCII '>_<' represents 'squinting eyes',Direct,ACTION,1
+putting on glasses,( •_•)>⌐■-■,ASCII '( •_•)>⌐■-■' represents 'putting on glasses',Metaphorical,ACTION,1
+weird fighter,(ง ͠° ͟ل͜ ͡°)ง,ASCII '(ง ͠° ͟ل͜ ͡°)ง' represents 'weird fighter',Metaphorical,STATE,1
+energetic dance,ლ(╹◡╹ლ),ASCII 'ლ(╹◡╹ლ)' does NOT represent 'energetic dance',Metaphorical,ACTION,0
+do not know,╰(*°▽°*)╯,ASCII '╰(*°▽°*)╯' does NOT represent 'do not know',Metaphorical,EMOTION,0
+dancing happily,〜(￣▽￣〜),ASCII '〜(￣▽￣〜)' represents 'dancing happily',Metaphorical,ACTION,1
+neutral observation,(•_•),ASCII '(•_•)' represents 'neutral observation',Metaphorical,STATE,1
+showing strength,ᕦ(ò_óˇ)ᕤ,ASCII 'ᕦ(ò_óˇ)ᕤ' represents 'showing strength',Metaphorical,ACTION,1
+music note,♪,ASCII '♪' represents 'music note',Single,OBJECT,1
+kissy hug,〜(￣▽￣〜),ASCII '〜(￣▽￣〜)' does NOT represent 'kissy hug',Metaphorical,ACTION,0
+surprised,:-O,ASCII ':-O' represents 'surprised',Direct,EMOTION,1
+love struck,♪~ ᕕ(ᐛ)ᕗ,ASCII '♪~ ᕕ(ᐛ)ᕗ' does NOT represent 'love struck',Metaphorical,ACTION,0
+finger guns,╰(*°▽°*)╯,ASCII '╰(*°▽°*)╯' does NOT represent 'finger guns',Metaphorical,EMOTION,0
+energetic dance,♪┏(・o･)┛♪,ASCII '♪┏(・o･)┛♪' represents 'energetic dance',Metaphorical,ACTION,1
+wide eyed,＼(^o^)／,ASCII '＼(^o^)／' does NOT represent 'wide eyed',Metaphorical,EMOTION,0
+hashtag emphasis,### # #,ASCII '### # #' represents 'hashtag emphasis',Semantic List,OBJECT,1
+bowing down,orz,ASCII 'orz' represents 'bowing down',Direct,ACTION,1
+up and down,>>> <<<,ASCII '>>> <<<' does NOT represent 'up and down',Semantic List,ACTION,0
+hashtag emphasis,&&& & &,ASCII '&&& & &' does NOT represent 'hashtag emphasis',Semantic List,OBJECT,0
+offering hug,┌(・。・)┘♪,ASCII '┌(・。・)┘♪' does NOT represent 'offering hug',Metaphorical,ACTION,0
+cute smile,(｡◕‿◕｡),ASCII '(｡◕‿◕｡)' represents 'cute smile',Metaphorical,EMOTION,1
+carefree joy,ヾ(⌐■_■)ノ♪,ASCII 'ヾ(⌐■_■)ノ♪' does NOT represent 'carefree joy',Metaphorical,ACTION,0
+putting on glasses,( •_•)>⌐■-■,ASCII '( •_•)>⌐■-■' represents 'putting on glasses',Metaphorical,ACTION,1
+dancing to music,(╯°□°）╯︵ ┻━┻,ASCII '(╯°□°）╯︵ ┻━┻' does NOT represent 'dancing to music',Metaphorical,EMOTION,0
+raising hand,>_<,ASCII '>_<' does NOT represent 'raising hand',Direct,ACTION,0
+dancing to music,(╬ಠ益ಠ),ASCII '(╬ಠ益ಠ)' does NOT represent 'dancing to music',Metaphorical,EMOTION,0
+star symbol,*,ASCII '*' represents 'star symbol',Direct,OBJECT,1
+pure happiness,＼(^o^)／,ASCII '＼(^o^)／' represents 'pure happiness',Metaphorical,EMOTION,1
+ellipsis pattern,%%% % %,ASCII '%%% % %' does NOT represent 'ellipsis pattern',Semantic List,OBJECT,0
+hash pattern,>:(,ASCII '>:(' does NOT represent 'hash pattern',Direct,EMOTION,0
+cool attitude,ᕙ(⇀‸↼‶)ᕗ,ASCII 'ᕙ(⇀‸↼‶)ᕗ' does NOT represent 'cool attitude',Metaphorical,ACTION,0
+cross mark,✗,ASCII '✗' represents 'cross mark',Single,QUALITY,1
+airplane symbol,☯,ASCII '☯' does NOT represent 'airplane symbol',Single,OBJECT,0
+gentle smile,(✿◠‿◠),ASCII '(✿◠‿◠)' represents 'gentle smile',Metaphorical,EMOTION,1
+star struck,*_*,ASCII '*_*' represents 'star struck',Direct,EMOTION,1
+crying pattern,<- <-- <---,ASCII '<- <-- <---' does NOT represent 'crying pattern',Semantic List,ACTION,0
+putting on glasses,( •_•)>⌐■-■,ASCII '( •_•)>⌐■-■' represents 'putting on glasses',Metaphorical,ACTION,1
+flexing muscles,(҂◡_◡),ASCII '(҂◡_◡)' does NOT represent 'flexing muscles',Metaphorical,QUALITY,0
+happy eyes,^_^,ASCII '^_^' represents 'happy eyes',Direct,EMOTION,1
+horizontal line,+++,ASCII '+++' does NOT represent 'horizontal line',Direct,OBJECT,0
+sly expression,ಥ_ಥ,ASCII 'ಥ_ಥ' does NOT represent 'sly expression',Metaphorical,EMOTION,0
+pointing back,☜(ﾟヮﾟ☜),ASCII '☜(ﾟヮﾟ☜)' represents 'pointing back',Metaphorical,ACTION,1
+cool attitude,(⌐■_■),ASCII '(⌐■_■)' represents 'cool attitude',Metaphorical,QUALITY,1
+flexing muscles,ᕙ(⇀‸↼‶)ᕗ,ASCII 'ᕙ(⇀‸↼‶)ᕗ' represents 'flexing muscles',Metaphorical,ACTION,1
+weird fighter,(ง ͠° ͟ل͜ ͡°)ง,ASCII '(ง ͠° ͟ل͜ ͡°)ง' represents 'weird fighter',Metaphorical,STATE,1
+on the floor,<--,ASCII '<--' does NOT represent 'on the floor',Direct,OBJECT,0
+arrow down,[],ASCII '[]' does NOT represent 'arrow down',Direct,OBJECT,0
+equal signs,<>,ASCII '<>' does NOT represent 'equal signs',Direct,OBJECT,0
+intense anger,(╬ಠ益ಠ),ASCII '(╬ಠ益ಠ)' represents 'intense anger',Metaphorical,EMOTION,1
+raising hand,\o/,ASCII '\o/' does NOT represent 'raising hand',Direct,ACTION,0
+long equals,======,ASCII '======' represents 'long equals',Reduplication,OBJECT,1
+crying sadly,(•_•),ASCII '(•_•)' does NOT represent 'crying sadly',Metaphorical,STATE,0
+group sadness,:( :( :(,ASCII ':( :( :(' represents 'group sadness',Semantic List,EMOTION,1
+dancing happily,♪~ ᕕ(ᐛ)ᕗ,ASCII '♪~ ᕕ(ᐛ)ᕗ' does NOT represent 'dancing happily',Metaphorical,ACTION,0
+growing confusion,~~ ~ ~~,ASCII '~~ ~ ~~' does NOT represent 'growing confusion',Semantic List,OBJECT,0
+concerned look,(ㆆ_ㆆ),ASCII '(ㆆ_ㆆ)' represents 'concerned look',Metaphorical,EMOTION,1
+extreme frustration,(╯°□°）╯︵ ┻━┻,ASCII '(╯°□°）╯︵ ┻━┻' represents 'extreme frustration',Metaphorical,EMOTION,1
+neutral observation,(つ ͡° ͜ʖ ͡°)つ,ASCII '(つ ͡° ͜ʖ ͡°)つ' does NOT represent 'neutral observation',Metaphorical,ACTION,0
+multiple hearts,%%% % %,ASCII '%%% % %' does NOT represent 'multiple hearts',Semantic List,OBJECT,0
+flower girl,(╬ಠ益ಠ),ASCII '(╬ಠ益ಠ)' does NOT represent 'flower girl',Metaphorical,EMOTION,0
+disapproval stare,(⌐■_■),ASCII '(⌐■_■)' does NOT represent 'disapproval stare',Metaphorical,QUALITY,0
+laughing sound,......,ASCII '......' does NOT represent 'laughing sound',Reduplication,STATE,0
+arrow progression,&&& & &,ASCII '&&& & &' does NOT represent 'arrow progression',Semantic List,OBJECT,0
+long line,------,ASCII '------' represents 'long line',Reduplication,OBJECT,1
+disapproval stare,ಠ_ಠ,ASCII 'ಠ_ಠ' represents 'disapproval stare',Metaphorical,EMOTION,1
+group smiling,=) =) =),ASCII '=) =) =)' represents 'group smiling',Semantic List,EMOTION,1
+neutral observation,(•_•),ASCII '(•_•)' represents 'neutral observation',Metaphorical,STATE,1
+diamond suit,♦,ASCII '♦' represents 'diamond suit',Single,OBJECT,1
+asterisk pattern,T_T,ASCII 'T_T' does NOT represent 'asterisk pattern',Direct,EMOTION,0
+love struck,( •_•)>⌐■-■,ASCII '( •_•)>⌐■-■' does NOT represent 'love struck',Metaphorical,ACTION,0
+squinting eyes,>_<,ASCII '>_<' represents 'squinting eyes',Direct,ACTION,1
+dancing happily,ಠ_ಠ,ASCII 'ಠ_ಠ' does NOT represent 'dancing happily',Metaphorical,EMOTION,0
+dancing to music,( ˘ ³˘)♥,ASCII '( ˘ ³˘)♥' does NOT represent 'dancing to music',Metaphorical,ACTION,0
+pure happiness,(҂◡_◡),ASCII '(҂◡_◡)' does NOT represent 'pure happiness',Metaphorical,QUALITY,0
+dancing to music,┌(・。・)┘♪,ASCII '┌(・。・)┘♪' represents 'dancing to music',Metaphorical,ACTION,1
+many pluses,++++++,ASCII '++++++' represents 'many pluses',Reduplication,OBJECT,1
+star struck,_/\_,ASCII '_/\_' does NOT represent 'star struck',Direct,ACTION,0
+putting table back,┬─┬ノ( º _ ºノ),ASCII '┬─┬ノ( º _ ºノ)' represents 'putting table back',Metaphorical,ACTION,1
+star pattern,--- - -,ASCII '--- - -' does NOT represent 'star pattern',Semantic List,OBJECT,0
+star struck,*_*,ASCII '*_*' represents 'star struck',Direct,EMOTION,1
+many percents,^^^^^^,ASCII '^^^^^^' does NOT represent 'many percents',Reduplication,ACTION,0
+flexing muscles,ᕙ(⇀‸↼‶)ᕗ,ASCII 'ᕙ(⇀‸↼‶)ᕗ' represents 'flexing muscles',Metaphorical,ACTION,1
+hash pattern,orz,ASCII 'orz' does NOT represent 'hash pattern',Direct,ACTION,0
+x marks,XXX X X,ASCII 'XXX X X' represents 'x marks',Semantic List,OBJECT,1
+extreme laughter,!!!!!,ASCII '!!!!!' does NOT represent 'extreme laughter',Reduplication,EMOTION,0
+joyful celebration,(｡◕‿◕｡),ASCII '(｡◕‿◕｡)' does NOT represent 'joyful celebration',Metaphorical,EMOTION,0
+crying sadly,( ˘ ³˘)♥,ASCII '( ˘ ³˘)♥' does NOT represent 'crying sadly',Metaphorical,ACTION,0
+offering hug,(ㆆ_ㆆ),ASCII '(ㆆ_ㆆ)' does NOT represent 'offering hug',Metaphorical,EMOTION,0
+snowman symbol,☂,ASCII '☂' does NOT represent 'snowman symbol',Single,OBJECT,0
+club suit,♣,ASCII '♣' represents 'club suit',Single,OBJECT,1
+weird fighter,(ง ͠° ͟ل͜ ͡°)ง,ASCII '(ง ͠° ͟ل͜ ͡°)ง' represents 'weird fighter',Metaphorical,STATE,1
+intense anger,(づ￣ ³￣)づ,ASCII '(づ￣ ³￣)づ' does NOT represent 'intense anger',Metaphorical,ACTION,0
+increasing excitement,&&& & &,ASCII '&&& & &' does NOT represent 'increasing excitement',Semantic List,OBJECT,0
+three stars,&&& & &,ASCII '&&& & &' does NOT represent 'three stars',Semantic List,OBJECT,0
+pointing back,(•_•),ASCII '(•_•)' does NOT represent 'pointing back',Metaphorical,STATE,0
+neutral observation,〜(￣▽￣〜),ASCII '〜(￣▽￣〜)' does NOT represent 'neutral observation',Metaphorical,ACTION,0
+frowning,/o\,ASCII '/o\' does NOT represent 'frowning',Direct,ACTION,0
+creepy reach,(つ ͡° ͜ʖ ͡°)つ,ASCII '(つ ͡° ͜ʖ ͡°)つ' represents 'creepy reach',Metaphorical,ACTION,1
+growing confusion,^^^ vvv,ASCII '^^^ vvv' does NOT represent 'growing confusion',Semantic List,ACTION,0
+cute smile,(つ ͡° ͜ʖ ͡°)つ,ASCII '(つ ͡° ͜ʖ ͡°)つ' does NOT represent 'cute smile',Metaphorical,ACTION,0
+circle pattern,ooo o o,ASCII 'ooo o o' represents 'circle pattern',Semantic List,OBJECT,1
+offering hug,(っ◔◡◔)っ,ASCII '(っ◔◡◔)っ' represents 'offering hug',Metaphorical,ACTION,1
+neutral observation,(•_•),ASCII '(•_•)' represents 'neutral observation',Metaphorical,STATE,1
+frowning,:-(,ASCII ':-(' represents 'frowning',Direct,EMOTION,1
+happy walking,♪~ ᕕ(ᐛ)ᕗ,ASCII '♪~ ᕕ(ᐛ)ᕗ' represents 'happy walking',Metaphorical,ACTION,1
+winking,;),ASCII ';)' represents 'winking',Direct,EMOTION,1
+dots pattern,...,ASCII '...' represents 'dots pattern',Direct,OBJECT,1
+ampersands,&&& & &,ASCII '&&& & &' represents 'ampersands',Semantic List,OBJECT,1
+concerned look,〜(￣▽￣〜),ASCII '〜(￣▽￣〜)' does NOT represent 'concerned look',Metaphorical,ACTION,0
+slash pattern,[ ] { } ( ),ASCII '[ ] { } ( )' does NOT represent 'slash pattern',Semantic List,OBJECT,0
+sad face,:(,ASCII ':(' represents 'sad face',Direct,EMOTION,1
+finger guns,(☞ﾟヮﾟ)☞,ASCII '(☞ﾟヮﾟ)☞' represents 'finger guns',Metaphorical,ACTION,1
+shock and confusion,*** ** *,ASCII '*** ** *' does NOT represent 'shock and confusion',Semantic List,OBJECT,0
+extreme emphasis,!!!!!,ASCII '!!!!!' represents 'extreme emphasis',Reduplication,EMOTION,1
+broken heart,</3,ASCII '</3' represents 'broken heart',Direct,OBJECT,1
+finger guns,(☞ﾟヮﾟ)☞,ASCII '(☞ﾟヮﾟ)☞' represents 'finger guns',Metaphorical,ACTION,1
+money symbols,$$$ $ $,ASCII '$$$ $ $' represents 'money symbols',Semantic List,OBJECT,1
+long pause,~~~~~~,ASCII '~~~~~~' does NOT represent 'long pause',Reduplication,OBJECT,0
+gentle smile,☜(ﾟヮﾟ☜),ASCII '☜(ﾟヮﾟ☜)' does NOT represent 'gentle smile',Metaphorical,ACTION,0
+growing confusion,??? ? ?,ASCII '??? ? ?' represents 'growing confusion',Semantic List,STATE,1
+box shape,[],ASCII '[]' represents 'box shape',Direct,OBJECT,1
+many stars,******,ASCII '******' represents 'many stars',Reduplication,OBJECT,1
+equal signs,[],ASCII '[]' does NOT represent 'equal signs',Direct,OBJECT,0
+reverse arrows,<- <-- <---,ASCII '<- <-- <---' represents 'reverse arrows',Semantic List,ACTION,1
+arrow left,<--,ASCII '<--' represents 'arrow left',Direct,OBJECT,1
+bar pattern,|| | ||,ASCII '|| | ||' represents 'bar pattern',Semantic List,OBJECT,1
+multiple hearts,^^^ vvv,ASCII '^^^ vvv' does NOT represent 'multiple hearts',Semantic List,ACTION,0
+dots pattern,o,ASCII 'o' does NOT represent 'dots pattern',Direct,OBJECT,0
+gentle smile,(✿◠‿◠),ASCII '(✿◠‿◠)' represents 'gentle smile',Metaphorical,EMOTION,1
+praying hands,_o/,ASCII '_o/' does NOT represent 'praying hands',Direct,ACTION,0
+annoyed expression,-_-,ASCII '-_-' represents 'annoyed expression',Direct,EMOTION,1
+blowing kiss,( ˘ ³˘)♥,ASCII '( ˘ ³˘)♥' represents 'blowing kiss',Metaphorical,ACTION,1
+star struck,*_*,ASCII '*_*' represents 'star struck',Direct,EMOTION,1
+circle pattern,ooo o o,ASCII 'ooo o o' represents 'circle pattern',Semantic List,OBJECT,1
+happy eyes,\o/,ASCII '\o/' does NOT represent 'happy eyes',Direct,ACTION,0
+concerned look,(｡◕‿◕｡),ASCII '(｡◕‿◕｡)' does NOT represent 'concerned look',Metaphorical,EMOTION,0
+box shape,>:(,ASCII '>:(' does NOT represent 'box shape',Direct,EMOTION,0
+star pattern,*** ** *,ASCII '*** ** *' represents 'star pattern',Semantic List,OBJECT,1
+neutral expression,:-|,ASCII ':-|' represents 'neutral expression',Direct,EMOTION,1
+bar pattern,--- - -,ASCII '--- - -' does NOT represent 'bar pattern',Semantic List,OBJECT,0
+finger guns,＼(^o^)／,ASCII '＼(^o^)／' does NOT represent 'finger guns',Metaphorical,EMOTION,0
+diamond shape,<>,ASCII '<>' represents 'diamond shape',Direct,OBJECT,1
+strong right,>>>>>>,ASCII '>>>>>>' represents 'strong right',Reduplication,ACTION,1
+joyful celebration,(~˘▾˘)~,ASCII '(~˘▾˘)~' does NOT represent 'joyful celebration',Metaphorical,ACTION,0
+sad symbol,☹,ASCII '☹' represents 'sad symbol',Single,EMOTION,1
+very upset,D:,ASCII 'D:' represents 'very upset',Direct,EMOTION,1
+arrow left,<--,ASCII '<--' represents 'arrow left',Direct,OBJECT,1
+dancing to music,(っ◔◡◔)っ,ASCII '(っ◔◡◔)っ' does NOT represent 'dancing to music',Metaphorical,ACTION,0
+reverse arrows,<- <-- <---,ASCII '<- <-- <---' represents 'reverse arrows',Semantic List,ACTION,1
+gentle grasp,ᕦ(ò_óˇ)ᕤ,ASCII 'ᕦ(ò_óˇ)ᕤ' does NOT represent 'gentle grasp',Metaphorical,ACTION,0
+box shape,*_*,ASCII '*_*' does NOT represent 'box shape',Direct,EMOTION,0
+box shape,[],ASCII '[]' represents 'box shape',Direct,OBJECT,1
+ready to fight,(ง •̀_•́)ง,ASCII '(ง •̀_•́)ง' represents 'ready to fight',Metaphorical,STATE,1
+wide eyed,(☞ﾟヮﾟ)☞,ASCII '(☞ﾟヮﾟ)☞' does NOT represent 'wide eyed',Metaphorical,ACTION,0
+gentle smile,ヽ(´▽`)/,ASCII 'ヽ(´▽`)/' does NOT represent 'gentle smile',Metaphorical,EMOTION,0
+pure happiness,(ಥ﹏ಥ),ASCII '(ಥ﹏ಥ)' does NOT represent 'pure happiness',Metaphorical,EMOTION,0
+smiley face,☺,ASCII '☺' represents 'smiley face',Single,EMOTION,1
+adding more,%%% % %,ASCII '%%% % %' does NOT represent 'adding more',Semantic List,OBJECT,0
+bowing down,orz,ASCII 'orz' represents 'bowing down',Direct,ACTION,1
+hands on head,(),ASCII '()' does NOT represent 'hands on head',Direct,OBJECT,0
+cute smile,(｡◕‿◕｡),ASCII '(｡◕‿◕｡)' represents 'cute smile',Metaphorical,EMOTION,1
+gentle smile,(✿◠‿◠),ASCII '(✿◠‿◠)' represents 'gentle smile',Metaphorical,EMOTION,1
+do not know,¯\_(ツ)_/¯,ASCII '¯\_(ツ)_/¯' represents 'do not know',Metaphorical,STATE,1
+kissy hug,ლ(╹◡╹ლ),ASCII 'ლ(╹◡╹ლ)' does NOT represent 'kissy hug',Metaphorical,ACTION,0
+swaying dance,(づ￣ ³￣)づ,ASCII '(づ￣ ³￣)づ' does NOT represent 'swaying dance',Metaphorical,ACTION,0
+adding more,^^^ vvv,ASCII '^^^ vvv' does NOT represent 'adding more',Semantic List,ACTION,0
+disapproval stare,(⌐■_■),ASCII '(⌐■_■)' does NOT represent 'disapproval stare',Metaphorical,QUALITY,0
+money symbols,<- <-- <---,ASCII '<- <-- <---' does NOT represent 'money symbols',Semantic List,ACTION,0
+ampersands,&&& & &,ASCII '&&& & &' represents 'ampersands',Semantic List,OBJECT,1
+back and forth,@@@ @ @,ASCII '@@@ @ @' does NOT represent 'back and forth',Semantic List,OBJECT,0
+back and forth,>>> <<<,ASCII '>>> <<<' represents 'back and forth',Semantic List,ACTION,1
+surprised,</3,ASCII '</3' does NOT represent 'surprised',Direct,OBJECT,0
+surprised,\o_,ASCII '\o_' does NOT represent 'surprised',Direct,ACTION,0
+curly brackets,{},ASCII '{}' represents 'curly brackets',Direct,OBJECT,1
+do not know,¯\_(ツ)_/¯,ASCII '¯\_(ツ)_/¯' represents 'do not know',Metaphorical,STATE,1
+group sadness,[ ] { } ( ),ASCII '[ ] { } ( )' does NOT represent 'group sadness',Semantic List,OBJECT,0
+heavy emphasis,######,ASCII '######' represents 'heavy emphasis',Reduplication,OBJECT,1
+joyful celebration,┌(・。・)┘♪,ASCII '┌(・。・)┘♪' does NOT represent 'joyful celebration',Metaphorical,ACTION,0
+squinting eyes,>_<,ASCII '>_<' represents 'squinting eyes',Direct,ACTION,1
+star pattern,>>> <<<,ASCII '>>> <<<' does NOT represent 'star pattern',Semantic List,ACTION,0
+determined spirit,(๑•̀ㅂ•́)و✧,ASCII '(๑•̀ㅂ•́)و✧' represents 'determined spirit',Metaphorical,QUALITY,1
+adding more,+++ + +,ASCII '+++ + +' represents 'adding more',Semantic List,ACTION,1
+vertical lines,|||,ASCII '|||' represents 'vertical lines',Direct,OBJECT,1
+wide eyed,(◉_◉),ASCII '(◉_◉)' represents 'wide eyed',Metaphorical,STATE,1
+love symbol,♥,ASCII '♥' represents 'love symbol',Single,EMOTION,1
+airplane symbol,✈,ASCII '✈' represents 'airplane symbol',Single,OBJECT,1
+wavy line,~~~~~~,ASCII '~~~~~~' represents 'wavy line',Reduplication,OBJECT,1
+dancing happily,〜(￣▽￣〜),ASCII '〜(￣▽￣〜)' represents 'dancing happily',Metaphorical,ACTION,1
+up and down,^^^ vvv,ASCII '^^^ vvv' represents 'up and down',Semantic List,ACTION,1
+percent signs,!!! ???,ASCII '!!! ???' does NOT represent 'percent signs',Semantic List,STATE,0
+circle pattern,ooo o o,ASCII 'ooo o o' represents 'circle pattern',Semantic List,OBJECT,1
+back and forth,XXX X X,ASCII 'XXX X X' does NOT represent 'back and forth',Semantic List,OBJECT,0
+neutral observation,ლ(╹◡╹ლ),ASCII 'ლ(╹◡╹ლ)' does NOT represent 'neutral observation',Metaphorical,ACTION,0
+confused look,o_O,ASCII 'o_O' represents 'confused look',Direct,EMOTION,1
+concerned look,ლ(╹◡╹ლ),ASCII 'ლ(╹◡╹ლ)' does NOT represent 'concerned look',Metaphorical,ACTION,0
+money symbols,??? ? ?,ASCII '??? ? ?' does NOT represent 'money symbols',Semantic List,STATE,0
+cool attitude,(⌐■_■),ASCII '(⌐■_■)' represents 'cool attitude',Metaphorical,QUALITY,1
+three stars,... . . .,ASCII '... . . .' does NOT represent 'three stars',Semantic List,STATE,0
+gentle grasp,♪~ ᕕ(ᐛ)ᕗ,ASCII '♪~ ᕕ(ᐛ)ᕗ' does NOT represent 'gentle grasp',Metaphorical,ACTION,0
+person celebrating,T_T,ASCII 'T_T' does NOT represent 'person celebrating',Direct,EMOTION,0
+arrow up,^,ASCII '^' represents 'arrow up',Direct,OBJECT,1
+crying sadly,(⌐■_■),ASCII '(⌐■_■)' does NOT represent 'crying sadly',Metaphorical,QUALITY,0
+happy walking,(☞ﾟヮﾟ)☞,ASCII '(☞ﾟヮﾟ)☞' does NOT represent 'happy walking',Metaphorical,ACTION,0
+gentle grasp,☜(ﾟヮﾟ☜),ASCII '☜(ﾟヮﾟ☜)' does NOT represent 'gentle grasp',Metaphorical,ACTION,0
+percent signs,... . . .,ASCII '... . . .' does NOT represent 'percent signs',Semantic List,STATE,0
+on the floor,:P,ASCII ':P' does NOT represent 'on the floor',Direct,EMOTION,0
+energetic dance,ᕦ(ò_óˇ)ᕤ,ASCII 'ᕦ(ò_óˇ)ᕤ' does NOT represent 'energetic dance',Metaphorical,ACTION,0
+ready to fight,(ง •̀_•́)ง,ASCII '(ง •̀_•́)ง' represents 'ready to fight',Metaphorical,STATE,1
+strong right,hahahahaha,ASCII 'hahahahaha' does NOT represent 'strong right',Reduplication,EMOTION,0
+star symbol,♣,ASCII '♣' does NOT represent 'star symbol',Single,OBJECT,0
+blowing kiss,♪┏(・o･)┛♪,ASCII '♪┏(・o･)┛♪' does NOT represent 'blowing kiss',Metaphorical,ACTION,0
+fading lines,--- - -,ASCII '--- - -' represents 'fading lines',Semantic List,OBJECT,1
+cute smile,(｡◕‿◕｡),ASCII '(｡◕‿◕｡)' represents 'cute smile',Metaphorical,EMOTION,1
+cute smile,( ˘ ³˘)♥,ASCII '( ˘ ³˘)♥' does NOT represent 'cute smile',Metaphorical,ACTION,0
+dancing to music,(⌐■_■),ASCII '(⌐■_■)' does NOT represent 'dancing to music',Metaphorical,QUALITY,0
+cute smile,(｡◕‿◕｡),ASCII '(｡◕‿◕｡)' represents 'cute smile',Metaphorical,EMOTION,1
+arrow progression,>>> <<<,ASCII '>>> <<<' does NOT represent 'arrow progression',Semantic List,ACTION,0
+yin yang,☺,ASCII '☺' does NOT represent 'yin yang',Single,EMOTION,0
+swaying dance,(⌐■_■),ASCII '(⌐■_■)' does NOT represent 'swaying dance',Metaphorical,QUALITY,0
+love struck,ᕦ(ò_óˇ)ᕤ,ASCII 'ᕦ(ò_óˇ)ᕤ' does NOT represent 'love struck',Metaphorical,ACTION,0
+android smile,(҂◡_◡),ASCII '(҂◡_◡)' represents 'android smile',Metaphorical,QUALITY,1
+energetic dance,♪┏(・o･)┛♪,ASCII '♪┏(・o･)┛♪' represents 'energetic dance',Metaphorical,ACTION,1
+strong left,<<<<<<,ASCII '<<<<<<' represents 'strong left',Reduplication,ACTION,1
+suggestive look,(¬‿¬),ASCII '(¬‿¬)' does NOT represent 'suggestive look',Metaphorical,EMOTION,0
+love struck,( •_•)>⌐■-■,ASCII '( •_•)>⌐■-■' does NOT represent 'love struck',Metaphorical,ACTION,0
+love struck,(｡♥‿♥｡),ASCII '(｡♥‿♥｡)' represents 'love struck',Metaphorical,EMOTION,1
+gentle grasp,(☞ﾟヮﾟ)☞,ASCII '(☞ﾟヮﾟ)☞' does NOT represent 'gentle grasp',Metaphorical,ACTION,0
+pure happiness,(⌐■_■),ASCII '(⌐■_■)' does NOT represent 'pure happiness',Metaphorical,QUALITY,0
+sly expression,(¬‿¬),ASCII '(¬‿¬)' represents 'sly expression',Metaphorical,EMOTION,1
+kissy hug,(づ￣ ³￣)づ,ASCII '(づ￣ ³￣)づ' represents 'kissy hug',Metaphorical,ACTION,1
+ready to fight,(ง •̀_•́)ง,ASCII '(ง •̀_•́)ง' represents 'ready to fight',Metaphorical,STATE,1
+joyful celebration,╰(*°▽°*)╯,ASCII '╰(*°▽°*)╯' represents 'joyful celebration',Metaphorical,EMOTION,1
+long line,++++++,ASCII '++++++' does NOT represent 'long line',Reduplication,OBJECT,0
+hash pattern,>:(,ASCII '>:(' does NOT represent 'hash pattern',Direct,EMOTION,0
+blowing kiss,( ˘ ³˘)♥,ASCII '( ˘ ³˘)♥' represents 'blowing kiss',Metaphorical,ACTION,1
+playful tongue,:P,ASCII ':P' represents 'playful tongue',Direct,EMOTION,1
+finger guns,(☞ﾟヮﾟ)☞,ASCII '(☞ﾟヮﾟ)☞' represents 'finger guns',Metaphorical,ACTION,1
+disapproval stare,ლ(╹◡╹ლ),ASCII 'ლ(╹◡╹ლ)' does NOT represent 'disapproval stare',Metaphorical,ACTION,0
+intense anger,(╬ಠ益ಠ),ASCII '(╬ಠ益ಠ)' represents 'intense anger',Metaphorical,EMOTION,1
+crying face,...,ASCII '...' does NOT represent 'crying face',Direct,OBJECT,0
+pure happiness,＼(^o^)／,ASCII '＼(^o^)／' represents 'pure happiness',Metaphorical,EMOTION,1
+ampersands,&&& & &,ASCII '&&& & &' represents 'ampersands',Semantic List,OBJECT,1
+crying sadly,(ಥ﹏ಥ),ASCII '(ಥ﹏ಥ)' represents 'crying sadly',Metaphorical,EMOTION,1
+happy face,:-(,ASCII ':-(' does NOT represent 'happy face',Direct,EMOTION,0
+star symbol,*,ASCII '*' represents 'star symbol',Direct,OBJECT,1
+lots of money,$$$$$$,ASCII '$$$$$$' represents 'lots of money',Reduplication,OBJECT,1
+cool dancing,(☞ﾟヮﾟ)☞,ASCII '(☞ﾟヮﾟ)☞' does NOT represent 'cool dancing',Metaphorical,ACTION,0
+curly brackets,<>,ASCII '<>' does NOT represent 'curly brackets',Direct,OBJECT,0
+pure happiness,＼(^o^)／,ASCII '＼(^o^)／' represents 'pure happiness',Metaphorical,EMOTION,1
+empty star,✓,ASCII '✓' does NOT represent 'empty star',Single,QUALITY,0
+energetic dance,♪┏(・o･)┛♪,ASCII '♪┏(・o･)┛♪' represents 'energetic dance',Metaphorical,ACTION,1
+ellipsis pattern,.. . ..,ASCII '.. . ..' represents 'ellipsis pattern',Semantic List,STATE,1
+happy eyes pattern,^^ ^ ^^,ASCII '^^ ^ ^^' represents 'happy eyes pattern',Semantic List,EMOTION,1
+multiple hearts,|| | ||,ASCII '|| | ||' does NOT represent 'multiple hearts',Semantic List,OBJECT,0
+neutral observation,(づ￣ ³￣)づ,ASCII '(づ￣ ³￣)づ' does NOT represent 'neutral observation',Metaphorical,ACTION,0
+empty star,☺,ASCII '☺' does NOT represent 'empty star',Single,EMOTION,0
+hot springs,♨,ASCII '♨' represents 'hot springs',Single,OBJECT,1
+content smile,o/,ASCII 'o/' does NOT represent 'content smile',Direct,ACTION,0
+crying pattern,TT T TT,ASCII 'TT T TT' represents 'crying pattern',Semantic List,EMOTION,1
+many pluses,@@@@@@,ASCII '@@@@@@' does NOT represent 'many pluses',Reduplication,OBJECT,0
+pointing back,ಠ_ಠ,ASCII 'ಠ_ಠ' does NOT represent 'pointing back',Metaphorical,EMOTION,0
+growing confusion,### # #,ASCII '### # #' does NOT represent 'growing confusion',Semantic List,OBJECT,0
+back and forth,>>> <<<,ASCII '>>> <<<' represents 'back and forth',Semantic List,ACTION,1
+finger guns,♪┏(・o･)┛♪,ASCII '♪┏(・o･)┛♪' does NOT represent 'finger guns',Metaphorical,ACTION,0
+total confusion,?????,ASCII '?????' represents 'total confusion',Reduplication,STATE,1
+sly expression,＼(^o^)／,ASCII '＼(^o^)／' does NOT represent 'sly expression',Metaphorical,EMOTION,0
+spade suit,♠,ASCII '♠' represents 'spade suit',Single,OBJECT,1
+pointing back,☜(ﾟヮﾟ☜),ASCII '☜(ﾟヮﾟ☜)' represents 'pointing back',Metaphorical,ACTION,1
+ellipsis pattern,.. . ..,ASCII '.. . ..' represents 'ellipsis pattern',Semantic List,STATE,1
+backslash pattern,\\ \ \\,ASCII '\\ \ \\' represents 'backslash pattern',Semantic List,OBJECT,1
+very upset,D:,ASCII 'D:' represents 'very upset',Direct,EMOTION,1
+waving hand,o/,ASCII 'o/' represents 'waving hand',Direct,ACTION,1
+energetic dance,♪┏(・o･)┛♪,ASCII '♪┏(・o･)┛♪' represents 'energetic dance',Metaphorical,ACTION,1
+yin yang,✓,ASCII '✓' does NOT represent 'yin yang',Single,QUALITY,0
+many downs,~~~~~~,ASCII '~~~~~~' does NOT represent 'many downs',Reduplication,OBJECT,0
+android smile,(☞ﾟヮﾟ)☞,ASCII '(☞ﾟヮﾟ)☞' does NOT represent 'android smile',Metaphorical,ACTION,0
+person waving,>:(,ASCII '>:(' does NOT represent 'person waving',Direct,EMOTION,0
+creepy reach,┬─┬ノ( º _ ºノ),ASCII '┬─┬ノ( º _ ºノ)' does NOT represent 'creepy reach',Metaphorical,ACTION,0
+waving hand,o/,ASCII 'o/' represents 'waving hand',Direct,ACTION,1
+pure happiness,＼(^o^)／,ASCII '＼(^o^)／' represents 'pure happiness',Metaphorical,EMOTION,1
+creepy reach,(◕‿◕✿),ASCII '(◕‿◕✿)' does NOT represent 'creepy reach',Metaphorical,QUALITY,0
+very upset,-_-,ASCII '-_-' does NOT represent 'very upset',Direct,EMOTION,0
+pointing back,☜(ﾟヮﾟ☜),ASCII '☜(ﾟヮﾟ☜)' represents 'pointing back',Metaphorical,ACTION,1
+pointing back,☜(ﾟヮﾟ☜),ASCII '☜(ﾟヮﾟ☜)' represents 'pointing back',Metaphorical,ACTION,1
+bracket types,--- - -,ASCII '--- - -' does NOT represent 'bracket types',Semantic List,OBJECT,0
+at symbols,@@@ @ @,ASCII '@@@ @ @' represents 'at symbols',Semantic List,OBJECT,1
+offering hug,〜(￣▽￣〜),ASCII '〜(￣▽￣〜)' does NOT represent 'offering hug',Metaphorical,ACTION,0
+trailing off,!!! ! !,ASCII '!!! ! !' does NOT represent 'trailing off',Semantic List,EMOTION,0
+crying pattern,// / //,ASCII '// / //' does NOT represent 'crying pattern',Semantic List,OBJECT,0
+offering hug,(｡◕‿◕｡),ASCII '(｡◕‿◕｡)' does NOT represent 'offering hug',Metaphorical,EMOTION,0
+up and down,^^^ vvv,ASCII '^^^ vvv' represents 'up and down',Semantic List,ACTION,1
+cloud symbol,☁,ASCII '☁' represents 'cloud symbol',Single,OBJECT,1
+determined spirit,(•_•),ASCII '(•_•)' does NOT represent 'determined spirit',Metaphorical,STATE,0
+three stars,@@@ @ @,ASCII '@@@ @ @' does NOT represent 'three stars',Semantic List,OBJECT,0
+pointing back,☜(ﾟヮﾟ☜),ASCII '☜(ﾟヮﾟ☜)' represents 'pointing back',Metaphorical,ACTION,1
+finger guns,(☞ﾟヮﾟ)☞,ASCII '(☞ﾟヮﾟ)☞' represents 'finger guns',Metaphorical,ACTION,1
+cool attitude,(⌐■_■),ASCII '(⌐■_■)' represents 'cool attitude',Metaphorical,QUALITY,1
+playful tongue,<>,ASCII '<>' does NOT represent 'playful tongue',Direct,OBJECT,0
+do not know,(ง •̀_•́)ง,ASCII '(ง •̀_•́)ง' does NOT represent 'do not know',Metaphorical,STATE,0
+sly expression,(¬‿¬),ASCII '(¬‿¬)' represents 'sly expression',Metaphorical,EMOTION,1
+creepy reach,(◕‿◕✿),ASCII '(◕‿◕✿)' does NOT represent 'creepy reach',Metaphorical,QUALITY,0
+very happy,:D,ASCII ':D' represents 'very happy',Direct,EMOTION,1
+dancing to music,(ಥ﹏ಥ),ASCII '(ಥ﹏ಥ)' does NOT represent 'dancing to music',Metaphorical,EMOTION,0
+gentle smile,(✿◠‿◠),ASCII '(✿◠‿◠)' represents 'gentle smile',Metaphorical,EMOTION,1
+praying hands,OTL,ASCII 'OTL' does NOT represent 'praying hands',Direct,ACTION,0
+energetic dance,♪┏(・o･)┛♪,ASCII '♪┏(・o･)┛♪' represents 'energetic dance',Metaphorical,ACTION,1
+up and down,^^^ vvv,ASCII '^^^ vvv' represents 'up and down',Semantic List,ACTION,1
+star struck,*_*,ASCII '*_*' represents 'star struck',Direct,EMOTION,1
+many ats,@@@@@@,ASCII '@@@@@@' represents 'many ats',Reduplication,OBJECT,1
+gentle smile,ᕦ(ò_óˇ)ᕤ,ASCII 'ᕦ(ò_óˇ)ᕤ' does NOT represent 'gentle smile',Metaphorical,ACTION,0
+strong left,<<<<<<,ASCII '<<<<<<' represents 'strong left',Reduplication,ACTION,1
+percent signs,*** ** *,ASCII '*** ** *' does NOT represent 'percent signs',Semantic List,OBJECT,0
+blowing kiss,ಠ_ಠ,ASCII 'ಠ_ಠ' does NOT represent 'blowing kiss',Metaphorical,EMOTION,0
+flower girl,(｡♥‿♥｡),ASCII '(｡♥‿♥｡)' does NOT represent 'flower girl',Metaphorical,EMOTION,0
+gentle grasp,＼(^o^)／,ASCII '＼(^o^)／' does NOT represent 'gentle grasp',Metaphorical,EMOTION,0
+wave pattern,~~ ~ ~~,ASCII '~~ ~ ~~' represents 'wave pattern',Semantic List,OBJECT,1
+strong right,@@@@@@,ASCII '@@@@@@' does NOT represent 'strong right',Reduplication,OBJECT,0
+creepy reach,(つ ͡° ͜ʖ ͡°)つ,ASCII '(つ ͡° ͜ʖ ͡°)つ' represents 'creepy reach',Metaphorical,ACTION,1
+smiley face,☺,ASCII '☺' represents 'smiley face',Single,EMOTION,1
+finger guns,(☞ﾟヮﾟ)☞,ASCII '(☞ﾟヮﾟ)☞' represents 'finger guns',Metaphorical,ACTION,1
+hands on head,/o\,ASCII '/o\' represents 'hands on head',Direct,ACTION,1
+love struck,(ง ͠° ͟ل͜ ͡°)ง,ASCII '(ง ͠° ͟ل͜ ͡°)ง' does NOT represent 'love struck',Metaphorical,STATE,0
+intense anger,♪┏(・o･)┛♪,ASCII '♪┏(・o･)┛♪' does NOT represent 'intense anger',Metaphorical,ACTION,0
+happy walking,♪~ ᕕ(ᐛ)ᕗ,ASCII '♪~ ᕕ(ᐛ)ᕗ' represents 'happy walking',Metaphorical,ACTION,1
+squinting eyes,o,ASCII 'o' does NOT represent 'squinting eyes',Direct,OBJECT,0
+swaying dance,( •_•)>⌐■-■,ASCII '( •_•)>⌐■-■' does NOT represent 'swaying dance',Metaphorical,ACTION,0
+creepy reach,ᕦ(ò_óˇ)ᕤ,ASCII 'ᕦ(ò_óˇ)ᕤ' does NOT represent 'creepy reach',Metaphorical,ACTION,0
+fading lines,--- - -,ASCII '--- - -' represents 'fading lines',Semantic List,OBJECT,1
+neutral observation,┌(・。・)┘♪,ASCII '┌(・。・)┘♪' does NOT represent 'neutral observation',Metaphorical,ACTION,0
+weird fighter,(◉_◉),ASCII '(◉_◉)' does NOT represent 'weird fighter',Metaphorical,STATE,0
+swaying dance,ಠ_ಠ,ASCII 'ಠ_ಠ' does NOT represent 'swaying dance',Metaphorical,EMOTION,0
+many ands,!!!!!,ASCII '!!!!!' does NOT represent 'many ands',Reduplication,EMOTION,0
+carefree joy,(ง •̀_•́)ง,ASCII '(ง •̀_•́)ง' does NOT represent 'carefree joy',Metaphorical,STATE,0
+waving hand,^,ASCII '^' does NOT represent 'waving hand',Direct,OBJECT,0
+bracket types,[ ] { } ( ),ASCII '[ ] { } ( )' represents 'bracket types',Semantic List,OBJECT,1
+dizzy face,:P,ASCII ':P' does NOT represent 'dizzy face',Direct,EMOTION,0
+angry face,>:(,ASCII '>:(' represents 'angry face',Direct,EMOTION,1
+gentle smile,(✿◠‿◠),ASCII '(✿◠‿◠)' represents 'gentle smile',Metaphorical,EMOTION,1
+many ats,%%%%%%,ASCII '%%%%%%' does NOT represent 'many ats',Reduplication,OBJECT,0
+strong right,######,ASCII '######' does NOT represent 'strong right',Reduplication,OBJECT,0
+many percents,%%%%%%,ASCII '%%%%%%' represents 'many percents',Reduplication,OBJECT,1
+pointing back,(҂◡_◡),ASCII '(҂◡_◡)' does NOT represent 'pointing back',Metaphorical,QUALITY,0
+big grin,*_*,ASCII '*_*' does NOT represent 'big grin',Direct,EMOTION,0
+do not know,( •_•)>⌐■-■,ASCII '( •_•)>⌐■-■' does NOT represent 'do not know',Metaphorical,ACTION,0
+back and forth,$$$ $ $,ASCII '$$$ $ $' does NOT represent 'back and forth',Semantic List,OBJECT,0
+flower girl,( ͡° ͜ʖ ͡°),ASCII '( ͡° ͜ʖ ͡°)' does NOT represent 'flower girl',Metaphorical,EMOTION,0
+neutral expression,(),ASCII '()' does NOT represent 'neutral expression',Direct,OBJECT,0
+joyful celebration,╰(*°▽°*)╯,ASCII '╰(*°▽°*)╯' represents 'joyful celebration',Metaphorical,EMOTION,1
+carefree joy,(ง ͠° ͟ل͜ ͡°)ง,ASCII '(ง ͠° ͟ل͜ ͡°)ง' does NOT represent 'carefree joy',Metaphorical,STATE,0
+laughing sound,++++++,ASCII '++++++' does NOT represent 'laughing sound',Reduplication,OBJECT,0
+yin yang,★,ASCII '★' does NOT represent 'yin yang',Single,OBJECT,0
+flower girl,(◕‿◕✿),ASCII '(◕‿◕✿)' represents 'flower girl',Metaphorical,QUALITY,1
+crying pattern,^^ ^ ^^,ASCII '^^ ^ ^^' does NOT represent 'crying pattern',Semantic List,EMOTION,0
+crying face,T_T,ASCII 'T_T' represents 'crying face',Direct,EMOTION,1
+growing confusion,*** ** *,ASCII '*** ** *' does NOT represent 'growing confusion',Semantic List,OBJECT,0
+hash pattern,T_T,ASCII 'T_T' does NOT represent 'hash pattern',Direct,EMOTION,0
+squinting eyes,|||,ASCII '|||' does NOT represent 'squinting eyes',Direct,OBJECT,0
+bowing down,\o/,ASCII '\o/' does NOT represent 'bowing down',Direct,ACTION,0
+kissy hug,(◕‿◕✿),ASCII '(◕‿◕✿)' does NOT represent 'kissy hug',Metaphorical,QUALITY,0
+carefree joy,♪┏(・o･)┛♪,ASCII '♪┏(・o･)┛♪' does NOT represent 'carefree joy',Metaphorical,ACTION,0
+swaying dance,(☞ﾟヮﾟ)☞,ASCII '(☞ﾟヮﾟ)☞' does NOT represent 'swaying dance',Metaphorical,ACTION,0
+box shape,[],ASCII '[]' represents 'box shape',Direct,OBJECT,1
+growing confusion,??? ? ?,ASCII '??? ? ?' represents 'growing confusion',Semantic List,STATE,1
+putting table back,ᕦ(ò_óˇ)ᕤ,ASCII 'ᕦ(ò_óˇ)ᕤ' does NOT represent 'putting table back',Metaphorical,ACTION,0
+intense anger,(╬ಠ益ಠ),ASCII '(╬ಠ益ಠ)' represents 'intense anger',Metaphorical,EMOTION,1
+wave pattern,~~ ~ ~~,ASCII '~~ ~ ~~' represents 'wave pattern',Semantic List,OBJECT,1
+cute smile,(｡◕‿◕｡),ASCII '(｡◕‿◕｡)' represents 'cute smile',Metaphorical,EMOTION,1
+bracket types,$$$ $ $,ASCII '$$$ $ $' does NOT represent 'bracket types',Semantic List,OBJECT,0
+extreme emphasis,!!!!!,ASCII '!!!!!' represents 'extreme emphasis',Reduplication,EMOTION,1
+energetic dance,┌(・。・)┘♪,ASCII '┌(・。・)┘♪' does NOT represent 'energetic dance',Metaphorical,ACTION,0
+star symbol,<>,ASCII '<>' does NOT represent 'star symbol',Direct,OBJECT,0
+growing confusion,^^^ vvv,ASCII '^^^ vvv' does NOT represent 'growing confusion',Semantic List,ACTION,0
+crying face,T_T,ASCII 'T_T' represents 'crying face',Direct,EMOTION,1
+bar pattern,!!! ! !,ASCII '!!! ! !' does NOT represent 'bar pattern',Semantic List,EMOTION,0
+many downs,vvvvvv,ASCII 'vvvvvv' represents 'many downs',Reduplication,ACTION,1
+sun symbol,♣,ASCII '♣' does NOT represent 'sun symbol',Single,OBJECT,0
+crying sadly,(ಥ﹏ಥ),ASCII '(ಥ﹏ಥ)' represents 'crying sadly',Metaphorical,EMOTION,1
+flower girl,(◕‿◕✿),ASCII '(◕‿◕✿)' represents 'flower girl',Metaphorical,QUALITY,1
+circle shape,o,ASCII 'o' represents 'circle shape',Direct,OBJECT,1
+intense anger,(╬ಠ益ಠ),ASCII '(╬ಠ益ಠ)' represents 'intense anger',Metaphorical,EMOTION,1
+slash pattern,// / //,ASCII '// / //' represents 'slash pattern',Semantic List,OBJECT,1
+very happy,:D,ASCII ':D' represents 'very happy',Direct,EMOTION,1
+sad face,\o_,ASCII '\o_' does NOT represent 'sad face',Direct,ACTION,0
+x marks,XXX X X,ASCII 'XXX X X' represents 'x marks',Semantic List,OBJECT,1
+swaying dance,(｡◕‿◕｡),ASCII '(｡◕‿◕｡)' does NOT represent 'swaying dance',Metaphorical,EMOTION,0
+airplane symbol,✈,ASCII '✈' represents 'airplane symbol',Single,OBJECT,1
+sad face,:(,ASCII ':(' represents 'sad face',Direct,EMOTION,1
+waving hand,o/,ASCII 'o/' represents 'waving hand',Direct,ACTION,1
+love struck,(｡♥‿♥｡),ASCII '(｡♥‿♥｡)' represents 'love struck',Metaphorical,EMOTION,1
+kissy hug,( ͡° ͜ʖ ͡°),ASCII '( ͡° ͜ʖ ͡°)' does NOT represent 'kissy hug',Metaphorical,EMOTION,0
+very upset,D:,ASCII 'D:' represents 'very upset',Direct,EMOTION,1
+extreme laughter,XDXDXD,ASCII 'XDXDXD' represents 'extreme laughter',Reduplication,EMOTION,1
+laughing hard,\o_,ASCII '\o_' does NOT represent 'laughing hard',Direct,ACTION,0
+sad face,:(,ASCII ':(' represents 'sad face',Direct,EMOTION,1
+cool attitude,♪~ ᕕ(ᐛ)ᕗ,ASCII '♪~ ᕕ(ᐛ)ᕗ' does NOT represent 'cool attitude',Metaphorical,ACTION,0
+carefree joy,ヽ(´▽`)/,ASCII 'ヽ(´▽`)/' represents 'carefree joy',Metaphorical,EMOTION,1
+cool attitude,(⌐■_■),ASCII '(⌐■_■)' represents 'cool attitude',Metaphorical,QUALITY,1
+confused look,o_O,ASCII 'o_O' represents 'confused look',Direct,EMOTION,1
+x marks,~~ ~ ~~,ASCII '~~ ~ ~~' does NOT represent 'x marks',Semantic List,OBJECT,0
+disapproval stare,(づ￣ ³￣)づ,ASCII '(づ￣ ³￣)づ' does NOT represent 'disapproval stare',Metaphorical,ACTION,0
+do not know,(~˘▾˘)~,ASCII '(~˘▾˘)~' does NOT represent 'do not know',Metaphorical,ACTION,0
+horizontal line,___,ASCII '___' represents 'horizontal line',Direct,OBJECT,1
+group sadness,:( :( :(,ASCII ':( :( :(' represents 'group sadness',Semantic List,EMOTION,1
+group sadness,@@@ @ @,ASCII '@@@ @ @' does NOT represent 'group sadness',Semantic List,OBJECT,0
+increasing excitement,<- <-- <---,ASCII '<- <-- <---' does NOT represent 'increasing excitement',Semantic List,ACTION,0
+lots of money,======,ASCII '======' does NOT represent 'lots of money',Reduplication,OBJECT,0
+wavy line,------,ASCII '------' does NOT represent 'wavy line',Reduplication,OBJECT,0
+star symbol,☹,ASCII '☹' does NOT represent 'star symbol',Single,EMOTION,0
+back and forth,>>> <<<,ASCII '>>> <<<' represents 'back and forth',Semantic List,ACTION,1
+long equals,======,ASCII '======' represents 'long equals',Reduplication,OBJECT,1
+fading lines,--- - -,ASCII '--- - -' represents 'fading lines',Semantic List,OBJECT,1
+waving hand,o/,ASCII 'o/' represents 'waving hand',Direct,ACTION,1
+smiling,:-),ASCII ':-)' represents 'smiling',Direct,EMOTION,1
+hash pattern,###,ASCII '###' represents 'hash pattern',Direct,OBJECT,1
+energetic dance,ಠ_ಠ,ASCII 'ಠ_ಠ' does NOT represent 'energetic dance',Metaphorical,EMOTION,0
+circle pattern,.. . ..,ASCII '.. . ..' does NOT represent 'circle pattern',Semantic List,STATE,0
+cool dancing,( •_•)>⌐■-■,ASCII '( •_•)>⌐■-■' does NOT represent 'cool dancing',Metaphorical,ACTION,0
+pointing back,(¬‿¬),ASCII '(¬‿¬)' does NOT represent 'pointing back',Metaphorical,EMOTION,0
+broken heart,</3,ASCII '</3' represents 'broken heart',Direct,OBJECT,1
+horizontal line,T_T,ASCII 'T_T' does NOT represent 'horizontal line',Direct,EMOTION,0
+many downs,------,ASCII '------' does NOT represent 'many downs',Reduplication,OBJECT,0
+frowning,:-(,ASCII ':-(' represents 'frowning',Direct,EMOTION,1
+offering hug,ヾ(⌐■_■)ノ♪,ASCII 'ヾ(⌐■_■)ノ♪' does NOT represent 'offering hug',Metaphorical,ACTION,0
+squinting eyes,:-(,ASCII ':-(' does NOT represent 'squinting eyes',Direct,EMOTION,0
+person celebrating,orz,ASCII 'orz' does NOT represent 'person celebrating',Direct,ACTION,0
+pointing back,┬─┬ノ( º _ ºノ),ASCII '┬─┬ノ( º _ ºノ)' does NOT represent 'pointing back',Metaphorical,ACTION,0
+many percents,%%%%%%,ASCII '%%%%%%' represents 'many percents',Reduplication,OBJECT,1
+laughing sound,hahahahaha,ASCII 'hahahahaha' represents 'laughing sound',Reduplication,EMOTION,1
+music note,☺,ASCII '☺' does NOT represent 'music note',Single,EMOTION,0
+disapproval stare,ಠ_ಠ,ASCII 'ಠ_ಠ' represents 'disapproval stare',Metaphorical,EMOTION,1
+determined spirit,(๑•̀ㅂ•́)و✧,ASCII '(๑•̀ㅂ•́)و✧' represents 'determined spirit',Metaphorical,QUALITY,1
+x marks,* * *,ASCII '* * *' does NOT represent 'x marks',Semantic List,OBJECT,0
+long line,######,ASCII '######' does NOT represent 'long line',Reduplication,OBJECT,0
+pure happiness,(~˘▾˘)~,ASCII '(~˘▾˘)~' does NOT represent 'pure happiness',Metaphorical,ACTION,0
+diamond shape,<>,ASCII '<>' represents 'diamond shape',Direct,OBJECT,1
+offering hug,(☞ﾟヮﾟ)☞,ASCII '(☞ﾟヮﾟ)☞' does NOT represent 'offering hug',Metaphorical,ACTION,0
+do not know,(ಥ﹏ಥ),ASCII '(ಥ﹏ಥ)' does NOT represent 'do not know',Metaphorical,EMOTION,0
+creepy reach,(っ◔◡◔)っ,ASCII '(っ◔◡◔)っ' does NOT represent 'creepy reach',Metaphorical,ACTION,0
+fading lines,--- - -,ASCII '--- - -' represents 'fading lines',Semantic List,OBJECT,1
+annoyed expression,;),ASCII ';)' does NOT represent 'annoyed expression',Direct,EMOTION,0
+bar pattern,|| | ||,ASCII '|| | ||' represents 'bar pattern',Semantic List,OBJECT,1
+showing strength,┌(・。・)┘♪,ASCII '┌(・。・)┘♪' does NOT represent 'showing strength',Metaphorical,ACTION,0
+plus signs,-->,ASCII '-->' does NOT represent 'plus signs',Direct,OBJECT,0
+group smiling,--- - -,ASCII '--- - -' does NOT represent 'group smiling',Semantic List,OBJECT,0
+annoyed expression,^,ASCII '^' does NOT represent 'annoyed expression',Direct,OBJECT,0
+putting table back,(ง •̀_•́)ง,ASCII '(ง •̀_•́)ง' does NOT represent 'putting table back',Metaphorical,STATE,0
+love struck,(｡♥‿♥｡),ASCII '(｡♥‿♥｡)' represents 'love struck',Metaphorical,EMOTION,1
+carefree joy,ヽ(´▽`)/,ASCII 'ヽ(´▽`)/' represents 'carefree joy',Metaphorical,EMOTION,1
+extreme emphasis,%%%%%%,ASCII '%%%%%%' does NOT represent 'extreme emphasis',Reduplication,OBJECT,0
+crying sadly,(ಥ﹏ಥ),ASCII '(ಥ﹏ಥ)' represents 'crying sadly',Metaphorical,EMOTION,1
+shock and confusion,!!! ???,ASCII '!!! ???' represents 'shock and confusion',Semantic List,STATE,1
+many percents,%%%%%%,ASCII '%%%%%%' represents 'many percents',Reduplication,OBJECT,1
+broken heart,</3,ASCII '</3' represents 'broken heart',Direct,OBJECT,1
+group smiling,--- - -,ASCII '--- - -' does NOT represent 'group smiling',Semantic List,OBJECT,0
+tears of joy,ಥ_ಥ,ASCII 'ಥ_ಥ' represents 'tears of joy',Metaphorical,EMOTION,1
+concerned look,(ㆆ_ㆆ),ASCII '(ㆆ_ㆆ)' represents 'concerned look',Metaphorical,EMOTION,1
+determined spirit,♪┏(・o･)┛♪,ASCII '♪┏(・o･)┛♪' does NOT represent 'determined spirit',Metaphorical,ACTION,0
+arrow up,>:(,ASCII '>:(' does NOT represent 'arrow up',Direct,EMOTION,0
+circle pattern,=) =) =),ASCII '=) =) =)' does NOT represent 'circle pattern',Semantic List,EMOTION,0
+increasing excitement,[ ] { } ( ),ASCII '[ ] { } ( )' does NOT represent 'increasing excitement',Semantic List,OBJECT,0
+star struck,-_-,ASCII '-_-' does NOT represent 'star struck',Direct,EMOTION,0
+extreme frustration,(ㆆ_ㆆ),ASCII '(ㆆ_ㆆ)' does NOT represent 'extreme frustration',Metaphorical,EMOTION,0
+love struck,¯\_(ツ)_/¯,ASCII '¯\_(ツ)_/¯' does NOT represent 'love struck',Metaphorical,STATE,0
+extreme emphasis,!!!!!,ASCII '!!!!!' represents 'extreme emphasis',Reduplication,EMOTION,1
+android smile,(҂◡_◡),ASCII '(҂◡_◡)' represents 'android smile',Metaphorical,QUALITY,1
+cool dancing,ヾ(⌐■_■)ノ♪,ASCII 'ヾ(⌐■_■)ノ♪' represents 'cool dancing',Metaphorical,ACTION,1
+group smiling,=) =) =),ASCII '=) =) =)' represents 'group smiling',Semantic List,EMOTION,1
+check mark,✓,ASCII '✓' represents 'check mark',Single,QUALITY,1
+intense anger,(づ￣ ³￣)づ,ASCII '(づ￣ ³￣)づ' does NOT represent 'intense anger',Metaphorical,ACTION,0
+swaying dance,(╬ಠ益ಠ),ASCII '(╬ಠ益ಠ)' does NOT represent 'swaying dance',Metaphorical,EMOTION,0
+praying hands,_/\_,ASCII '_/\_' represents 'praying hands',Direct,ACTION,1
+growing confusion,??? ? ?,ASCII '??? ? ?' represents 'growing confusion',Semantic List,STATE,1
+both hands up,\o/,ASCII '\o/' represents 'both hands up',Direct,ACTION,1
+playful tongue,</3,ASCII '</3' does NOT represent 'playful tongue',Direct,OBJECT,0
+continuous laughing,lolololol,ASCII 'lolololol' represents 'continuous laughing',Reduplication,EMOTION,1
+three stars,<- <-- <---,ASCII '<- <-- <---' does NOT represent 'three stars',Semantic List,ACTION,0
+pure happiness,(✿◠‿◠),ASCII '(✿◠‿◠)' does NOT represent 'pure happiness',Metaphorical,EMOTION,0
+showing strength,♪~ ᕕ(ᐛ)ᕗ,ASCII '♪~ ᕕ(ᐛ)ᕗ' does NOT represent 'showing strength',Metaphorical,ACTION,0
+increasing excitement,!!! ! !,ASCII '!!! ! !' represents 'increasing excitement',Semantic List,EMOTION,1
+dots pattern,[],ASCII '[]' does NOT represent 'dots pattern',Direct,OBJECT,0
+android smile,ლ(╹◡╹ლ),ASCII 'ლ(╹◡╹ლ)' does NOT represent 'android smile',Metaphorical,ACTION,0
+android smile,(҂◡_◡),ASCII '(҂◡_◡)' represents 'android smile',Metaphorical,QUALITY,1
+plus signs,+++,ASCII '+++' represents 'plus signs',Direct,OBJECT,1
+suggestive look,(｡◕‿◕｡),ASCII '(｡◕‿◕｡)' does NOT represent 'suggestive look',Metaphorical,EMOTION,0
+energetic dance,(ㆆ_ㆆ),ASCII '(ㆆ_ㆆ)' does NOT represent 'energetic dance',Metaphorical,EMOTION,0
+love struck,(｡♥‿♥｡),ASCII '(｡♥‿♥｡)' represents 'love struck',Metaphorical,EMOTION,1
+gentle grasp,(✿◠‿◠),ASCII '(✿◠‿◠)' does NOT represent 'gentle grasp',Metaphorical,EMOTION,0
+slash pattern,// / //,ASCII '// / //' represents 'slash pattern',Semantic List,OBJECT,1
+offering hug,＼(^o^)／,ASCII '＼(^o^)／' does NOT represent 'offering hug',Metaphorical,EMOTION,0
+person waving,{},ASCII '{}' does NOT represent 'person waving',Direct,OBJECT,0
+asterisk pattern,***,ASCII '***' represents 'asterisk pattern',Direct,OBJECT,1
+raising hand,...,ASCII '...' does NOT represent 'raising hand',Direct,OBJECT,0
+strong left,vvvvvv,ASCII 'vvvvvv' does NOT represent 'strong left',Reduplication,ACTION,0
+love symbol,♥,ASCII '♥' represents 'love symbol',Single,EMOTION,1
+wave pattern,~~~,ASCII '~~~' represents 'wave pattern',Direct,OBJECT,1
+intense anger,♪~ ᕕ(ᐛ)ᕗ,ASCII '♪~ ᕕ(ᐛ)ᕗ' does NOT represent 'intense anger',Metaphorical,ACTION,0
+peace symbol,☮,ASCII '☮' represents 'peace symbol',Single,OBJECT,1
+happy walking,(ㆆ_ㆆ),ASCII '(ㆆ_ㆆ)' does NOT represent 'happy walking',Metaphorical,EMOTION,0
+star struck,*_*,ASCII '*_*' represents 'star struck',Direct,EMOTION,1
+arrow progression,-> --> --->,ASCII '-> --> --->' represents 'arrow progression',Semantic List,ACTION,1
+sad face,XD,ASCII 'XD' does NOT represent 'sad face',Direct,EMOTION,0
+weird fighter,┌(・。・)┘♪,ASCII '┌(・。・)┘♪' does NOT represent 'weird fighter',Metaphorical,ACTION,0
+at symbols,@@@ @ @,ASCII '@@@ @ @' represents 'at symbols',Semantic List,OBJECT,1
+star struck,OTL,ASCII 'OTL' does NOT represent 'star struck',Direct,ACTION,0
+crying pattern,TT T TT,ASCII 'TT T TT' represents 'crying pattern',Semantic List,EMOTION,1
+on the floor,OTL,ASCII 'OTL' represents 'on the floor',Direct,ACTION,1
+concerned look,( ͡° ͜ʖ ͡°),ASCII '( ͡° ͜ʖ ͡°)' does NOT represent 'concerned look',Metaphorical,EMOTION,0
+praying hands,_/\_,ASCII '_/\_' represents 'praying hands',Direct,ACTION,1
+percent signs,+++ + +,ASCII '+++ + +' does NOT represent 'percent signs',Semantic List,ACTION,0
+energetic dance,(｡♥‿♥｡),ASCII '(｡♥‿♥｡)' does NOT represent 'energetic dance',Metaphorical,EMOTION,0
+hands on head,\o,ASCII '\o' does NOT represent 'hands on head',Direct,ACTION,0
+person celebrating,\o_,ASCII '\o_' represents 'person celebrating',Direct,ACTION,1
+putting on glasses,( •_•)>⌐■-■,ASCII '( •_•)>⌐■-■' represents 'putting on glasses',Metaphorical,ACTION,1
+slash pattern,??? ? ?,ASCII '??? ? ?' does NOT represent 'slash pattern',Semantic List,STATE,0
+determined spirit,( ͡° ͜ʖ ͡°),ASCII '( ͡° ͜ʖ ͡°)' does NOT represent 'determined spirit',Metaphorical,EMOTION,0
+parentheses,:-O,ASCII ':-O' does NOT represent 'parentheses',Direct,EMOTION,0
+pointing back,☜(ﾟヮﾟ☜),ASCII '☜(ﾟヮﾟ☜)' represents 'pointing back',Metaphorical,ACTION,1
+flower girl,ヽ(´▽`)/,ASCII 'ヽ(´▽`)/' does NOT represent 'flower girl',Metaphorical,EMOTION,0
+happy eyes pattern,^^ ^ ^^,ASCII '^^ ^ ^^' represents 'happy eyes pattern',Semantic List,EMOTION,1
+flower girl,(◕‿◕✿),ASCII '(◕‿◕✿)' represents 'flower girl',Metaphorical,QUALITY,1
+continuous laughing,>>>>>>,ASCII '>>>>>>' does NOT represent 'continuous laughing',Reduplication,ACTION,0
+up and down,!!! ???,ASCII '!!! ???' does NOT represent 'up and down',Semantic List,STATE,0
+envelope symbol,☮,ASCII '☮' does NOT represent 'envelope symbol',Single,OBJECT,0
+swaying dance,(~˘▾˘)~,ASCII '(~˘▾˘)~' represents 'swaying dance',Metaphorical,ACTION,1
+dancing happily,〜(￣▽￣〜),ASCII '〜(￣▽￣〜)' represents 'dancing happily',Metaphorical,ACTION,1
+horizontal line,:-(,ASCII ':-(' does NOT represent 'horizontal line',Direct,EMOTION,0
+at symbols,&&& & &,ASCII '&&& & &' does NOT represent 'at symbols',Semantic List,OBJECT,0
+gentle grasp,ლ(╹◡╹ლ),ASCII 'ლ(╹◡╹ლ)' represents 'gentle grasp',Metaphorical,ACTION,1
+arrow down,v,ASCII 'v' represents 'arrow down',Direct,OBJECT,1
+pointing back,☜(ﾟヮﾟ☜),ASCII '☜(ﾟヮﾟ☜)' represents 'pointing back',Metaphorical,ACTION,1
+fading lines,+++ + +,ASCII '+++ + +' does NOT represent 'fading lines',Semantic List,ACTION,0
+strong left,<<<<<<,ASCII '<<<<<<' represents 'strong left',Reduplication,ACTION,1
+very happy,:D,ASCII ':D' represents 'very happy',Direct,EMOTION,1
+flower girl,〜(￣▽￣〜),ASCII '〜(￣▽￣〜)' does NOT represent 'flower girl',Metaphorical,ACTION,0
+surprised,OTL,ASCII 'OTL' does NOT represent 'surprised',Direct,ACTION,0
+happy walking,♪~ ᕕ(ᐛ)ᕗ,ASCII '♪~ ᕕ(ᐛ)ᕗ' represents 'happy walking',Metaphorical,ACTION,1
+energetic dance,(づ￣ ³￣)づ,ASCII '(づ￣ ³￣)づ' does NOT represent 'energetic dance',Metaphorical,ACTION,0
+dizzy face,:D,ASCII ':D' does NOT represent 'dizzy face',Direct,EMOTION,0
+wave pattern,~~~,ASCII '~~~' represents 'wave pattern',Direct,OBJECT,1
+pure happiness,＼(^o^)／,ASCII '＼(^o^)／' represents 'pure happiness',Metaphorical,EMOTION,1
+extreme emphasis,******,ASCII '******' does NOT represent 'extreme emphasis',Reduplication,OBJECT,0
+disapproval stare,ಠ_ಠ,ASCII 'ಠ_ಠ' represents 'disapproval stare',Metaphorical,EMOTION,1
+growing confusion,!!! ???,ASCII '!!! ???' does NOT represent 'growing confusion',Semantic List,STATE,0
+reverse arrows,<- <-- <---,ASCII '<- <-- <---' represents 'reverse arrows',Semantic List,ACTION,1
+star pattern,.. . ..,ASCII '.. . ..' does NOT represent 'star pattern',Semantic List,STATE,0
+both hands up,\o,ASCII '\o' does NOT represent 'both hands up',Direct,ACTION,0
+many ups,^^^^^^,ASCII '^^^^^^' represents 'many ups',Reduplication,ACTION,1
+offering hug,(っ◔◡◔)っ,ASCII '(っ◔◡◔)っ' represents 'offering hug',Metaphorical,ACTION,1
+showing strength,ᕦ(ò_óˇ)ᕤ,ASCII 'ᕦ(ò_óˇ)ᕤ' represents 'showing strength',Metaphorical,ACTION,1
+horizontal line,>_<,ASCII '>_<' does NOT represent 'horizontal line',Direct,ACTION,0
+fading lines,--- - -,ASCII '--- - -' represents 'fading lines',Semantic List,OBJECT,1
+surprised,^_^,ASCII '^_^' does NOT represent 'surprised',Direct,EMOTION,0
+content smile,=),ASCII '=)' represents 'content smile',Direct,EMOTION,1
+long equals,======,ASCII '======' represents 'long equals',Reduplication,OBJECT,1
+long line,vvvvvv,ASCII 'vvvvvv' does NOT represent 'long line',Reduplication,ACTION,0
+flower girl,(◕‿◕✿),ASCII '(◕‿◕✿)' represents 'flower girl',Metaphorical,QUALITY,1
+back and forth,>>> <<<,ASCII '>>> <<<' represents 'back and forth',Semantic List,ACTION,1
+strong left,<<<<<<,ASCII '<<<<<<' represents 'strong left',Reduplication,ACTION,1
+neutral observation,(•_•),ASCII '(•_•)' represents 'neutral observation',Metaphorical,STATE,1
+growing confusion,??? ? ?,ASCII '??? ? ?' represents 'growing confusion',Semantic List,STATE,1
+suggestive look,( ͡° ͜ʖ ͡°),ASCII '( ͡° ͜ʖ ͡°)' represents 'suggestive look',Metaphorical,EMOTION,1
+heart shape,<3,ASCII '<3' represents 'heart shape',Direct,OBJECT,1
+tears of joy,(⌐■_■),ASCII '(⌐■_■)' does NOT represent 'tears of joy',Metaphorical,QUALITY,0
+squinting eyes,;),ASCII ';)' does NOT represent 'squinting eyes',Direct,EMOTION,0
+showing strength,(╯°□°）╯︵ ┻━┻,ASCII '(╯°□°）╯︵ ┻━┻' does NOT represent 'showing strength',Metaphorical,EMOTION,0
+cool attitude,(⌐■_■),ASCII '(⌐■_■)' represents 'cool attitude',Metaphorical,QUALITY,1
+hot springs,☁,ASCII '☁' does NOT represent 'hot springs',Single,OBJECT,0
+gentle smile,ヾ(⌐■_■)ノ♪,ASCII 'ヾ(⌐■_■)ノ♪' does NOT represent 'gentle smile',Metaphorical,ACTION,0
+arrow progression,^^ ^ ^^,ASCII '^^ ^ ^^' does NOT represent 'arrow progression',Semantic List,EMOTION,0
+disapproval stare,(~˘▾˘)~,ASCII '(~˘▾˘)~' does NOT represent 'disapproval stare',Metaphorical,ACTION,0
+arrow left,o,ASCII 'o' does NOT represent 'arrow left',Direct,OBJECT,0
+long line,zzzzzz,ASCII 'zzzzzz' does NOT represent 'long line',Reduplication,STATE,0
+very upset,D:,ASCII 'D:' represents 'very upset',Direct,EMOTION,1
+dancing to music,(¬‿¬),ASCII '(¬‿¬)' does NOT represent 'dancing to music',Metaphorical,EMOTION,0
+both hands up,*,ASCII '*' does NOT represent 'both hands up',Direct,OBJECT,0
+blowing kiss,(◉_◉),ASCII '(◉_◉)' does NOT represent 'blowing kiss',Metaphorical,STATE,0
+disapproval stare,ಠ_ಠ,ASCII 'ಠ_ಠ' represents 'disapproval stare',Metaphorical,EMOTION,1
+finger guns,♪~ ᕕ(ᐛ)ᕗ,ASCII '♪~ ᕕ(ᐛ)ᕗ' does NOT represent 'finger guns',Metaphorical,ACTION,0
+group sadness,:( :( :(,ASCII ':( :( :(' represents 'group sadness',Semantic List,EMOTION,1
+many ups,!!!!!,ASCII '!!!!!' does NOT represent 'many ups',Reduplication,EMOTION,0
+total confusion,++++++,ASCII '++++++' does NOT represent 'total confusion',Reduplication,OBJECT,0
+trailing off,... . . .,ASCII '... . . .' represents 'trailing off',Semantic List,STATE,1
+deep sleep,zzzzzz,ASCII 'zzzzzz' represents 'deep sleep',Reduplication,STATE,1
+check mark,♥,ASCII '♥' does NOT represent 'check mark',Single,EMOTION,0
+fading lines,--- - -,ASCII '--- - -' represents 'fading lines',Semantic List,OBJECT,1
+determined spirit,(๑•̀ㅂ•́)و✧,ASCII '(๑•̀ㅂ•́)و✧' represents 'determined spirit',Metaphorical,QUALITY,1
+club suit,♣,ASCII '♣' represents 'club suit',Single,OBJECT,1
+flower girl,(◕‿◕✿),ASCII '(◕‿◕✿)' represents 'flower girl',Metaphorical,QUALITY,1
+offering hug,ヾ(⌐■_■)ノ♪,ASCII 'ヾ(⌐■_■)ノ♪' does NOT represent 'offering hug',Metaphorical,ACTION,0
+very happy,:D,ASCII ':D' represents 'very happy',Direct,EMOTION,1
+blowing kiss,( ͡° ͜ʖ ͡°),ASCII '( ͡° ͜ʖ ͡°)' does NOT represent 'blowing kiss',Metaphorical,EMOTION,0
+horizontal line,>_<,ASCII '>_<' does NOT represent 'horizontal line',Direct,ACTION,0
+plus signs,===,ASCII '===' does NOT represent 'plus signs',Direct,OBJECT,0
+star pattern,*** ** *,ASCII '*** ** *' represents 'star pattern',Semantic List,OBJECT,1
+energetic dance,(◉_◉),ASCII '(◉_◉)' does NOT represent 'energetic dance',Metaphorical,STATE,0
+neutral observation,(•_•),ASCII '(•_•)' represents 'neutral observation',Metaphorical,STATE,1
+cute smile,(✿◠‿◠),ASCII '(✿◠‿◠)' does NOT represent 'cute smile',Metaphorical,EMOTION,0
+happy eyes pattern,^^ ^ ^^,ASCII '^^ ^ ^^' represents 'happy eyes pattern',Semantic List,EMOTION,1
+swaying dance,(~˘▾˘)~,ASCII '(~˘▾˘)~' represents 'swaying dance',Metaphorical,ACTION,1
+back and forth,>>> <<<,ASCII '>>> <<<' represents 'back and forth',Semantic List,ACTION,1
+blowing kiss,( ͡° ͜ʖ ͡°),ASCII '( ͡° ͜ʖ ͡°)' does NOT represent 'blowing kiss',Metaphorical,EMOTION,0
+blowing kiss,( ˘ ³˘)♥,ASCII '( ˘ ³˘)♥' represents 'blowing kiss',Metaphorical,ACTION,1
+sly expression,(¬‿¬),ASCII '(¬‿¬)' represents 'sly expression',Metaphorical,EMOTION,1
+energetic dance,♪┏(・o･)┛♪,ASCII '♪┏(・o･)┛♪' represents 'energetic dance',Metaphorical,ACTION,1
+continuous laughing,lolololol,ASCII 'lolololol' represents 'continuous laughing',Reduplication,EMOTION,1
+content smile,<>,ASCII '<>' does NOT represent 'content smile',Direct,OBJECT,0
