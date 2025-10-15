@@ -22,10 +22,15 @@ The AsciiTE.csv file contains the complete AsciiTE dataset with five columns:
 
 ## Dataset Statistics
 
+### Core Dataset
 - **Total instances**: 1,503 ASCII-phrase mappings
-- **Train set**: 1,052 instances (70%)
-- **Validation set**: 225 instances (15%)
-- **Test set**: 226 instances (15%)
+- All mappings are correct (entailment) examples
+
+### Textual Entailment Benchmark
+- **Total instances**: 3,006 entailment pairs (1,503 positive + 1,503 negative)
+- **Train set**: 2,104 instances (70%) - 1,055 positive, 1,049 negative
+- **Validation set**: 450 instances (15%) - 226 positive, 224 negative  
+- **Test set**: 452 instances (15%) - 222 positive, 230 negative
 
 ### Compositional Strategy Distribution:
 - **Direct**: 608 instances (40.5%) - Clear visual representations like `:)` for "happy face"
@@ -92,12 +97,42 @@ bash scripts/scaling.sh
 
 ## Benchmark Data Structure
 
+### ASCII-based Textual Entailment (AsciiTE Task)
+
+We adopt an ASCII-based Textual Entailment task to examine the capacity of models to comprehend the composition of ASCII art. This follows the approach of emoji-based textual entailment (EmoTE) used in previous work.
+
+**Task Format:**
+- **Premise (sent1)**: "This is [ASCII art]."
+- **Hypothesis (sent2)**: "This is [English phrase]."
+- **Label**: 1 (entailment) or 0 (non-entailment)
+- **Strategy**: Compositional strategy (0-4) or 6 for non-entailment
+
+An English phrase is entailed by an ASCII sequence if the sequence captures the phrase's meaning. For instance, `(๑•̀ㅂ•́)و✧` entails "determined spirit" (metaphorical composition), while `***` does not entail "determined spirit" (non-entailment).
+
+**Dataset Structure:**
 ```
 benchmark_data/
 └── ascii-textual-entailment/
-    ├── train.csv     # Training set (1,052 instances)
-    ├── val.csv       # Validation set (225 instances)
-    └── test.csv      # Test set (226 instances)
+    ├── train.csv     # Training set (2,104 instances: 1,055 positive, 1,049 negative)
+    ├── val.csv       # Validation set (450 instances: 226 positive, 224 negative)
+    └── test.csv      # Test set (452 instances: 222 positive, 230 negative)
+```
+
+**Total**: 3,006 textual entailment pairs (1,503 positive, 1,503 negative)
+
+**Strategy Mapping:**
+- 0: Direct representation
+- 1: Metaphorical representation
+- 2: Semantic list
+- 3: Reduplication
+- 4: Single symbol
+- 6: Non-entailment (negative examples)
+
+**Example:**
+```csv
+sent1,sent2,label,strategy
+This is (๑•̀ㅂ•́)و✧.,This is determined spirit.,1,1
+This is ***.,This is determined spirit.,0,6
 ```
 
 ## Code Structure

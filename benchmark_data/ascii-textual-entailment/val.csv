@@ -1,226 +1,451 @@
-EN,ASCII,Description,Compositional_strategy,Attribute
-cool dancing,ヾ(⌐■_■)ノ♪,ASCII art 'ヾ(⌐■_■)ノ♪' representing cool dancing,Metaphorical,ACTION
-one eye closed,;),ASCII art ';)' representing one eye closed,Direct,EMOTION
-angry face,>:(,ASCII art '>:(' representing angry face,Direct,EMOTION
-weeping face,T_T,ASCII art 'T_T' representing weeping face,Direct,EMOTION
-finger shooting,(☞ﾟヮﾟ)☞,ASCII art '(☞ﾟヮﾟ)☞' representing finger shooting,Metaphorical,ACTION
-reverse arrows,<- <-- <---,ASCII art '<- <-- <---' representing reverse arrows,Semantic List,ACTION
-umbrella symbol,☂,ASCII art '☂' representing umbrella symbol,Single,OBJECT
-blowing kiss,( ˘ ³˘)♥,ASCII art '( ˘ ³˘)♥' representing blowing kiss,Metaphorical,ACTION
-flower girl,(◕‿◕✿),ASCII art '(◕‿◕✿)' representing flower girl,Metaphorical,QUALITY
-pointing fingers,(☞ﾟヮﾟ)☞,ASCII art '(☞ﾟヮﾟ)☞' representing pointing fingers,Metaphorical,ACTION
-gentle smile,(✿◠‿◠),ASCII art '(✿◠‿◠)' representing gentle smile,Metaphorical,EMOTION
-dizzy face,@_@,ASCII art '@_@' representing dizzy face,Direct,EMOTION
-ecstatic,:D,ASCII art ':D' representing ecstatic,Direct,EMOTION
-neutral observation,(•_•),ASCII art '(•_•)' representing neutral observation,Metaphorical,STATE
-person waving,_o/,ASCII art '_o/' representing person waving,Direct,ACTION
-carefree joy,ヽ(´▽`)/,ASCII art 'ヽ(´▽`)/' representing carefree joy,Metaphorical,EMOTION
-carefree joy,ヽ(´▽`)/,ASCII art 'ヽ(´▽`)/' representing carefree joy,Metaphorical,EMOTION
-energetic dance,♪┏(・o･)┛♪,ASCII art '♪┏(・o･)┛♪' representing energetic dance,Metaphorical,ACTION
-bracket types,[ ] { } ( ),ASCII art '[ ] { } ( )' representing bracket types,Semantic List,OBJECT
-kissy hug,(づ￣ ³￣)づ,ASCII art '(づ￣ ³￣)づ' representing kissy hug,Metaphorical,ACTION
-concerned look,(ㆆ_ㆆ),ASCII art '(ㆆ_ㆆ)' representing concerned look,Metaphorical,EMOTION
-right arrow,-->,ASCII art '-->' representing right arrow,Direct,OBJECT
-elated,:D,ASCII art ':D' representing elated,Direct,EMOTION
-big laugh,XD,ASCII art 'XD' representing big laugh,Direct,EMOTION
-shining star,*,ASCII art '*' representing shining star,Direct,OBJECT
-x marks,XXX X X,ASCII art 'XXX X X' representing x marks,Semantic List,OBJECT
-startled,:-O,ASCII art ':-O' representing startled,Direct,EMOTION
-many ands,&&&&&&,ASCII art '&&&&&&' representing many ands,Reduplication,OBJECT
-curly brackets,{},ASCII art '{}' representing curly brackets,Direct,OBJECT
-many percents,%%%%%%,ASCII art '%%%%%%' representing many percents,Reduplication,OBJECT
-friendly wave,o/,ASCII art 'o/' representing friendly wave,Direct,ACTION
-circle pattern,ooo o o,ASCII art 'ooo o o' representing circle pattern,Semantic List,OBJECT
-uncertain,¯\_(ツ)_/¯,ASCII art '¯\_(ツ)_/¯' representing uncertain,Metaphorical,STATE
-finger guns,(☞ﾟヮﾟ)☞,ASCII art '(☞ﾟヮﾟ)☞' representing finger guns,Metaphorical,ACTION
-on the floor,OTL,ASCII art 'OTL' representing on the floor,Direct,ACTION
-content face,:),ASCII art ':)' representing content face,Direct,EMOTION
-up and down,^^^ vvv,ASCII art '^^^ vvv' representing up and down,Semantic List,ACTION
-circle pattern,ooo o o,ASCII art 'ooo o o' representing circle pattern,Semantic List,OBJECT
-disapproval stare,ಠ_ಠ,ASCII art 'ಠ_ಠ' representing disapproval stare,Metaphorical,EMOTION
-shattered heart,</3,ASCII art '</3' representing shattered heart,Direct,OBJECT
-offering hug,(っ◔◡◔)っ,ASCII art '(っ◔◡◔)っ' representing offering hug,Metaphorical,ACTION
-wave pattern,~~ ~ ~~,ASCII art '~~ ~ ~~' representing wave pattern,Semantic List,OBJECT
-cool attitude,(⌐■_■),ASCII art '(⌐■_■)' representing cool attitude,Metaphorical,QUALITY
-fading lines,--- - -,ASCII art '--- - -' representing fading lines,Semantic List,OBJECT
-dancing happily,〜(￣▽￣〜),ASCII art '〜(￣▽￣〜)' representing dancing happily,Metaphorical,ACTION
-money symbols,$$$ $ $,ASCII art '$$$ $ $' representing money symbols,Semantic List,OBJECT
-on the floor,OTL,ASCII art 'OTL' representing on the floor,Direct,ACTION
-waving hand,o/,ASCII art 'o/' representing waving hand,Direct,ACTION
-cat face,(=^･ω･^=),ASCII art '(=^･ω･^=)' representing cat face,Metaphorical,OBJECT
-friendly wave,o/,ASCII art 'o/' representing friendly wave,Direct,ACTION
-dots pattern,...,ASCII art '...' representing dots pattern,Direct,OBJECT
-frowning,:-(,ASCII art ':-(' representing frowning,Direct,EMOTION
-carefree joy,ヽ(´▽`)/,ASCII art 'ヽ(´▽`)/' representing carefree joy,Metaphorical,EMOTION
-arrow up,^,ASCII art '^' representing arrow up,Direct,OBJECT
-double point,(☞ﾟヮﾟ)☞,ASCII art '(☞ﾟヮﾟ)☞' representing double point,Metaphorical,ACTION
-thankful gesture,_/\_,ASCII art '_/\_' representing thankful gesture,Direct,ACTION
-concerned look,(ㆆ_ㆆ),ASCII art '(ㆆ_ㆆ)' representing concerned look,Metaphorical,EMOTION
-star struck,*_*,ASCII art '*_*' representing star struck,Direct,EMOTION
-cheering arms,\o/,ASCII art '\o/' representing cheering arms,Direct,ACTION
-person celebrating,\o_,ASCII art '\o_' representing person celebrating,Direct,ACTION
-arrow up,^,ASCII art '^' representing arrow up,Direct,OBJECT
-extreme emphasis,!!!!!,ASCII art '!!!!!' representing extreme emphasis,Reduplication,EMOTION
-long equals,======,ASCII art '======' representing long equals,Reduplication,OBJECT
-wave pattern,~~ ~ ~~,ASCII art '~~ ~ ~~' representing wave pattern,Semantic List,OBJECT
-intense anger,(╬ಠ益ಠ),ASCII art '(╬ಠ益ಠ)' representing intense anger,Metaphorical,EMOTION
-farewell wave,o/,ASCII art 'o/' representing farewell wave,Direct,ACTION
-reverent bow,orz,ASCII art 'orz' representing reverent bow,Direct,ACTION
-at symbols,@@@ @ @,ASCII art '@@@ @ @' representing at symbols,Semantic List,OBJECT
-squinting eyes,>_<,ASCII art '>_<' representing squinting eyes,Direct,ACTION
-wave pattern,~~ ~ ~~,ASCII art '~~ ~ ~~' representing wave pattern,Semantic List,OBJECT
-cool demeanor,(⌐■_■),ASCII art '(⌐■_■)' representing cool demeanor,Metaphorical,QUALITY
-affection symbol,<3,ASCII art '<3' representing affection symbol,Direct,OBJECT
-rightward arrow,-->,ASCII art '-->' representing rightward arrow,Direct,OBJECT
-astonished,:-O,ASCII art ':-O' representing astonished,Direct,EMOTION
-humble gesture,orz,ASCII art 'orz' representing humble gesture,Direct,ACTION
-trailing off,... . . .,ASCII art '... . . .' representing trailing off,Semantic List,STATE
-collected manner,(⌐■_■),ASCII art '(⌐■_■)' representing collected manner,Metaphorical,QUALITY
-mounting confusion,??? ? ?,ASCII art '??? ? ?' representing mounting confusion,Semantic List,STATE
-many ands,&&&&&&,ASCII art '&&&&&&' representing many ands,Reduplication,OBJECT
-love,<3,ASCII art '<3' representing love,Direct,EMOTION
-resolute attitude,(๑•̀ㅂ•́)و✧,ASCII art '(๑•̀ㅂ•́)و✧' representing resolute attitude,Metaphorical,QUALITY
-smiley face,☺,ASCII art '☺' representing smiley face,Single,EMOTION
-crying sadly,(ಥ﹏ಥ),ASCII art '(ಥ﹏ಥ)' representing crying sadly,Metaphorical,EMOTION
-crying sadly,(ಥ﹏ಥ),ASCII art '(ಥ﹏ಥ)' representing crying sadly,Metaphorical,EMOTION
-putting on glasses,( •_•)>⌐■-■,ASCII art '( •_•)>⌐■-■' representing putting on glasses,Metaphorical,ACTION
-gentle smile,(✿◠‿◠),ASCII art '(✿◠‿◠)' representing gentle smile,Metaphorical,EMOTION
-pointing back,☜(ﾟヮﾟ☜),ASCII art '☜(ﾟヮﾟ☜)' representing pointing back,Metaphorical,ACTION
-playful tongue,:P,ASCII art ':P' representing playful tongue,Direct,EMOTION
-tears of joy,ಥ_ಥ,ASCII art 'ಥ_ಥ' representing tears of joy,Metaphorical,EMOTION
-continuous laughing,lolololol,ASCII art 'lolololol' representing continuous laughing,Reduplication,EMOTION
-don't know,¯\_(ツ)_/¯,ASCII art '¯\_(ツ)_/¯' representing don't know,Metaphorical,STATE
-determined spirit,(๑•̀ㅂ•́)و✧,ASCII art '(๑•̀ㅂ•́)و✧' representing determined spirit,Metaphorical,QUALITY
-ampersands,&&& & &,ASCII art '&&& & &' representing ampersands,Semantic List,OBJECT
-calm attitude,(⌐■_■),ASCII art '(⌐■_■)' representing calm attitude,Metaphorical,QUALITY
-showing strength,ᕦ(ò_óˇ)ᕤ,ASCII art 'ᕦ(ò_óˇ)ᕤ' representing showing strength,Metaphorical,ACTION
-sad face,:(,ASCII art ':(' representing sad face,Direct,EMOTION
-bright star,*,ASCII art '*' representing bright star,Direct,OBJECT
-extreme frustration,(╯°□°）╯︵ ┻━┻,ASCII art '(╯°□°）╯︵ ┻━┻' representing extreme frustration,Metaphorical,EMOTION
-sly expression,(¬‿¬),ASCII art '(¬‿¬)' representing sly expression,Metaphorical,EMOTION
-calm attitude,(⌐■_■),ASCII art '(⌐■_■)' representing calm attitude,Metaphorical,QUALITY
-cute smile,(｡◕‿◕｡),ASCII art '(｡◕‿◕｡)' representing cute smile,Metaphorical,EMOTION
-crying pattern,TT T TT,ASCII art 'TT T TT' representing crying pattern,Semantic List,EMOTION
-box shape,[],ASCII art '[]' representing box shape,Direct,OBJECT
-hashtag emphasis,### # #,ASCII art '### # #' representing hashtag emphasis,Semantic List,OBJECT
-flower girl,(◕‿◕✿),ASCII art '(◕‿◕✿)' representing flower girl,Metaphorical,QUALITY
-pointing back,☜(ﾟヮﾟ☜),ASCII art '☜(ﾟヮﾟ☜)' representing pointing back,Metaphorical,ACTION
-collected manner,(⌐■_■),ASCII art '(⌐■_■)' representing collected manner,Metaphorical,QUALITY
-bracket types,[ ] { } ( ),ASCII art '[ ] { } ( )' representing bracket types,Semantic List,OBJECT
-putting table back,┬─┬ノ( º _ ºノ),ASCII art '┬─┬ノ( º _ ºノ)' representing putting table back,Metaphorical,ACTION
-group smiling,=) =) =),ASCII art '=) =) =)' representing group smiling,Semantic List,EMOTION
-star symbol,*,ASCII art '*' representing star symbol,Direct,OBJECT
-hands together,_/\_,ASCII art '_/\_' representing hands together,Direct,ACTION
-joyful celebration,╰(*°▽°*)╯,ASCII art '╰(*°▽°*)╯' representing joyful celebration,Metaphorical,EMOTION
-melancholy face,:(,ASCII art ':(' representing melancholy face,Direct,EMOTION
-uncertain,¯\_(ツ)_/¯,ASCII art '¯\_(ツ)_/¯' representing uncertain,Metaphorical,STATE
-strong will,(๑•̀ㅂ•́)و✧,ASCII art '(๑•̀ㅂ•́)و✧' representing strong will,Metaphorical,QUALITY
-mounting confusion,??? ? ?,ASCII art '??? ? ?' representing mounting confusion,Semantic List,STATE
-happy eyes pattern,^^ ^ ^^,ASCII art '^^ ^ ^^' representing happy eyes pattern,Semantic List,EMOTION
-cool attitude,(⌐■_■),ASCII art '(⌐■_■)' representing cool attitude,Metaphorical,QUALITY
-cool gesture,(☞ﾟヮﾟ)☞,ASCII art '(☞ﾟヮﾟ)☞' representing cool gesture,Metaphorical,ACTION
-blowing kiss,( ˘ ³˘)♥,ASCII art '( ˘ ³˘)♥' representing blowing kiss,Metaphorical,ACTION
-suave pose,(⌐■_■),ASCII art '(⌐■_■)' representing suave pose,Metaphorical,QUALITY
-curly brackets,{},ASCII art '{}' representing curly brackets,Direct,OBJECT
-direction right,-->,ASCII art '-->' representing direction right,Direct,OBJECT
-club suit,♣,ASCII art '♣' representing club suit,Single,OBJECT
-unsure,¯\_(ツ)_/¯,ASCII art '¯\_(ツ)_/¯' representing unsure,Metaphorical,STATE
-angry face,>:(,ASCII art '>:(' representing angry face,Direct,EMOTION
-heart symbol,<3,ASCII art '<3' representing heart symbol,Direct,OBJECT
-furious face,>:(,ASCII art '>:(' representing furious face,Direct,EMOTION
-pleading hands,_/\_,ASCII art '_/\_' representing pleading hands,Direct,ACTION
-pointing fingers,(☞ﾟヮﾟ)☞,ASCII art '(☞ﾟヮﾟ)☞' representing pointing fingers,Metaphorical,ACTION
-composed look,(⌐■_■),ASCII art '(⌐■_■)' representing composed look,Metaphorical,QUALITY
-dots pattern,...,ASCII art '...' representing dots pattern,Direct,OBJECT
-collected manner,(⌐■_■),ASCII art '(⌐■_■)' representing collected manner,Metaphorical,QUALITY
-carefree joy,ヽ(´▽`)/,ASCII art 'ヽ(´▽`)/' representing carefree joy,Metaphorical,EMOTION
-mounting confusion,??? ? ?,ASCII art '??? ? ?' representing mounting confusion,Semantic List,STATE
-celebrating gesture,\o/,ASCII art '\o/' representing celebrating gesture,Direct,ACTION
-joyful celebration,╰(*°▽°*)╯,ASCII art '╰(*°▽°*)╯' representing joyful celebration,Metaphorical,EMOTION
-mad face,>:(,ASCII art '>:(' representing mad face,Direct,EMOTION
-wavy line,~~~~~~,ASCII art '~~~~~~' representing wavy line,Reduplication,OBJECT
-composed look,(⌐■_■),ASCII art '(⌐■_■)' representing composed look,Metaphorical,QUALITY
-hash pattern,###,ASCII art '###' representing hash pattern,Direct,OBJECT
-concerned look,(ㆆ_ㆆ),ASCII art '(ㆆ_ㆆ)' representing concerned look,Metaphorical,EMOTION
-neutral expression,:-|,ASCII art ':-|' representing neutral expression,Direct,EMOTION
-very happy,:D,ASCII art ':D' representing very happy,Direct,EMOTION
-overjoyed,:D,ASCII art ':D' representing overjoyed,Direct,EMOTION
-group smiling,=) =) =),ASCII art '=) =) =)' representing group smiling,Semantic List,EMOTION
-sobbing expression,T_T,ASCII art 'T_T' representing sobbing expression,Direct,EMOTION
-parentheses,(),ASCII art '()' representing parentheses,Direct,OBJECT
-crying eyes,T_T,ASCII art 'T_T' representing crying eyes,Direct,EMOTION
-cool gesture,(☞ﾟヮﾟ)☞,ASCII art '(☞ﾟヮﾟ)☞' representing cool gesture,Metaphorical,ACTION
-disapproval stare,ಠ_ಠ,ASCII art 'ಠ_ಠ' representing disapproval stare,Metaphorical,EMOTION
-blowing kiss,( ˘ ³˘)♥,ASCII art '( ˘ ³˘)♥' representing blowing kiss,Metaphorical,ACTION
-suggestive look,( ͡° ͜ʖ ͡°),ASCII art '( ͡° ͜ʖ ͡°)' representing suggestive look,Metaphorical,EMOTION
-club suit,♣,ASCII art '♣' representing club suit,Single,OBJECT
-circle pattern,ooo o o,ASCII art 'ooo o o' representing circle pattern,Semantic List,OBJECT
-box shape,[],ASCII art '[]' representing box shape,Direct,OBJECT
-star struck,*_*,ASCII art '*_*' representing star struck,Direct,EMOTION
-angry face,>:(,ASCII art '>:(' representing angry face,Direct,EMOTION
-hand wave,o/,ASCII art 'o/' representing hand wave,Direct,ACTION
-ecstatic,:D,ASCII art ':D' representing ecstatic,Direct,EMOTION
-unwavering resolve,(๑•̀ㅂ•́)و✧,ASCII art '(๑•̀ㅂ•́)و✧' representing unwavering resolve,Metaphorical,QUALITY
-sleeping deeply,zzzzzz,ASCII art 'zzzzzz' representing sleeping deeply,Reduplication,STATE
-neutral observation,(•_•),ASCII art '(•_•)' representing neutral observation,Metaphorical,STATE
-laughing hard,XD,ASCII art 'XD' representing laughing hard,Direct,EMOTION
-hand wave,o/,ASCII art 'o/' representing hand wave,Direct,ACTION
-deep bow,orz,ASCII art 'orz' representing deep bow,Direct,ACTION
-kissy hug,(づ￣ ³￣)づ,ASCII art '(づ￣ ³￣)づ' representing kissy hug,Metaphorical,ACTION
-hash pattern,###,ASCII art '###' representing hash pattern,Direct,OBJECT
-circle shape,o,ASCII art 'o' representing circle shape,Direct,OBJECT
-annoyed expression,-_-,ASCII art '-_-' representing annoyed expression,Direct,EMOTION
-swaying dance,(~˘▾˘)~,ASCII art '(~˘▾˘)~' representing swaying dance,Metaphorical,ACTION
-enraged expression,>:(,ASCII art '>:(' representing enraged expression,Direct,EMOTION
-person waving,_o/,ASCII art '_o/' representing person waving,Direct,ACTION
-android smile,(҂◡_◡),ASCII art '(҂◡_◡)' representing android smile,Metaphorical,QUALITY
-extremely happy,:D,ASCII art ':D' representing extremely happy,Direct,EMOTION
-double point,(☞ﾟヮﾟ)☞,ASCII art '(☞ﾟヮﾟ)☞' representing double point,Metaphorical,ACTION
-cool demeanor,(⌐■_■),ASCII art '(⌐■_■)' representing cool demeanor,Metaphorical,QUALITY
-hashtag emphasis,### # #,ASCII art '### # #' representing hashtag emphasis,Semantic List,OBJECT
-cool attitude,(⌐■_■),ASCII art '(⌐■_■)' representing cool attitude,Metaphorical,QUALITY
-many ats,@@@@@@,ASCII art '@@@@@@' representing many ats,Reduplication,OBJECT
-ellipsis pattern,.. . ..,ASCII art '.. . ..' representing ellipsis pattern,Semantic List,STATE
-upset face,>:(,ASCII art '>:(' representing upset face,Direct,EMOTION
-finger shooting,(☞ﾟヮﾟ)☞,ASCII art '(☞ﾟヮﾟ)☞' representing finger shooting,Metaphorical,ACTION
-gentle grasp,ლ(╹◡╹ლ),ASCII art 'ლ(╹◡╹ლ)' representing gentle grasp,Metaphorical,ACTION
-slumbering,zzzzzz,ASCII art 'zzzzzz' representing slumbering,Reduplication,STATE
-sunglasses face,B),ASCII art 'B)' representing sunglasses face,Direct,EMOTION
-flexing muscles,ᕙ(⇀‸↼‶)ᕗ,ASCII art 'ᕙ(⇀‸↼‶)ᕗ' representing flexing muscles,Metaphorical,ACTION
-kissy hug,(づ￣ ³￣)づ,ASCII art '(づ￣ ³￣)づ' representing kissy hug,Metaphorical,ACTION
-ready to fight,(ง •̀_•́)ง,ASCII art '(ง •̀_•́)ง' representing ready to fight,Metaphorical,STATE
-happy eyes pattern,^^ ^ ^^,ASCII art '^^ ^ ^^' representing happy eyes pattern,Semantic List,EMOTION
-suggestive look,( ͡° ͜ʖ ͡°),ASCII art '( ͡° ͜ʖ ͡°)' representing suggestive look,Metaphorical,EMOTION
-concerned look,(ㆆ_ㆆ),ASCII art '(ㆆ_ㆆ)' representing concerned look,Metaphorical,EMOTION
-enraged expression,>:(,ASCII art '>:(' representing enraged expression,Direct,EMOTION
-shock and confusion,!!! ???,ASCII art '!!! ???' representing shock and confusion,Semantic List,STATE
-double point,(☞ﾟヮﾟ)☞,ASCII art '(☞ﾟヮﾟ)☞' representing double point,Metaphorical,ACTION
-one eye closed,;),ASCII art ';)' representing one eye closed,Direct,EMOTION
-cool demeanor,(⌐■_■),ASCII art '(⌐■_■)' representing cool demeanor,Metaphorical,QUALITY
-downcast expression,:(,ASCII art ':(' representing downcast expression,Direct,EMOTION
-stellar symbol,*,ASCII art '*' representing stellar symbol,Direct,OBJECT
-shock and confusion,!!! ???,ASCII art '!!! ???' representing shock and confusion,Semantic List,STATE
-jubilant,:D,ASCII art ':D' representing jubilant,Direct,EMOTION
-weird fighter,(ง ͠° ͟ل͜ ͡°)ง,ASCII art '(ง ͠° ͟ل͜ ͡°)ง' representing weird fighter,Metaphorical,STATE
-winking,;),ASCII art ';)' representing winking,Direct,EMOTION
-winking,;),ASCII art ';)' representing winking,Direct,EMOTION
-love struck,(｡♥‿♥｡),ASCII art '(｡♥‿♥｡)' representing love struck,Metaphorical,EMOTION
-crying eyes,T_T,ASCII art 'T_T' representing crying eyes,Direct,EMOTION
-joyful celebration,╰(*°▽°*)╯,ASCII art '╰(*°▽°*)╯' representing joyful celebration,Metaphorical,EMOTION
-ready to fight,(ง •̀_•́)ง,ASCII art '(ง •̀_•́)ง' representing ready to fight,Metaphorical,STATE
-broken heart,</3,ASCII art '</3' representing broken heart,Direct,OBJECT
-suggestive look,( ͡° ͜ʖ ͡°),ASCII art '( ͡° ͜ʖ ͡°)' representing suggestive look,Metaphorical,EMOTION
-intense anger,(╬ಠ益ಠ),ASCII art '(╬ಠ益ಠ)' representing intense anger,Metaphorical,EMOTION
-cheering arms,\o/,ASCII art '\o/' representing cheering arms,Direct,ACTION
-happy eyes,^_^,ASCII art '^_^' representing happy eyes,Direct,EMOTION
-wavy line,~~~~~~,ASCII art '~~~~~~' representing wavy line,Reduplication,OBJECT
-many pluses,++++++,ASCII art '++++++' representing many pluses,Reduplication,OBJECT
-heart shape,<3,ASCII art '<3' representing heart shape,Direct,OBJECT
-escalating confusion,??? ? ?,ASCII art '??? ? ?' representing escalating confusion,Semantic List,STATE
-east arrow,-->,ASCII art '-->' representing east arrow,Direct,OBJECT
-putting table back,┬─┬ノ( º _ ºノ),ASCII art '┬─┬ノ( º _ ºノ)' representing putting table back,Metaphorical,ACTION
-back and forth,>>> <<<,ASCII art '>>> <<<' representing back and forth,Semantic List,ACTION
-frowning,:-(,ASCII art ':-(' representing frowning,Direct,EMOTION
-squinting eyes,>_<,ASCII art '>_<' representing squinting eyes,Direct,ACTION
-total confusion,?????,ASCII art '?????' representing total confusion,Reduplication,STATE
-growing confusion,??? ? ?,ASCII art '??? ? ?' representing growing confusion,Semantic List,STATE
+sent1,sent2,label,strategy
+This is (ง ͠° ͟ل͜ ͡°)ง.,This is weird fighter.,1,1
+This is (⌐■_■).,This is finger guns.,0,6
+This is ++++++.,This is joyful celebration.,0,6
+This is :-O.,This is melancholy face.,0,6
+This is T_T.,This is crying eyes.,1,0
+This is (☞ﾟヮﾟ)☞.,This is many pluses.,0,6
+This is o/.,This is friendly wave.,1,0
+This is ooo o o.,This is deep sleep.,0,6
+This is ¯\_(ツ)_/¯.,This is extremely happy.,0,6
+This is <- <-- <---.,This is reverse arrows.,1,2
+This is (~˘▾˘)~.,This is finger guns.,0,6
+This is 〜(￣▽￣〜).,This is dancing happily.,1,1
+This is (✿◠‿◠).,This is shining star.,0,6
+This is :( :( :(.,This is horizontal line.,0,6
+This is (҂◡_◡).,This is swaying dance.,0,6
+This is (ง ͠° ͟ل͜ ͡°)ง.,This is weird fighter.,1,1
+This is ಠ_ಠ.,This is tears of joy.,0,6
+This is ??? ? ?.,This is bracket types.,0,6
+This is <--.,This is prayer gesture.,0,6
+This is ( •_•)>⌐■-■.,This is flower girl.,0,6
+This is |||.,This is vertical lines.,1,0
+This is orz.,This is reverent bow.,1,0
+This is ( ˘ ³˘)♥.,This is calm attitude.,0,6
+This is XD.,This is composed look.,0,6
+This is >>> <<<.,This is sly expression.,0,6
+This is (⌐■_■).,This is cheering arms.,0,6
+This is ^^ ^ ^^.,This is melancholy face.,0,6
+This is [ ] { } ( ).,This is bracket types.,1,2
+This is ??? ? ?.,This is love symbol.,0,6
+This is ¯\_(ツ)_/¯.,This is prayer gesture.,0,6
+This is .. . ...,This is ellipsis pattern.,1,2
+This is :D.,This is jubilant.,1,0
+This is ಠ_ಠ.,This is showing strength.,0,6
+This is *_*.,This is star struck.,1,0
+This is ?????.,This is snoring.,0,6
+This is (ಥ﹏ಥ).,This is laughing loudly.,0,6
+This is (✿◠‿◠).,This is gentle grasp.,0,6
+This is ლ(╹◡╹ლ).,This is gentle grasp.,1,1
+This is /o\.,This is hands on head.,1,0
+This is (ㆆ_ㆆ).,This is crying pattern.,0,6
+This is _/\_.,This is sun.,0,6
+This is (⌐■_■).,This is composed look.,1,1
+This is :D.,This is jubilant.,1,0
+This is orz.,This is deep bow.,1,0
+This is </3.,This is broken love.,1,0
+This is :).,This is joyful face.,1,0
+This is ... . . ..,This is celebrating gesture.,0,6
+This is >:(.,This is wave pattern.,0,6
+This is orz.,This is respectful bow.,1,0
+This is ######.,This is music note.,0,6
+This is ლ(╹◡╹ლ).,This is gentle grasp.,1,1
+This is </3.,This is deep sleep.,0,6
+This is ☜(ﾟヮﾟ☜).,This is pointing back.,1,1
+This is ♥.,This is love symbol.,1,4
+This is ( ͡° ͜ʖ ͡°).,This is suggestive look.,1,1
+This is _/\_.,This is thankful gesture.,1,0
+This is (☞ﾟヮﾟ)☞.,This is disapproval stare.,0,6
+This is (⌐■_■).,This is sad heart.,0,6
+This is (✿◠‿◠).,This is gentle smile.,1,1
+This is T_T.,This is weeping face.,1,0
+This is (⌐■_■).,This is very happy.,0,6
+This is {}.,This is curly brackets.,1,0
+This is %%%%%%.,This is many percents.,1,3
+This is ??? ? ?.,This is happy walking.,0,6
+This is (☞ﾟヮﾟ)☞.,This is finger shooting.,1,1
+This is (ง ͠° ͟ل͜ ͡°)ง.,This is weird fighter.,1,1
+This is :D.,This is very happy.,1,0
+This is :).,This is pleased expression.,1,0
+This is (☞ﾟヮﾟ)☞.,This is pointing fingers.,1,1
+This is *.,This is bright star.,1,0
+This is ??? ? ?.,This is escalating confusion.,1,2
+This is orz.,This is pointing fingers.,0,6
+This is (｡◕‿◕｡).,This is cute smile.,1,1
+This is (~˘▾˘)~.,This is composed look.,0,6
+This is (๑•̀ㅂ•́)و✧.,This is finger point.,0,6
+This is >>> <<<.,This is vertical lines.,0,6
+This is ######.,This is dancing happily.,0,6
+This is :-O.,This is flower girl.,0,6
+This is ಠ_ಠ.,This is strong right.,0,6
+This is \o.,This is arrow up.,0,6
+This is |||.,This is finger point.,0,6
+This is _/\_.,This is no idea.,0,6
+This is (๑•̀ㅂ•́)و✧.,This is gentle grasp.,0,6
+This is zzzzzz.,This is slumbering.,1,3
+This is (⌐■_■).,This is steadfast spirit.,0,6
+This is :(.,This is melancholy face.,1,0
+This is ✗.,This is diamond suit.,0,6
+This is (つ ͡° ͜ʖ ͡°)つ.,This is creepy reach.,1,1
+This is (◕‿◕✿).,This is flower girl.,1,1
+This is :).,This is extreme emphasis.,0,6
+This is ♪~ ᕕ(ᐛ)ᕗ.,This is happy walking.,1,1
+This is =).,This is weird fighter.,0,6
+This is ☜(ﾟヮﾟ☜).,This is pointing back.,1,1
+This is (ง •̀_•́)ง.,This is ready to fight.,1,1
+This is *.,This is plus signs.,0,6
+This is orz.,This is star shape.,0,6
+This is .. . ...,This is three stars.,0,6
+This is ¯\_(ツ)_/¯.,This is unsure.,1,1
+This is (◉_◉).,This is wide eyed.,1,1
+This is \o/.,This is mad face.,0,6
+This is \o/.,This is both hands up.,1,0
+This is 〜(￣▽￣〜).,This is finger shooting.,0,6
+This is o_O.,This is one eye closed.,0,6
+This is ლ(╹◡╹ლ).,This is waving hand.,0,6
+This is </3.,This is excited arms.,0,6
+This is (╬ಠ益ಠ).,This is backslash pattern.,0,6
+This is ♦.,This is diamond suit.,1,4
+This is @@@ @ @.,This is angry face.,0,6
+This is XD.,This is furious face.,0,6
+This is ┬─┬ノ( º _ ºノ).,This is greeting wave.,0,6
+This is :).,This is extreme emphasis.,0,6
+This is ♪┏(・o･)┛♪.,This is wave pattern.,0,6
+This is T_T.,This is sobbing expression.,1,0
+This is \o_.,This is calm attitude.,0,6
+This is :P.,This is playful tongue.,1,0
+This is (~˘▾˘)~.,This is swaying dance.,1,1
+This is ლ(╹◡╹ლ).,This is gentle grasp.,1,1
+This is &&& & &.,This is ampersands.,1,2
+This is @@@@@@.,This is double point.,0,6
+This is XD.,This is hearty laugh.,1,0
+This is :(.,This is finger shooting.,0,6
+This is (⌐■_■).,This is suave pose.,1,1
+This is o_O.,This is confused look.,1,0
+This is ***.,This is asterisk pattern.,1,0
+This is ლ(╹◡╹ლ).,This is gentle grasp.,1,1
+This is _/\_.,This is prayer gesture.,1,0
+This is (~˘▾˘)~.,This is swaying dance.,1,1
+This is (ง •̀_•́)ง.,This is ready to fight.,1,1
+This is .. . ...,This is putting on glasses.,0,6
+This is ✈.,This is airplane symbol.,1,4
+This is ;).,This is sorrowful face.,0,6
+This is ??? ? ?.,This is mounting confusion.,1,2
+This is :D.,This is furious face.,0,6
+This is ＼(^o^)／.,This is pure happiness.,1,1
+This is \o/.,This is excited arms.,1,0
+This is >:(.,This is irritated look.,1,0
+This is ♪┏(・o･)┛♪.,This is energetic dance.,1,1
+This is XXX X X.,This is x marks.,1,2
+This is (☞ﾟヮﾟ)☞.,This is finger guns.,1,1
+This is lolololol.,This is continuous laughing.,1,3
+This is >>> <<<.,This is hand wave.,0,6
+This is 〜(￣▽￣〜).,This is at symbols.,0,6
+This is ♪┏(・o･)┛♪.,This is increasing confusion.,0,6
+This is zzzzzz.,This is sleeping deeply.,1,3
+This is (⌐■_■).,This is hands together.,0,6
+This is ಠ_ಠ.,This is disapproval stare.,1,1
+This is (ㆆ_ㆆ).,This is concerned look.,1,1
+This is $$$ $ $.,This is hash pattern.,0,6
+This is ~~~.,This is wave pattern.,1,0
+This is !!! ???.,This is shock and confusion.,1,2
+This is </3.,This is furious face.,0,6
+This is _/\_.,This is praying hands.,1,0
+This is (๑•̀ㅂ•́)و✧.,This is jubilant.,0,6
+This is (╯°□°）╯︵ ┻━┻.,This is extreme frustration.,1,1
+This is (ಥ﹏ಥ).,This is crying sadly.,1,1
+This is <<<<<<.,This is strong left.,1,3
+This is ¯\_(ツ)_/¯.,This is deep sleep.,0,6
+This is T_T.,This is crying eyes.,1,0
+This is _/\_.,This is love icon.,0,6
+This is |||.,This is vertical lines.,1,0
+This is |||.,This is vertical lines.,1,0
+This is --- - -.,This is cool attitude.,0,6
+This is (☞ﾟヮﾟ)☞.,This is flower girl.,0,6
+This is :D.,This is gentle grasp.,0,6
+This is ^_^.,This is happy eyes.,1,0
+This is ＼(^o^)／.,This is diamond shape.,0,6
+This is XD.,This is hash pattern.,0,6
+This is <--.,This is arrow left.,1,0
+This is (⌐■_■).,This is parentheses.,0,6
+This is &&& & &.,This is ampersands.,1,2
+This is ;).,This is playful wink.,1,0
+This is ( ˘ ³˘)♥.,This is disapproval stare.,0,6
+This is ✈.,This is airplane symbol.,1,4
+This is orz.,This is dancing happily.,0,6
+This is :D.,This is rightward arrow.,0,6
+This is {}.,This is arrow left.,0,6
+This is \o/.,This is victory pose.,1,0
+This is @_@.,This is dizzy face.,1,0
+This is ( ͡° ͜ʖ ͡°).,This is hello gesture.,0,6
+This is --- - -.,This is sobbing expression.,0,6
+This is ().,This is parentheses.,1,0
+This is ^^ ^ ^^.,This is happy eyes pattern.,1,2
+This is ooo o o.,This is circle pattern.,1,2
+This is --- - -.,This is star icon.,0,6
+This is :).,This is cheerful face.,1,0
+This is (☞ﾟヮﾟ)☞.,This is cool gesture.,1,1
+This is _/\_.,This is hands together.,1,0
+This is <3.,This is very happy.,0,6
+This is :(.,This is sorrowful face.,1,0
+This is ^^^^^^.,This is many ups.,1,3
+This is ( •_•)>⌐■-■.,This is star struck.,0,6
+This is (⌐■_■).,This is suave pose.,1,1
+This is (๑•̀ㅂ•́)و✧.,This is no idea.,0,6
+This is ╰(*°▽°*)╯.,This is neutral observation.,0,6
+This is ??? ? ?.,This is increasing confusion.,1,2
+This is ### # #.,This is swaying dance.,0,6
+This is (☞ﾟヮﾟ)☞.,This is cool gesture.,1,1
+This is [].,This is reverent bow.,0,6
+This is ♪┏(・o･)┛♪.,This is group sadness.,0,6
+This is || | ||.,This is shocked.,0,6
+This is :D.,This is overjoyed.,1,0
+This is XXX X X.,This is x marks.,1,2
+This is (¬‿¬).,This is sly expression.,1,1
+This is T_T.,This is mad face.,0,6
+This is <3.,This is elated.,0,6
+This is TT T TT.,This is crying pattern.,1,2
+This is o/.,This is waving hand.,1,0
+This is (づ￣ ³￣)づ.,This is sad heart.,0,6
+This is 〜(￣▽￣〜).,This is dancing happily.,1,1
+This is ¯\_(ツ)_/¯.,This is don't know.,1,1
+This is ^_^.,This is happy eyes.,1,0
+This is ... . . ..,This is friendly wave.,0,6
+This is ( •_•)>⌐■-■.,This is guffawing.,0,6
+This is *.,This is happy eyes.,0,6
+This is _/\_.,This is very happy.,0,6
+This is (•_•).,This is affection symbol.,0,6
+This is :D.,This is putting table back.,0,6
+This is ... . . ..,This is prayer gesture.,0,6
+This is _/\_.,This is prayer gesture.,1,0
+This is :-O.,This is startled.,1,0
+This is o/.,This is waving hand.,1,0
+This is [].,This is grateful hands.,0,6
+This is 〜(￣▽￣〜).,This is star struck.,0,6
+This is ＼(^o^)／.,This is showing strength.,0,6
+This is * * *.,This is cool face.,0,6
+This is _/\_.,This is hands together.,1,0
+This is T_T.,This is tears flowing.,1,0
+This is >:(.,This is happy face.,0,6
+This is *.,This is bright star.,1,0
+This is ♪~ ᕕ(ᐛ)ᕗ.,This is sad face.,0,6
+This is :).,This is dancing to music.,0,6
+This is (ㆆ_ㆆ).,This is composed look.,0,6
+This is ☁.,This is cloud symbol.,1,4
+This is --- - -.,This is fading lines.,1,2
+This is orz.,This is humble gesture.,1,0
+This is ¯\_(ツ)_/¯.,This is do not know.,1,1
+This is -->.,This is offering hug.,0,6
+This is >:(.,This is hearty laugh.,0,6
+This is ###.,This is content smile.,0,6
+This is o.,This is ready to fight.,0,6
+This is :D.,This is very happy.,1,0
+This is +++ + +.,This is adding more.,1,2
+This is ヾ(⌐■_■)ノ♪.,This is cool dancing.,1,1
+This is 〜(￣▽￣〜).,This is dancing happily.,1,1
+This is (☞ﾟヮﾟ)☞.,This is hands raised.,0,6
+This is :).,This is crushed heart.,0,6
+This is ╰(*°▽°*)╯.,This is joyful celebration.,1,1
+This is ^_^.,This is happy eyes.,1,0
+This is zzzzzz.,This is kissy hug.,0,6
+This is \o/.,This is victory pose.,1,0
+This is orz.,This is frowning.,0,6
+This is (つ ͡° ͜ʖ ͡°)つ.,This is composed look.,0,6
+This is ┬─┬ノ( º _ ºノ).,This is envelope symbol.,0,6
+This is >:(.,This is long line.,0,6
+This is T_T.,This is hands together.,0,6
+This is ( •_•)>⌐■-■.,This is putting on glasses.,1,1
+This is ☹.,This is group smiling.,0,6
+This is (☞ﾟヮﾟ)☞.,This is cute smile.,0,6
+This is (๑•̀ㅂ•́)و✧.,This is strong will.,1,1
+This is o_O.,This is confused look.,1,0
+This is o/.,This is irritated look.,0,6
+This is \o/.,This is celebrating gesture.,1,0
+This is o/.,This is hash pattern.,0,6
+This is *_*.,This is star struck.,1,0
+This is :).,This is heartbreak.,0,6
+This is ------.,This is crying sadly.,0,6
+This is (◉_◉).,This is wide eyed.,1,1
+This is ------.,This is happy eyes pattern.,0,6
+This is :(.,This is sad face.,1,0
+This is |||.,This is vertical lines.,1,0
+This is (◕‿◕✿).,This is flower girl.,1,1
+This is o/.,This is hello gesture.,1,0
+This is (ง ͠° ͟ل͜ ͡°)ง.,This is suggestive look.,0,6
+This is ┬─┬ノ( º _ ºノ).,This is putting table back.,1,1
+This is ¯\_(ツ)_/¯.,This is no idea.,1,1
+This is (｡♥‿♥｡).,This is love struck.,1,1
+This is orz.,This is respectful bow.,1,0
+This is @@@@@@.,This is many ats.,1,3
+This is \o.,This is raising hand.,1,0
+This is (づ￣ ³￣)づ.,This is kissy hug.,1,1
+This is @@@ @ @.,This is at symbols.,1,2
+This is :D.,This is very happy.,1,0
+This is (ಥ﹏ಥ).,This is crying sadly.,1,1
+This is ヾ(⌐■_■)ノ♪.,This is cool dancing.,1,1
+This is OTL.,This is extreme emphasis.,0,6
+This is ^^ ^ ^^.,This is carefree joy.,0,6
+This is ＼(^o^)／.,This is pure happiness.,1,1
+This is (=^･ω･^=).,This is love struck.,0,6
+This is (๑•̀ㅂ•́)و✧.,This is celebrating gesture.,0,6
+This is (☞ﾟヮﾟ)☞.,This is ampersands.,0,6
+This is >:(.,This is enraged expression.,1,0
+This is \o/.,This is wide eyed.,0,6
+This is ( ͡° ͜ʖ ͡°).,This is suggestive look.,1,1
+This is %%%%%%.,This is heartbreak.,0,6
+This is o/.,This is waving hand.,1,0
+This is <- <-- <---.,This is reverse arrows.,1,2
+This is ^^ ^ ^^.,This is happy eyes pattern.,1,2
+This is ++++++.,This is friendly wave.,0,6
+This is ¯\_(ツ)_/¯.,This is blowing kiss.,0,6
+This is (⌐■_■).,This is serious face.,0,6
+This is ++++++.,This is crying pattern.,0,6
+This is *** ** *.,This is star pattern.,1,2
+This is hahahahaha.,This is laughing sound.,1,3
+This is (☞ﾟヮﾟ)☞.,This is pointing fingers.,1,1
+This is =) =) =).,This is group smiling.,1,2
+This is ✈.,This is airplane symbol.,1,4
+This is (¬‿¬).,This is clueless.,0,6
+This is ??? ? ?.,This is growing confusion.,1,2
+This is ლ(╹◡╹ლ).,This is gentle grasp.,1,1
+This is o/.,This is jubilant.,0,6
+This is (҂◡_◡).,This is heavy emphasis.,0,6
+This is ??? ? ?.,This is trailing off.,0,6
+This is ヾ(⌐■_■)ノ♪.,This is diamond shape.,0,6
+This is (☞ﾟヮﾟ)☞.,This is pointing fingers.,1,1
+This is (๑•̀ㅂ•́)و✧.,This is steadfast spirit.,1,1
+This is :D.,This is very happy.,1,0
+This is ooo o o.,This is praying hands.,0,6
+This is <>.,This is box shape.,0,6
+This is ######.,This is pure happiness.,0,6
+This is ======.,This is victory pose.,0,6
+This is || | ||.,This is wavy line.,0,6
+This is ######.,This is heavy emphasis.,1,3
+This is (◕‿◕✿).,This is flower girl.,1,1
+This is (⌐■_■).,This is calm attitude.,1,1
+This is (⌐■_■).,This is tearful eyes.,0,6
+This is o/.,This is friendly wave.,1,0
+This is >:(.,This is angry face.,1,0
+This is \o/.,This is weeping face.,0,6
+This is (╬ಠ益ಠ).,This is intense anger.,1,1
+This is ooo o o.,This is finger guns.,0,6
+This is ~~ ~ ~~.,This is resolute attitude.,0,6
+This is >:(.,This is mad face.,1,0
+This is (｡◕‿◕｡).,This is cute smile.,1,1
+This is _/\_.,This is thankful gesture.,1,0
+This is (つ ͡° ͜ʖ ͡°)つ.,This is creepy reach.,1,1
+This is </3.,This is humble gesture.,0,6
+This is </3.,This is crushed heart.,1,0
+This is _/\_.,This is growing confusion.,0,6
+This is /o\.,This is heavy emphasis.,0,6
+This is orz.,This is deep bow.,1,0
+This is ++++++.,This is arrow down.,0,6
+This is (◉_◉).,This is affection symbol.,0,6
+This is ┬─┬ノ( º _ ºノ).,This is many ups.,0,6
+This is ??? ? ?.,This is finger shooting.,0,6
+This is ¯\_(ツ)_/¯.,This is suggestive look.,0,6
+This is ┬─┬ノ( º _ ºノ).,This is putting table back.,1,1
+This is zzzzzz.,This is deep sleep.,1,3
+This is ;).,This is wave pattern.,0,6
+This is _/\_.,This is laughing sound.,0,6
+This is ᕙ(⇀‸↼‶)ᕗ.,This is very happy.,0,6
+This is ★.,This is filled star.,1,4
+This is (๑•̀ㅂ•́)و✧.,This is sad face.,0,6
+This is </3.,This is sad heart.,1,0
+This is >_<.,This is squinting eyes.,1,0
+This is :( :( :(.,This is group sadness.,1,2
+This is ^^^ vvv.,This is up and down.,1,2
+This is :(.,This is startled.,0,6
+This is --- - -.,This is fading lines.,1,2
+This is :-(.,This is ready to fight.,0,6
+This is ¯\_(ツ)_/¯.,This is clueless.,0,6
+This is *.,This is shining star.,1,0
+This is _/\_.,This is prayer gesture.,1,0
+This is /o\.,This is disapproval stare.,0,6
+This is || | ||.,This is bar pattern.,1,2
+This is (◕‿◕✿).,This is flower girl.,1,1
+This is :(.,This is tearful face.,1,0
+This is (๑•̀ㅂ•́)و✧.,This is sly expression.,0,6
+This is (☞ﾟヮﾟ)☞.,This is double point.,1,1
+This is \o_.,This is person celebrating.,1,0
+This is T_T.,This is cool attitude.,0,6
+This is <<<<<<.,This is strong left.,1,3
+This is ¯\_(ツ)_/¯.,This is uncertain.,1,1
+This is =) =) =).,This is offering hug.,0,6
+This is XD.,This is guffawing.,1,0
+This is >:(.,This is furious face.,1,0
+This is *** ** *.,This is star pattern.,1,2
+This is (☞ﾟヮﾟ)☞.,This is energetic dance.,0,6
+This is &&&&&&.,This is cute smile.,0,6
+This is <3 <3 <3.,This is star symbol.,0,6
+This is <3.,This is love icon.,1,0
+This is ¯\_(ツ)_/¯.,This is clueless.,1,1
+This is ######.,This is backslash pattern.,0,6
+This is (☞ﾟヮﾟ)☞.,This is wide eyed.,0,6
+This is ಠ_ಠ.,This is disapproval stare.,1,1
+This is _/\_.,This is long line.,0,6
+This is ┬─┬ノ( º _ ºノ).,This is putting table back.,1,1
+This is ###.,This is collected manner.,0,6
+This is <- <-- <---.,This is reverse arrows.,1,2
+This is o/.,This is gentle grasp.,0,6
+This is ✈.,This is concerned look.,0,6
+This is (~˘▾˘)~.,This is crying pattern.,0,6
+This is %%% % %.,This is percent signs.,1,2
+This is ☮.,This is flexing muscles.,0,6
+This is (ಥ﹏ಥ).,This is confused look.,0,6
+This is _/\_.,This is group smiling.,0,6
+This is <3.,This is heart symbol.,1,0
+This is ✈.,This is farewell wave.,0,6
+This is XD.,This is guffawing.,1,0
+This is (☞ﾟヮﾟ)☞.,This is furious face.,0,6
+This is \o/.,This is laughing loudly.,0,6
+This is >:(.,This is angry face.,1,0
+This is {}.,This is curly brackets.,1,0
+This is (☞ﾟヮﾟ)☞.,This is double point.,1,1
+This is ??? ??? ???.,This is celebrating gesture.,0,6
+This is ??? ? ?.,This is very upset.,0,6
+This is (ㆆ_ㆆ).,This is concerned look.,1,1
+This is // / //.,This is slash pattern.,1,2
+This is o/.,This is hand wave.,1,0
+This is hahahahaha.,This is laughing sound.,1,3
+This is :D.,This is cool gesture.,0,6
+This is (◕‿◕✿).,This is cool dancing.,0,6
+This is (҂◡_◡).,This is android smile.,1,1
+This is <3.,This is calm attitude.,0,6
+This is (✿◠‿◠).,This is gentle smile.,1,1
+This is orz.,This is circle pattern.,0,6
+This is XDXDXD.,This is extreme laughter.,1,3
+This is (☞ﾟヮﾟ)☞.,This is reverent bow.,0,6
+This is (╬ಠ益ಠ).,This is intense anger.,1,1
+This is (⌐■_■).,This is composed look.,1,1
+This is >:(.,This is mad face.,1,0
+This is zzzzzz.,This is sleeping deeply.,1,3
+This is ᕙ(⇀‸↼‶)ᕗ.,This is calm attitude.,0,6
+This is <- <-- <---.,This is crying face.,0,6
+This is 〜(￣▽￣〜).,This is elated.,0,6
+This is *.,This is cool demeanor.,0,6
+This is *_*.,This is tears of joy.,0,6
+This is (☞ﾟヮﾟ)☞.,This is dizzy face.,0,6
+This is ಠ_ಠ.,This is love struck.,0,6
+This is [].,This is box shape.,1,0
+This is :D.,This is parentheses.,0,6
+This is ᕙ(⇀‸↼‶)ᕗ.,This is flexing muscles.,1,1
+This is ♥.,This is love symbol.,1,4
+This is ___.,This is fading lines.,0,6
+This is T_T.,This is adorable face.,0,6
+This is (☞ﾟヮﾟ)☞.,This is double point.,1,1
+This is (っ◔◡◔)っ.,This is offering hug.,1,1
+This is *.,This is star icon.,1,0
+This is _/\_.,This is grateful hands.,1,0
+This is (☞ﾟヮﾟ)☞.,This is many percents.,0,6
+This is zzzzzz.,This is happy eyes pattern.,0,6
+This is (⌐■_■).,This is growing confusion.,0,6
+This is o.,This is many percents.,0,6
+This is :D.,This is love icon.,0,6
+This is >:(.,This is upset face.,1,0
+This is (｡♥‿♥｡).,This is ready to fight.,0,6
+This is :D.,This is overjoyed.,1,0
+This is ^^ ^ ^^.,This is growing confusion.,0,6
+This is :).,This is happy face.,1,0
+This is (ㆆ_ㆆ).,This is respectful bow.,0,6
+This is ( •_•)>⌐■-■.,This is sad symbol.,0,6
