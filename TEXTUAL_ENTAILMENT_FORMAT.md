@@ -2,11 +2,11 @@
 
 ## Overview
 
-The AsciiTE benchmark data has been transformed to follow the **textual entailment format** used by ELCo (Emoji-based Lexical Composition). This format is designed to evaluate how well models understand the compositional semantics of ASCII art.
+The AsciiTE benchmark data follows a **textual entailment format** designed to evaluate how well models understand the compositional semantics of ASCII art.
 
 ## Task: ASCII-based Textual Entailment (AsciiTE)
 
-Following the EmoTE (Emoji-based Textual Entailment) paradigm, we frame ASCII art comprehension as a binary entailment task.
+We frame ASCII art comprehension as a binary entailment task to evaluate compositional understanding.
 
 ### Format
 
@@ -49,7 +49,7 @@ An English phrase EN is **entailed** by an ASCII sequence ASCII if the sequence 
 
 ## Strategy Encoding
 
-Following ELCo's approach, compositional strategies are encoded as integers:
+Compositional strategies are encoded as integers for model training and evaluation:
 
 | Strategy | Code | Description | Example |
 |----------|------|-------------|---------|
@@ -89,22 +89,7 @@ For each positive example (correct ASCII-phrase pair), one negative example was 
 This ensures:
 - **Balanced dataset**: Equal positive and negative examples
 - **Realistic evaluation**: Models must distinguish correct from incorrect compositions
-- **Comparable to ELCo**: Same binary classification task structure
-
-## Comparison to ELCo
-
-### Similarities
-✓ Same task format (premise-hypothesis pairs)
-✓ Binary classification (entailment vs non-entailment)
-✓ Prefix format: "This is X."
-✓ Strategy encoding (numerical)
-✓ Balanced positive/negative examples
-✓ 70/15/15 train/val/test split
-
-### Differences
-- **ELCo**: Emoji sequences with [EM] separator (e.g., "sparkler [EM] crystal_ball")
-- **AsciiTE**: Direct ASCII art (e.g., "(๑•̀ㅂ•́)و✧")
-- **Focus**: AsciiTE emphasizes ASCII art composition vs ELCo's emoji composition
+- **Binary classification**: Entailment vs non-entailment task structure
 
 ## Usage
 
@@ -159,6 +144,6 @@ If you use this dataset format, please cite:
 ---
 
 **Generated**: October 2025  
-**Format Version**: 1.0 (ELCo-compatible)  
+**Format Version**: 1.0  
 **Total Pairs**: 3,006 (1,503 positive + 1,503 negative)
 

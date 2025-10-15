@@ -99,7 +99,7 @@ bash scripts/scaling.sh
 
 ### ASCII-based Textual Entailment (AsciiTE Task)
 
-We adopt an ASCII-based Textual Entailment task to examine the capacity of models to comprehend the composition of ASCII art. This follows the approach of emoji-based textual entailment (EmoTE) used in previous work.
+We adopt an ASCII-based Textual Entailment task to examine the capacity of models to comprehend the composition of ASCII art through binary classification.
 
 **Task Format:**
 - **Premise (sent1)**: "This is [ASCII art]."

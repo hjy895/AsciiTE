@@ -1,14 +1,14 @@
 """
 ================================================================================
-AsciiTE: ASCII-Art Textual Entailment Dataset and Evaluation (OPTIMIZED)
+AsciiTE: ASCII-Art Textual Entailment Dataset and Evaluation
 ================================================================================
-Based on "The ELCo Dataset: Bridging Emoji and Lexical Composition"
-(Yang et al., LREC-COLING 2024)
+A comprehensive dataset and benchmark for evaluating natural language models
+on ASCII art comprehension through textual entailment tasks.
 
-OPTIMIZATIONS:
-- Reduced epochs from 5 to 2 with early stopping
-- Enhanced learning rate scheduling
-- All missing figures and tables implemented
+FEATURES:
+- Binary textual entailment classification
+- 3,006 balanced entailment pairs (positive/negative)
+- Five compositional strategies for ASCII art
 - Complete error analysis and ablation studies
 ================================================================================
 """
@@ -85,7 +85,7 @@ class EarlyStopping:
 
 class AsciiArtDataset:
     """
-    Creates the AsciiTE dataset following ELCo's structure:
+    Creates the AsciiTE dataset:
     - ASCII art sequences mapped to English phrases
     - 5 compositional strategies
     - Multiple attributes (SIZE, EMOTION, ACTION, QUALITY, STATE)
@@ -378,7 +378,7 @@ class AsciiArtDataset:
         return df[:1500]  # Return exactly 1500 instances
 
 # ============================================================================
-# PART 2: DATASET LOADER (Following ELCo's approach)
+# PART 2: DATASET LOADER
 # ============================================================================
 
 class AsciiTEDataset(Dataset):
@@ -565,11 +565,11 @@ class AsciiTEModel:
         return accuracy, f1, precision, recall
 
 # ============================================================================
-# PART 4: COMPREHENSIVE EVALUATION (All metrics from ELCo)
+# PART 4: COMPREHENSIVE EVALUATION
 # ============================================================================
 
 def evaluate_model_comprehensive(model, test_loader, test_df):
-    """Comprehensive evaluation matching ELCo paper"""
+    """Comprehensive evaluation with detailed metrics"""
 
     model.model.eval()
     all_predictions = []
@@ -877,7 +877,7 @@ def create_figure6_attention_analysis(model, test_loader, test_df):
             print(f"  Correct: {'✓' if example['true_label'] == example['pred_label'] else '✗'}")
 
 def create_all_figures(results, df, save_path='./figures'):
-    """Create all figures from the ELCo paper + missing ones"""
+    """Create comprehensive figures and visualizations"""
 
     os.makedirs(save_path, exist_ok=True)
 
@@ -885,7 +885,7 @@ def create_all_figures(results, df, save_path='./figures'):
     plt.style.use('seaborn-v0_8-darkgrid')
     sns.set_palette("husl")
 
-    # Figure 1: Dataset Statistics (Like Table 1 in ELCo)
+    # Figure 1: Dataset Statistics
     fig = plt.figure(figsize=(20, 12))
 
     # 1.1: Strategy Distribution
@@ -1114,12 +1114,12 @@ def create_all_figures(results, df, save_path='./figures'):
 # ============================================================================
 
 def main():
-    """Main execution following ELCo paper exactly with optimizations"""
+    """Main execution for AsciiTE dataset generation and evaluation"""
 
     print("="*80)
-    print("AsciiTE: ASCII-Art Textual Entailment (OPTIMIZED)")
-    print("Based on ELCo (Yang et al., LREC-COLING 2024)")
-    print("OPTIMIZATIONS: Reduced epochs (2), Early stopping, Enhanced analysis")
+    print("AsciiTE: ASCII-Art Textual Entailment")
+    print("Evaluating ASCII art comprehension through textual entailment")
+    print("FEATURES: Binary classification, Early stopping, Enhanced analysis")
     print("="*80)
 
     start_time = time.time()
@@ -1133,7 +1133,7 @@ def main():
     print(f"Unique ASCII arts: {df['ascii'].nunique()}")
     print(f"Unique phrases: {df['phrase'].nunique()}")
 
-    # Dataset Statistics (Table 1 in ELCo)
+    # Dataset Statistics
     print("\n" + "="*60)
     print("TABLE 1: Dataset Statistics")
     print("="*60)
@@ -1152,7 +1152,7 @@ def main():
     # MISSING TABLE 2: Composition patterns
     create_table2_composition_patterns(df)
 
-    # Step 2: Split Dataset (70-15-15 as in ELCo)
+    # Step 2: Split Dataset (70-15-15)
     print("\n[2] Splitting Dataset (70-15-15)...")
 
     # First split: 70% train, 30% temp
@@ -1212,7 +1212,7 @@ def main():
 
         results[display_name] = test_results
 
-    # Step 4: Display Results Tables (Following ELCo paper format)
+    # Step 4: Display Results Tables
 
     # Table 3: Overall Performance
     print("\n" + "="*80)
