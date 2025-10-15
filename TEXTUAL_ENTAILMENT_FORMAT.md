@@ -133,11 +133,10 @@ This format enables research in:
 If you use this dataset format, please cite:
 
 ```bibtex
-@inproceedings{AsciiTEDataset2024,
+@inproceedings{AsciiTEDataset2026,
     title = "The AsciiTE Dataset: ASCII Art and Lexical Composition for Textual Entailment",
-    author = {Author Names},
     booktitle = "Proceedings of Conference",
-    year = "2024"
+    year = "2026"
 }
 ```
 
