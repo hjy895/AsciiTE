@@ -186,16 +186,6 @@ The AsciiTE dataset enables research in:
 - **Cross-Modal Understanding**: ASCII art as a bridge between text and visuals
 - **Cultural Communication**: Internet communication patterns
 
-## Model Performance
-
-Results from our experiments:
-
-| Model | Zero-Shot Acc | Fine-Tuned Acc |
-|-------|--------------|----------------|
-| BERT-base | 55.0% | 80.4% |
-| RoBERTa-base | 55.8% | 84.0% |
-| DeBERTa-v3 | 62.9% | 85.8% |
-
 ## Citation
 
 If you use this dataset in your research, please cite:
