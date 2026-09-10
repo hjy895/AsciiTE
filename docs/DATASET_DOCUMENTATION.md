@@ -2,7 +2,7 @@
 
 ## Overview
 
-The AsciiTE (ASCII Art Textual Entailment) dataset is a comprehensive collection of 1,503 ASCII art-phrase pair designed for textual entailment research. This dataset explores how ASCII art composes with natural language to convey meaning through various compositional strategies.
+The AsciiTE (ASCII Art Textual Entailment) dataset is a comprehensive collection of 1,503 ASCII art-phrase pairs designed for textual entailment research. This dataset explores how ASCII art composes with natural language to convey meaning through various compositional strategies.
 
 ## Dataset Composition
 
