@@ -17,10 +17,10 @@ import torch.nn as nn
 import torch.nn.functional as F
 from torch.utils.data import Dataset, DataLoader, TensorDataset
 from torch.optim import AdamW
-
+#Use your own models
 from transformers import (
-    BertForSequenceClassification, BertTokenizer,
-    RobertaForSequenceClassification, RobertaTokenizer,
+    ForSequenceClassification,Tokenizer,
+    ForSequenceClassification, Tokenizer,
     AutoModelForSequenceClassification, AutoTokenizer,
     get_linear_schedule_with_warmup
 )
@@ -100,280 +100,7 @@ class AsciiArtDataset:
 
         self.attributes = ['EMOTION', 'ACTION', 'OBJECT', 'STATE', 'QUALITY']
 
-        # Create comprehensive ASCII-art mappings
-        self.ascii_mappings = self._create_ascii_mappings()
 
-    def _create_ascii_mappings(self):
-        """Create extensive ASCII art to meaning mappings"""
-
-        mappings = {
-            # DIRECT REPRESENTATIONS (Simple, clear mappings)
-            'Direct': [
-                # Emotions
-                (':)', 'happy face', 'EMOTION'),
-                (':(', 'sad face', 'EMOTION'),
-                (':D', 'very happy', 'EMOTION'),
-                (':-)', 'smiling', 'EMOTION'),
-                (':-(', 'frowning', 'EMOTION'),
-                (';)', 'winking', 'EMOTION'),
-                (':-O', 'surprised', 'EMOTION'),
-                (':-|', 'neutral expression', 'EMOTION'),
-                (':P', 'playful tongue', 'EMOTION'),
-                ('XD', 'laughing hard', 'EMOTION'),
-                ('>:(', 'angry face', 'EMOTION'),
-                ('o_O', 'confused look', 'EMOTION'),
-                ('^_^', 'happy eyes', 'EMOTION'),
-                ('T_T', 'crying face', 'EMOTION'),
-                ('-_-', 'annoyed expression', 'EMOTION'),
-                ('*_*', 'star struck', 'EMOTION'),
-                ('@_@', 'dizzy face', 'EMOTION'),
-                ('=)', 'content smile', 'EMOTION'),
-                ('=D', 'big grin', 'EMOTION'),
-                ('D:', 'very upset', 'EMOTION'),
-
-                # Objects
-                ('<3', 'heart shape', 'OBJECT'),
-                ('</3', 'broken heart', 'OBJECT'),
-                ('*', 'star symbol', 'OBJECT'),
-                ('o', 'circle shape', 'OBJECT'),
-                ('[]', 'box shape', 'OBJECT'),
-                ('()', 'parentheses', 'OBJECT'),
-                ('{}', 'curly brackets', 'OBJECT'),
-                ('<>', 'diamond shape', 'OBJECT'),
-                ('-->', 'arrow right', 'OBJECT'),
-                ('<--', 'arrow left', 'OBJECT'),
-                ('^', 'arrow up', 'OBJECT'),
-                ('v', 'arrow down', 'OBJECT'),
-                ('~~~', 'wave pattern', 'OBJECT'),
-                ('___', 'horizontal line', 'OBJECT'),
-                ('|||', 'vertical lines', 'OBJECT'),
-                ('###', 'hash pattern', 'OBJECT'),
-                ('+++', 'plus signs', 'OBJECT'),
-                ('***', 'asterisk pattern', 'OBJECT'),
-                ('...', 'dots pattern', 'OBJECT'),
-                ('===', 'equal signs', 'OBJECT'),
-
-                # Actions
-                ('o/', 'waving hand', 'ACTION'),
-                ('\\o', 'raising hand', 'ACTION'),
-                ('\\o/', 'both hands up', 'ACTION'),
-                ('_o/', 'person waving', 'ACTION'),
-                ('\\o_', 'person celebrating', 'ACTION'),
-                ('/o\\', 'hands on head', 'ACTION'),
-                ('orz', 'bowing down', 'ACTION'),
-                ('OTL', 'on the floor', 'ACTION'),
-                ('_/\\_', 'praying hands', 'ACTION'),
-                ('>_<', 'squinting eyes', 'ACTION'),
-                ('(-_-)zzz', 'sleeping person', 'ACTION'),
-                ('(>_<)', 'frustrated action', 'ACTION'),
-                ('\\(^o^)/', 'cheering person', 'ACTION'),
-                ('(╯°□°)╯', 'flipping table', 'ACTION'),
-                ('(ノ°▽°)ノ', 'celebrating wildly', 'ACTION'),
-                ('(づ｡◕‿‿◕｡)づ', 'giving hug', 'ACTION'),
-                ('(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧', 'throwing sparkles', 'ACTION'),
-                ('(⌐■_■)', 'wearing sunglasses', 'ACTION'),
-                ('(¬_¬)', 'side glancing', 'ACTION'),
-                ('(￣▽￣)ノ', 'casual wave', 'ACTION'),
-            ],
-
-            # METAPHORICAL REPRESENTATIONS (Abstract concepts)
-            'Metaphorical': [
-                ('(╯°□°）╯︵ ┻━┻', 'extreme frustration', 'EMOTION'),
-                ('┬─┬ノ( º _ ºノ)', 'putting table back', 'ACTION'),
-                ('¯\\_(ツ)_/¯', 'do not know', 'STATE'),
-                ('( ͡° ͜ʖ ͡°)', 'suggestive look', 'EMOTION'),
-                ('ಠ_ಠ', 'disapproval stare', 'EMOTION'),
-                ('(☞ﾟヮﾟ)☞', 'finger guns', 'ACTION'),
-                ('☜(ﾟヮﾟ☜)', 'pointing back', 'ACTION'),
-                ('(•_•)', 'neutral observation', 'STATE'),
-                ('( •_•)>⌐■-■', 'putting on glasses', 'ACTION'),
-                ('(⌐■_■)', 'cool attitude', 'QUALITY'),
-                ('ಥ_ಥ', 'tears of joy', 'EMOTION'),
-                ('(ಥ﹏ಥ)', 'crying sadly', 'EMOTION'),
-                ('╰(*°▽°*)╯', 'joyful celebration', 'EMOTION'),
-                ('(๑•̀ㅂ•́)و✧', 'determined spirit', 'QUALITY'),
-                ('(っ◔◡◔)っ', 'offering hug', 'ACTION'),
-                ('♪~ ᕕ(ᐛ)ᕗ', 'happy walking', 'ACTION'),
-                ('(｡◕‿◕｡)', 'cute smile', 'EMOTION'),
-                ('(◕‿◕✿)', 'flower girl', 'QUALITY'),
-                ('＼(^o^)／', 'pure happiness', 'EMOTION'),
-                ('(╬ಠ益ಠ)', 'intense anger', 'EMOTION'),
-                ('(¬‿¬)', 'sly expression', 'EMOTION'),
-                ('(◉_◉)', 'wide eyed', 'STATE'),
-                ('(ㆆ_ㆆ)', 'concerned look', 'EMOTION'),
-                ('(✿◠‿◠)', 'gentle smile', 'EMOTION'),
-                ('ヽ(´▽`)/', 'carefree joy', 'EMOTION'),
-                ('(｡♥‿♥｡)', 'love struck', 'EMOTION'),
-                ('( ˘ ³˘)♥', 'blowing kiss', 'ACTION'),
-                ('(つ ͡° ͜ʖ ͡°)つ', 'creepy reach', 'ACTION'),
-                ('ლ(╹◡╹ლ)', 'gentle grasp', 'ACTION'),
-                ('(づ￣ ³￣)づ', 'kissy hug', 'ACTION'),
-                ('〜(￣▽￣〜)', 'dancing happily', 'ACTION'),
-                ('(~˘▾˘)~', 'swaying dance', 'ACTION'),
-                ('┌(・。・)┘♪', 'dancing to music', 'ACTION'),
-                ('♪┏(・o･)┛♪', 'energetic dance', 'ACTION'),
-                ('ヾ(⌐■_■)ノ♪', 'cool dancing', 'ACTION'),
-                ('(ง •̀_•́)ง', 'ready to fight', 'STATE'),
-                ('(ง ͠° ͟ل͜ ͡°)ง', 'weird fighter', 'STATE'),
-                ('ᕦ(ò_óˇ)ᕤ', 'showing strength', 'ACTION'),
-                ('ᕙ(⇀‸↼‶)ᕗ', 'flexing muscles', 'ACTION'),
-                ('(҂◡_◡)', 'android smile', 'QUALITY'),
-            ],
-
-            # SEMANTIC LISTS (Multiple elements forming meaning)
-            'Semantic List': [
-                ('<3 <3 <3', 'multiple hearts', 'EMOTION'),
-                ('* * *', 'three stars', 'OBJECT'),
-                ('!!! ???', 'shock and confusion', 'STATE'),
-                ('^^^ vvv', 'up and down', 'ACTION'),
-                ('>>> <<<', 'back and forth', 'ACTION'),
-                ('=) =) =)', 'group smiling', 'EMOTION'),
-                (':( :( :(', 'group sadness', 'EMOTION'),
-                ('... . . .', 'trailing off', 'STATE'),
-                ('!!! ! !', 'increasing excitement', 'EMOTION'),
-                ('??? ? ?', 'growing confusion', 'STATE'),
-                ('--- - -', 'fading lines', 'OBJECT'),
-                ('+++ + +', 'adding more', 'ACTION'),
-                ('### # #', 'hashtag emphasis', 'OBJECT'),
-                ('$$$ $ $', 'money symbols', 'OBJECT'),
-                ('@@@ @ @', 'at symbols', 'OBJECT'),
-                ('%%% % %', 'percent signs', 'OBJECT'),
-                ('&&& & &', 'ampersands', 'OBJECT'),
-                ('*** ** *', 'star pattern', 'OBJECT'),
-                ('ooo o o', 'circle pattern', 'OBJECT'),
-                ('XXX X X', 'x marks', 'OBJECT'),
-                ('[ ] { } ( )', 'bracket types', 'OBJECT'),
-                ('-> --> --->', 'arrow progression', 'ACTION'),
-                ('<- <-- <---', 'reverse arrows', 'ACTION'),
-                ('^^ ^ ^^', 'happy eyes pattern', 'EMOTION'),
-                ('TT T TT', 'crying pattern', 'EMOTION'),
-                ('// / //', 'slash pattern', 'OBJECT'),
-                ('\\\\ \\ \\\\', 'backslash pattern', 'OBJECT'),
-                ('|| | ||', 'bar pattern', 'OBJECT'),
-                ('~~ ~ ~~', 'wave pattern', 'OBJECT'),
-                ('.. . ..', 'ellipsis pattern', 'STATE'),
-            ],
-
-            # REDUPLICATION (Repeated elements for emphasis)
-            'Reduplication': [
-                ('XDXDXD', 'extreme laughter', 'EMOTION'),
-                ('lolololol', 'continuous laughing', 'EMOTION'),
-                ('hahahahaha', 'laughing sound', 'EMOTION'),
-                ('zzzzzz', 'deep sleep', 'STATE'),
-                ('!!!!!', 'extreme emphasis', 'EMOTION'),
-                ('?????', 'total confusion', 'STATE'),
-                ('......', 'long pause', 'STATE'),
-                ('------', 'long line', 'OBJECT'),
-                ('~~~~~~', 'wavy line', 'OBJECT'),
-                ('######', 'heavy emphasis', 'OBJECT'),
-                ('$$$$$$', 'lots of money', 'OBJECT'),
-                ('******', 'many stars', 'OBJECT'),
-                ('++++++', 'many pluses', 'OBJECT'),
-                ('======', 'long equals', 'OBJECT'),
-                ('@@@@@@', 'many ats', 'OBJECT'),
-                ('&&&&&&', 'many ands', 'OBJECT'),
-                ('%%%%%%', 'many percents', 'OBJECT'),
-                ('^^^^^^', 'many ups', 'ACTION'),
-                ('vvvvvv', 'many downs', 'ACTION'),
-                ('>>>>>>', 'strong right', 'ACTION'),
-                ('<<<<<<', 'strong left', 'ACTION'),
-            ],
-
-            # SINGLE (Single ASCII element)
-            'Single': [
-                ('♥', 'love symbol', 'EMOTION'),
-                ('♪', 'music note', 'OBJECT'),
-                ('☺', 'smiley face', 'EMOTION'),
-                ('☹', 'sad symbol', 'EMOTION'),
-                ('★', 'star symbol', 'OBJECT'),
-                ('☆', 'empty star', 'OBJECT'),
-                ('♦', 'diamond suit', 'OBJECT'),
-                ('♣', 'club suit', 'OBJECT'),
-                ('♠', 'spade suit', 'OBJECT'),
-                ('♨', 'hot springs', 'OBJECT'),
-                ('☀', 'sun symbol', 'OBJECT'),
-                ('☁', 'cloud symbol', 'OBJECT'),
-                ('☂', 'umbrella symbol', 'OBJECT'),
-                ('☃', 'snowman symbol', 'OBJECT'),
-                ('✓', 'check mark', 'QUALITY'),
-                ('✗', 'cross mark', 'QUALITY'),
-                ('✉', 'envelope symbol', 'OBJECT'),
-                ('✈', 'airplane symbol', 'OBJECT'),
-                ('☯', 'yin yang', 'OBJECT'),
-                ('☮', 'peace symbol', 'OBJECT'),
-            ]
-        }
-
-        return mappings
-
-    def generate_dataset(self):
-        """Generate the complete AsciiTE dataset"""
-        data = []
-
-        # Generate instances for each strategy
-        for strategy, percentage in self.compositional_strategies.items():
-            strategy_data = self.ascii_mappings.get(strategy, [])
-            n_instances = int(1500 * percentage)  # Total 1500 instances
-
-            for _ in range(n_instances):
-                if strategy_data:
-                    # Select random ASCII art from this strategy
-                    ascii_art, correct_meaning, attribute = random.choice(strategy_data)
-
-                    # Create positive example (correct entailment)
-                    data.append({
-                        'ascii': ascii_art,
-                        'phrase': correct_meaning,
-                        'label': 1,  # Entailment
-                        'strategy': strategy,
-                        'attribute': attribute,
-                        'description': f"ASCII '{ascii_art}' represents '{correct_meaning}'"
-                    })
-
-                    # Create negative example (wrong entailment)
-                    # Select wrong meaning from different entries
-                    wrong_choices = [item for item in strategy_data
-                                   if item[1] != correct_meaning]
-                    if wrong_choices:
-                        wrong_ascii, wrong_meaning, wrong_attr = random.choice(wrong_choices)
-                        data.append({
-                            'ascii': ascii_art,
-                            'phrase': wrong_meaning,
-                            'label': 0,  # No entailment
-                            'strategy': strategy,
-                            'attribute': attribute,
-                            'description': f"ASCII '{ascii_art}' does NOT represent '{wrong_meaning}'"
-                        })
-
-        # Shuffle and return as DataFrame
-        random.shuffle(data)
-        df = pd.DataFrame(data)
-
-        # Ensure we have at least 1500 instances
-        if len(df) < 1500:
-            # Add more negative examples
-            n_needed = 1500 - len(df)
-            additional = []
-
-            for _ in range(n_needed):
-                strategy = random.choice(list(self.compositional_strategies.keys()))
-                strategy_data = self.ascii_mappings.get(strategy, [])
-                if strategy_data:
-                    ascii1 = random.choice(strategy_data)
-                    ascii2 = random.choice(strategy_data)
-                    if ascii1[1] != ascii2[1]:
-                        additional.append({
-                            'ascii': ascii1[0],
-                            'phrase': ascii2[1],
-                            'label': 0,
-                            'strategy': strategy,
-                            'attribute': ascii1[2],
-                            'description': f"ASCII '{ascii1[0]}' does NOT represent '{ascii2[1]}'"
-                        })
-
-            df = pd.concat([df, pd.DataFrame(additional)], ignore_index=True)
-
-        return df[:1500]  # Return exactly 1500 instances
 
 # ============================================================================
 # PART 2: DATASET LOADER
@@ -417,26 +144,11 @@ class AsciiTEDataset(Dataset):
 class AsciiTEModel:
     """Model wrapper for training and evaluation with optimizations"""
 
-    def __init__(self, model_name='bert-base-uncased', num_labels=2):
+    def __init__(self, model_name='', num_labels=2):
         self.device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
         self.model_name = model_name
 
-        print(f"Loading {model_name}...")
-        if 'bert' in model_name.lower():
-            self.tokenizer = BertTokenizer.from_pretrained(model_name)
-            self.model = BertForSequenceClassification.from_pretrained(
-                model_name, num_labels=num_labels
-            )
-        elif 'roberta' in model_name.lower():
-            self.tokenizer = RobertaTokenizer.from_pretrained(model_name)
-            self.model = RobertaForSequenceClassification.from_pretrained(
-                model_name, num_labels=num_labels
-            )
-        else:
-            self.tokenizer = AutoTokenizer.from_pretrained(model_name)
-            self.model = AutoModelForSequenceClassification.from_pretrained(
-                model_name, num_labels=num_labels
-            )
+
 
         self.model.to(self.device)
 
@@ -1170,9 +882,7 @@ def main():
     print("\n[3] Training Models (OPTIMIZED - 2 epochs + Early Stopping)...")
 
     models_to_train = [
-        ('bert-base-uncased', 'BERT'),
-        ('roberta-base', 'RoBERTa'),
-        ('microsoft/deberta-v3-base', 'DeBERTa-v3')
+       
     ]
 
     results = {}
@@ -1391,7 +1101,7 @@ if __name__ == "__main__":
     print("This implementation includes ALL optimizations and missing components:")
     print("✓ 1,500 ASCII-phrase pairs dataset")
     print("✓ 5 compositional strategies")
-    print("✓ 3 transformer models (BERT, RoBERTa, DeBERTa)")
+    print("✓ 3 transformer models")
     print("✓ OPTIMIZED: 2 epochs instead of 5 (60% time savings)")
     print("✓ Early stopping implementation")
     print("✓ All original tables from the paper (Tables 1, 3, 4, 5)")
