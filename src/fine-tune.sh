@@ -7,7 +7,7 @@ huggingface_path=YOUR_PATH
 python asciite.py \
     --mode finetune \
     --huggingface_cache $huggingface_path \
-    --model bert-base-uncased \
+    --model \
     --dataset ../AsciiTE.csv \
     --output_dir ../benchmark_data/results/TE-finetune/ \
     --epochs 2 \
@@ -17,7 +17,7 @@ python asciite.py \
 python asciite.py \
     --mode finetune \
     --huggingface_cache $huggingface_path \
-    --model roberta-base \
+    --model  \
     --dataset ../AsciiTE.csv \
     --output_dir ../benchmark_data/results/TE-finetune/ \
     --epochs 2 \
@@ -27,7 +27,7 @@ python asciite.py \
 python asciite.py \
     --mode finetune \
     --huggingface_cache $huggingface_path \
-    --model microsoft/deberta-v3-base \
+    --model microsoft/models \
     --dataset ../AsciiTE.csv \
     --output_dir ../benchmark_data/results/TE-finetune/ \
     --epochs 2 \
