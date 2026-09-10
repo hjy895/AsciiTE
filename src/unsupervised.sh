@@ -7,21 +7,21 @@ huggingface_path=YOUR_PATH
 python asciite.py \
     --mode unsupervised \
     --huggingface_cache $huggingface_path \
-    --model bert-base-uncased \
+    --model name mentioned \
     --dataset ../AsciiTE.csv \
     --output_dir ../benchmark_data/results/TE-unsup/
 
 python asciite.py \
     --mode unsupervised \
     --huggingface_cache $huggingface_path \
-    --model roberta-base \
+    --model name mentioned \
     --dataset ../AsciiTE.csv \
     --output_dir ../benchmark_data/results/TE-unsup/
 
 python asciite.py \
     --mode unsupervised \
     --huggingface_cache $huggingface_path \
-    --model microsoft/deberta-v3-base \
+    --model name mentioned \
     --dataset ../AsciiTE.csv \
     --output_dir ../benchmark_data/results/TE-unsup/
 
