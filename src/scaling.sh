@@ -9,7 +9,7 @@ do
     python asciite.py \
         --mode finetune \
         --huggingface_cache $huggingface_path \
-        --model bert-base-uncased \
+        --model name mentioned \
         --dataset ../AsciiTE.csv \
         --output_dir ../benchmark_data/results/TE-scaling/ \
         --data_proportion $proportion \
@@ -19,7 +19,7 @@ do
     python asciite.py \
         --mode finetune \
         --huggingface_cache $huggingface_path \
-        --model roberta-base \
+        --model name mentioned \
         --dataset ../AsciiTE.csv \
         --output_dir ../benchmark_data/results/TE-scaling/ \
         --data_proportion $proportion \
@@ -29,7 +29,7 @@ do
     python asciite.py \
         --mode finetune \
         --huggingface_cache $huggingface_path \
-        --model microsoft/deberta-v3-base \
+        --model name mentioned \
         --dataset ../AsciiTE.csv \
         --output_dir ../benchmark_data/results/TE-scaling/ \
         --data_proportion $proportion \
